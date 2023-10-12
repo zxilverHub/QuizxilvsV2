@@ -1,0 +1,281 @@
+{
+    "HCI": {
+        "Chapter_1": {
+            "Definition_of_HCI": {
+                "answers": ["Human-Computer Interaction","Cognitive Science","Computer Science", "Interaction", "Information Science", "Pshychology"],
+                "questions": [
+                    {
+                        "question": "It the study of the interaction between people and computers.",
+                        "answer": ["Human-Computer Interaction","HCI","Human Computer Interaction"],
+                        "id": 1
+                    },
+                    
+                    {
+                        "question": "Is is a multidisciplinary field that draws knowledge and methods from various discipline to understand and improve the interaction between humans and computers.",
+                        "answer": ["Human-Computer Interaction","HCI","Human Computer Interaction"],
+                        "id": 2
+                    }
+                    
+                ],
+                
+                "enumeration": {
+                    "answers": ["Human", "Computer", "Interaction"],
+                    "question": "Fundamental Components of HCI",
+                    "id": 3
+                }
+            },
+
+            "History_of_HCI": {
+                "answers": ["Memex system", "Mouse", "Sketchpad", "Alto computer", "Macintosh computer", "World Wide Web", "iPhone", "Google glass"],
+                "questions": [
+                    {
+                        "question": "(1945)Vennevar Bush describes a ________, which is a precursor to hypertext.",
+                        "answer": ["Memex system"],
+                        "id": 4
+                    },
+                    
+                    {
+                        "question": "(1962)Douglas Engelbert introduces this concept ________.",
+                        "answer": ["Mouse","The first mouse"],
+                        "id": 5
+                    },
+                    
+                    {
+                        "question": "(1968)Ivan Sutherland develops ________, one of the first graphical user interfaces.",
+                        "answer": ["Sketchpad"],
+                        "id": 6
+                    },
+                    
+                    {
+                        "question": "(1973)Xerox PARC develops the ________, which features a graphical user interface similar to the Macintosh.",
+                        "answer": ["Alto computer"],
+                        "id": 7
+                    },
+                    
+                    {
+                        "question": "(1984)The ________ is released, popularizing the use of graphical user interfaces.",
+                        "answer": ["Macintosh computer"],
+                        "id": 8
+                    },
+                    
+                    {
+                        "question": "(1993)The ________ is created, which makes it possible for people to interact with computer over the internet.",
+                        "answer": ["World Wide Web","WWW"],
+                        "id": 9
+                    },
+                    
+                    {
+                        "question": "(2007)The ________ was released, which popularized the use of touchscreens.",
+                        "answer": ["iPhone","iphone","Iphone"],
+                        "id": 10
+                    },
+                    
+                    {
+                        "question": "(2011)The first commercial augmented reality(AR) headset was ________.",
+                        "answer": ["Google glass"],
+                        "id": 11
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Memex system", "Mouse", "Sketchpad", "Alto computer", "Macintosh computer", "World Wide Web", "iPhone", "Google glass"],
+                    "question": "Concepts in History of HCI",
+                    "id": 12
+                }
+            },
+
+            "Primary_Goal_of_HCI": {
+                "answers": ["Usability", "User Experience", "Accessibility", "Safety and Reliability", "Efficiency and Performance", "Adaptability and Flexibility", "Ethical and Social Considerations"],
+                "questions": [
+                    {
+                        "question": "Refers to the ease with which a user can interact with a system or product to achieve their goals. A system or product is considered usable if it is intuitive, efficient, and user-friendly.",
+                        "answer": ["Usability"],
+                        "id": 13
+                    },
+                    
+                    {
+                        "question": "Encompasses the overall feelings, perceptions, and responses of a user when interacting with a product or system. It includes aspects like satisfaction, enjoyment, efficiency, and effectiveness of the interaction.",
+                        "answer": ["User Experience"],
+                        "id": 14
+                    },
+                    
+                    {
+                        "question": "Concerned with making technology and digital content usable by individuals with disabilities. This includes ensuring that people with various impairments can perceive, understand, navigate, and interact with digital systems.",
+                        "answer": ["Accessibility"],
+                        "id": 15
+                    },
+                    
+                    {
+                        "question": "Ensuring that a system or product is free from errors, crashes, and security vulnerabilities. Users should feel confident that the technology will perform as expected without harming them or their data.",
+                        "answer": ["Safety and Reliability"],
+                        "id": 16
+                    },
+                    
+                    {
+                        "question": "Refers to the system's ability to accomplish tasks quickly and with minimal effort on the part of the user. Performance involves how well a system or product performs its intended functions.",
+                        "answer": ["Efficiency and Performance"],
+                        "id": 17
+                    },
+                    
+                    {
+                        "question": "Refer to a system's ability to adapt to different user needs or changing circumstances. An adaptable and flexible system can be customized to suit different user preferences and requirements.",
+                        "answer": ["Adaptability and Flexibility"],
+                        "id": 18
+                    },
+                    
+                    {
+                        "question": "They involve addressing the ethical implications of technology use and its impact on society. This includes issues like data privacy, security, bias, and the broader societal implications of technology.",
+                        "answer": ["Ethical and Social Considerations"],
+                        "id": 19
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Usability", "User Experience", "Accessibility", "Safety and Reliability", "Efficiency and Performance", "Adaptability and Flexibility", "Ethical and Social Considerations"],
+                    "question": "Enumerate the Primary Goal of HCI",
+                    "id": 20
+                }
+            },
+
+            "Disciplines_Contributing_to_HCI": {
+                "answers": ["Psychology", "Computer Science", "Design", "Human Factors and Ergonomics", "Cognitive Science", "Information Science", "Anthropology and Sociology", "Linguistics", "Ethnography"],
+                "questions": [
+                    {
+                        "question": "Involves the study of human behavior, cognition, and emotions as they relate to the use of technology. Psychologists in HCI research areas like user behavior, perception, decision-making, and user motivation to inform design and user experience.",
+                        "answer": ["Psychology"],
+                        "id": 21
+                    },
+                    
+                    {
+                        "question": "Provides the technical foundation for HCI. It encompasses the development of software, hardware, and systems that facilitate human-computer interaction. Computer scientists in HCI work on creating technology that is efficient, functional, and user-friendly.",
+                        "answer": ["Computer Science"],
+                        "id": 22
+                    },
+                    
+                    {
+                        "question": "Refers to the process of creating user interfaces and overall user experiences. Designers focus on the visual and interaction aspects of software and hardware to ensure that they are aesthetically pleasing and easy to use.",
+                        "answer": ["Design"],
+                        "id": 23
+                    },
+                    
+                    {
+                        "question": "This field focuses on designing technology to fit human capabilities, limitations, and comforts.",
+                        "answer": ["Human Factors and Ergonomics","Human Factor and Ergonomics","Human Factors and Ergonomic"],
+                        "id": 24
+                    },
+                    
+                    {
+                        "question": "Concerned with the study of human cognition, including memory, attention, problem-solving, and decision-making. HCI researchers draw from cognitive science to understand how users process information and make decisions when interacting with technology.",
+                        "answer": ["Cognitive Science"],
+                        "id": 25
+                    },
+                    
+                    {
+                        "question": "Involves the management and organization of information, data, and knowledge. In HCI, it's important for designing systems that present information in a structured and understandable manner.",
+                        "answer": ["Information Science"],
+                        "id": 26
+                    },
+                    
+                    {
+                        "question": "Brings a cultural and social perspective to HCI. Researchers in these fields study how technology is adopted and used in different cultural and social contexts, considering factors like values, norms, and societal impact.",
+                        "answer": ["Anthropology and Sociology"],
+                        "id": 27
+                    },
+                    
+                    {
+                        "question": "Understanding how language and communication play a role in user interfaces, voice recognition, and natural language processing. It helps in designing interfaces that effectively interpret and generate human language.",
+                        "answer": ["Linguistics","Linguistic"],
+                        "id": 28
+                    },
+                    
+                    {
+                        "question": "Is a research method used in HCI to observe and understand how people use technology in their natural environments. It involves immersive field studies to gain insights into user behaviors, needs, and contexts.",
+                        "answer": ["Ethnography"],
+                        "id": 29
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Psychology", "Computer Science", "Design", "Human Factors and Ergonomics", "Cognitive Science", "Information Science", "Anthropology and Sociology", "Linguistics", "Ethnography"],
+                    "question": "Enumerate the Disciplines Contributing to HCI",
+                    "id": 30
+                }
+            },
+
+            "Importance_of_HCI": {
+                "answers": ["User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and safety requirements"],
+                "questions": [
+                    {
+                        "question": "Involves creating interfaces and systems that are intuitive, easy to use, and enjoyable for users. It focuses on designing with the user's needs and preferences in mind, minimizing the learning curve, and providing a positive user experience.",
+                        "answer": ["User-Friendly Design","User Friendly Design"],
+                        "id": 31
+                    },
+                    
+                    {
+                        "question": "It involves designing interfaces that prevent users from making mistakes, providing clear feedback, and guiding users to achieve their goals without undue frustration.",
+                        "answer": ["Avoiding Errors and Frustration","Avoiding Error and Frustration","Avoiding Errors and Frustrations","Avoiding Error and Frustrations"],
+                        "id": 32
+                    },
+                    
+                    {
+                        "question": "Refers to designing computer systems and interfaces that align with the way users naturally work and interact in their everyday lives. It aims to make technology relevant and practical, ensuring that users can easily integrate it into their existing routines and tasks.",
+                        "answer": ["Real-World Application","Real World Application"],
+                        "id": 33
+                    },
+                    
+                    {
+                        "question": "Integrating HCI considerations into the design process means involving HCI experts and usability testing throughout the development cycle. This ensures that usability and user experience factors are considered from the initial design stages and continue to be addressed throughout the development process.",
+                        "answer": ["Integration with the Design Process","Integration with Design Process"],
+                        "id": 34
+                    },
+                    
+                    {
+                        "question": "Dealing with sensitive data or applications that may pose risks to users. It involves adhering to regulations, standards, and guidelines to protect user data, ensure product safety, and meet legal obligations in various domains.",
+                        "answer": ["Legal and Safety Requirements","Legal and Safety Requirement","Legals and Safety Requirements","Legals and Safety Requirement"],
+                        "id": 35
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and safety requirements"],
+                    "question": "Enumerate the Importance of HCI",
+                    "id": 36
+                }
+            }
+        }
+    },
+
+    "DSA": {
+        "Chapter_1": {
+            "Topic_1": {
+                "answers": [2, 3],
+                "questions": [
+                    
+                ],
+
+                "enumeration": false
+            },
+
+            "Topic_2": {
+                "answers": [0, 4],
+                "questions": [
+                    
+                ],
+
+                "enumeration": false
+            }
+        }
+    },
+
+    "OOP": {
+
+    },
+
+    "PE": {
+
+    },
+
+    "PUR_COM": {
+
+    }
+}
