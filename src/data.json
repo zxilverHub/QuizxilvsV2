@@ -242,6 +242,96 @@
                     "id": 36
                 }
             }
+        },
+
+        "Chapter_2": {  
+            "Text_Entry_Devices": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["QWERTY Keyboard", "AZERTY Keyboard", "DVORAK Keyboard", "Split design keyboard", "Microwriter", "Mobile phone keypad", "Typical Key Mapping", "Handwriting recognition", "Speach recognition"],
+                    "question": "Text Entry Devices",
+                    "id": 75
+                }
+            },
+
+            "Positioning,_Pointing,_and_Drawing": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["First Mouse", "Modern Mouse", "Laptop touchpad", "Trackball", "Thumbwheel", "Joystick", "Keyboard nipple", "Touchscreen", "Stylus light pen", "Traditional light pen", "Digitizing tablet", "Eyegaze", "Cursor keys and discrete positioning"],
+                    "question": "Positioning, Pointing, and Drawing",
+                    "id": 76
+                }
+            },
+
+            "Display_Devices": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["Bitmap displays", "Cathode Ray Tube", "Liquid Crytal Display", "The Gas Plasma Display", "Vector Display", "Projector and projector screen", "Concert Stage LED Screens", "Digital paper"],
+                    "question": "Display Devices",
+                    "id": 77
+                }
+            },
+
+            "Devices_for_VR_and_3D_Interaction": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["Cockpit and virtual controls", "3D mouse", "Dataglove", "Virtual Reality helmets", "Whole-body tracking", "Stereoscopic Vision", "Small screens fitted to a pair of goggles", "Special spectacles with polarized lenses", "Hologaphic 3D Display", "Large flight simulators", "Motorbike or skiing simulators", "General purpose rooms called caves"],
+                    "question": "Devices for VR and 3D Interaction",
+                    "id": 78
+                }
+            },
+
+            "Physical_Controls,_Sensors,_and_Special_Devices": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["Light-emitting diodes", "Gauges and dials", "Head-up Display", "Keyboards", "Telephone Keypads", "Doorbell", "Haptic Devices", "Texture analysis Technology", "Arcades Games that generate smells", "Automatic Door", "Energy saving lights", "Security Tags", "Ultrasound", "GPS", "Pressure sensors", "Body temperature sensor", "Unconscious Reaction Sensor"],
+                    "question": "Physical Controls, Sensors, and Special Devices",
+                    "id": 79
+                }
+            },
+
+            "Paper:_Printing_and_Scanning": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["Types of dot-based printers", "Types of fonts", "WYSIWYG", "Desktop Publishing", "Document storage and retrieval systems", "Optical character recognition", "Electronic publishing"],
+                    "question": "Paper: Printing and Scanning",
+                    "id": 80
+                }
+            },
+
+            "Memory": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["RAM and short-term memory", "Magnetic Disks", "Optical Disks", "Compression", "ASCII", "UNICODE standard", "Rich text format", "ISO standards", "Standard database access"],
+                    "question": "Memory",
+                    "id": 81
+                }
+            },
+
+            "Networks": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": ["Networked computing"],
+                    "question": "Networked",
+                    "id": 82
+                }
+            }
         }
     },
 
