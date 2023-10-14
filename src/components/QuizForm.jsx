@@ -104,6 +104,7 @@ function QuizForm() {
 
             <>
             { enumerationData.map((en, i) => (
+                <> { !en.size <= 0 && 
                 <div className="question-card" key={i}>
                     <p className="question">{en.question}({en.size})</p>
                     <div className="answer-inputs">
@@ -139,7 +140,8 @@ function QuizForm() {
                     </div>
                     }
                 </div>
-            )) }
+                }</>
+            ))}
             </>
             }
 

@@ -247,22 +247,277 @@
 
     "DSA": {
         "Chapter_1": {
-            "Topic_1": {
-                "answers": [2, 3],
+            "Fundamentals_Properties": {
+                "answers": ["Finiteness", "Definiteness", "Input", "Output", "Effectiveness"],
                 "questions": [
+                    {
+                        "question": "An algorithm must terminate after a finite number of steps.",
+                        "answer": ["Finiteness","Finite"],
+                        "id": 37
+                    },
                     
+                    {
+                        "question": "Algorithm is precisely defined.",
+                        "answer": ["Definiteness"],
+                        "id": 38
+                    },
+                    
+                    {
+                        "question": "Domain of the algorithm which could be zero or more quantities.",
+                        "answer": ["Input","Inputs"],
+                        "id": 39
+                    },
+                    
+                    {
+                        "question": "Set one or more resulting quantities. Also called the range of the algorithm.",
+                        "answer": ["Output","Outputs"],
+                        "id": 40
+                    },
+                    
+                    {
+                        "question": "ENsured if all the operations in the algorithm are sufficiently basic that they can, in principle, be done exactly and in finite time by a person using paper and pen.",
+                        "answer": ["Effectiveness"],
+                        "id": 41
+                    }
                 ],
 
-                "enumeration": false
+                "enumeration": {
+                    "answers": ["Finiteness", "Definiteness", "Input", "Output", "Effectiveness"],
+                    "question": "Enumerate the fundamentals properties of algorithms.",
+                    "id": 42
+                }
             },
 
-            "Topic_2": {
-                "answers": [0, 4],
+            "Mathematical_functions": {
+                "answers": ["Floor", "Ceiling", "Modulo"],
                 "questions": [
+                    {
+                        "question": "Greatest integer less than or equal to x (x is any real  number).",
+                        "answer": ["Floor"],
+                        "id": 43
+                    },
                     
+                    {
+                        "question": "Smallest integer greater than or equal to x ",
+                        "answer": ["Ceiling"],
+                        "id": 44
+                    },
+                    
+                    {
+                        "question": "Given any two real numbers x and y.",
+                        "answer": ["Modulo"],
+                        "id": 45
+                    }
                 ],
 
-                "enumeration": false
+                "enumeration": {
+                    "answers": ["Floor", "Cieling", "Modulo"],
+                    "question": "Mathematical functions",
+                    "id": 46
+                }
+            },
+
+            "Measuring_algorithm_efficiency": {
+                "answers": ["Time complexity", "Execution time", "Space complexity", "The Empirical Method", "The Theoretical Method", "Process"],
+                "questions": [
+                    {
+                        "question": "Quantifies the amount of time taken by an algorithm to run as a function of the length of the input.",
+                        "answer": ["Time complexity","Time complexity(Time Efficiency)","Time complexity (Time Efficiency)","Time Efficiency","Time complexities"],
+                        "id": 47
+                    },
+                    
+                    {
+                        "question": "Amount if time spent in executing instructions of a given akgorithm. Notation: T(n). Several factors: input size, instruction type, machine speed, quality of source of the algorithm implementation, quality of the machine code generated from the source code by the computer.",
+                        "answer": ["Execution time","Execution","Executing time"],
+                        "id": 48
+                    },
+                    
+                    {
+                        "question": "Quantifies the amount of space or memory taken by an algorithm to run as a function of the lenght of the input.",
+                        "answer": ["Space complexity","Space complexity(Space Utilization)","Space complexity(Space Utilizations)","Space complexity (Space Utilization)","Space complexity (Space Utilizations)","Space Utilization","Space Utilizations","Spaxe complexities"],
+                        "id": 49
+                    },
+                    
+                    {
+                        "question": "A method of analyzing an algorithm by determining: the number of times eacch program line runs, time required to execute each line, no. of times each procedures were called, total space alocated to run the program, etc.",
+                        "answer": ["The Empirical Method","The Empirical Methods","Empirical Method","Empirical Methods","Empirical"],
+                        "id": 50
+                    },
+
+                    {
+                        "question": "The analysis solely on the way algorithms solve problems.",
+                        "answer": ["The Theoretical Method","The Theoretical Methods","Theoretical Method","Theoretical Methods","Theoretical"],
+                        "id": 51
+                    },
+                    
+                    {
+                        "question": "What the designer can control.",
+                        "answer": ["Process","Processes"],
+                        "id": 52
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            }
+        },
+
+        "Chapter_2": {
+            "Basic_Array_Concepts": {
+                "answers": ["Array", "ArrayList", "List", "Linear list", "Generalized list", "Linked list", "Node", "Info", "Link", "Singly Linked List", "Head", "NULL", "Doubly Linked List", "Next link", "Prev link"],
+                "questions": [
+                    {
+                        "question": "It is a numbered collection of variables all of the same type.",
+                        "answer": ["Array"],
+                        "id": 53
+                    },
+                    
+                    {
+                        "question": "It provides us with dynamic arrays in java. It is similar to vector in C++.",
+                        "answer": ["ArrayList"],
+                        "id": 54
+                    },
+                    
+                    {
+                        "question": "Is a data structure that is based on sequences of items.",
+                        "answer": ["List"],
+                        "id": 55
+                    },
+                    
+                    {
+                        "question": "Contains atom elements only, and are sequentially ordered.",
+                        "answer": ["Linear list"],
+                        "id": 56
+                    },
+                    
+                    {
+                        "question": "Could contain both list and atom elements.",
+                        "answer": ["Generalized list","Generalize","Generalized","Generalize list"],
+                        "id": 57
+                    },
+                    
+                    {
+                        "question": "Is a collection of nodes that together form a linear ordering. A linear data structure in which the elements are not stored at contigous memory locations.",
+                        "answer": ["Linked list"],
+                        "id": 58
+                    },
+                    
+                    {
+                        "question": "It is a collection of two sub-elements or parts.",
+                        "answer": ["Node","Nodes"],
+                        "id": 59
+                    },
+                    
+                    {
+                        "question": "(Link list)Store relevant information.",
+                        "answer": ["Info",".info","info()",".info()"],
+                        "id": 60
+                    },
+                    
+                    {
+                        "question": "Store the address of the next node.",
+                        "answer": ["Link","Next","Link / Next","Link/Next",".next",".next()"],
+                        "id": 61
+                    },
+                    
+                    {
+                        "question": "A linked list is formed when many such nodes are linked together to form a chain.",
+                        "answer": ["Singly Linked List","Singly"],
+                        "id": 62
+                    },
+                    
+                    {
+                        "question": "Thed first node in the linked list is called.",
+                        "answer": ["Head"],
+                        "id": 63
+                    },
+                    
+                    {
+                        "question": "Last node in the linked list is pointed to.",
+                        "answer": ["NULL"],
+                        "id": 64
+                    },
+
+                    {
+                        "question": "Type of linked list that allows us to go in both directions.",
+                        "answer": ["Doubly Linked List","Doubly"],
+                        "id": 65
+                    },
+                    
+                    {
+                        "question": "Points the next node in the list.",
+                        "answer": ["Next link","next"],
+                        "id": 66
+                    },
+                    
+                    {
+                        "question": "Points the previous node in the list.",
+                        "answer": ["Prev link","prev"],
+                        "id": 67
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "ArrayList": {
+                "answers": ["add(int index, Object element)", "add(Object)", "clear()", "isEmpty()", "remove(int index)", "size()", "get(int index)"],
+                "questions": [
+                    {
+                        "question": "This method is used to appened specific element at a specific position index in a list.",
+                        "answer": ["add(int index, Object element)",".add(index, element)",".add(i, object)",".add(int, object)","add(int, object)","add(int, element)"],
+                        "id": 68
+                    },
+                    
+                    {
+                        "question": "This method is used to appened specific element to the end of a list.",
+                        "answer": ["add(Object)",".add(Object)",".add(Element)","add(Element)"],
+                        "id": 69
+                    },
+                    
+                    {
+                        "question": "This method is used to remove all the elements from any list.",
+                        "answer": ["clear()",".clear()",".clear"],
+                        "id": 70
+                    },
+                    
+                    {
+                        "question": "Returns true if the list has no elements.",
+                        "answer": ["isEmpty()","isEmpty?()",".isEmpty?()",".isEmpty()"],
+                        "id": 71
+                    },
+                    
+                    {
+                        "question": "Remove elements at the specific position in the list.",
+                        "answer": ["remove(int index)","remove(int)",".remove(int)",".remove(index)","remove?(int index)","remove?(int)","remove?(index)"],
+                        "id": 72
+                    },
+                    
+                    {
+                        "question": "Returns the number of elements in the list.",
+                        "answer": ["size()",".size()","size?()",".size?()"],
+                        "id": 73
+                    },
+                    
+                    {
+                        "question": "Returns the element at the specific position in the list.",
+                        "answer": ["get(int index)",".get(int index)",".get(int)",".get(index)","get(int)","get(index)"],
+                        "id": 74
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
             }
         }
     },

@@ -20,7 +20,6 @@ function Quiz() {
 
     const [isExpand, setIsExpand] = useState(false)
     const expand = { display: isExpand? "flex" : "none" }
-    const rotate =  { transform: isExpand? "rotate(180deg) translateY(-.5rem)" : "rotate(0)"}
 
   return (
     <div className="quiz">
@@ -31,7 +30,7 @@ function Quiz() {
             </button>
             
             <div className="quiz-type" onClick={()=>setIsExpand(!isExpand)}>
-                <p className="current-type">{type}<span className="arrow" style={rotate}>&#128899;</span></p>
+                <p className="current-type">{type}</p>
 
                 <div className="type-list" style={expand}>
                     { types.map((typ, i) => (

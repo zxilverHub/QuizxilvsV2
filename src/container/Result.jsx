@@ -73,10 +73,12 @@ function Result() {
 
         <div className="result-container">
             {results.map((result, i) => (
+                <>{ result.question!="" &&
                 <div className="result-card" key={i}>
                     <p className="question">
                         {result.question} ({getGoted(result)})
                     </p>
+                    {console.log(result)}
                     <div className="your-answers">
                         {result.userAnswers.map(ans => (
                             <p className={`${isHave(result.answers, ans)? "anwered": "wrong-en"}`}>{ans}</p>
@@ -88,6 +90,7 @@ function Result() {
                         ))}
                     </div>
                 </div>
+                }</>
             ))}
         </div>
         }

@@ -23,14 +23,11 @@
 .quiz-type {
     position: absolute;
     right: 0;
-    width: 200px;
+    width: 170px;
 }
 
 .current-type {
     width: 100%;
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
     font-weight: 600;
     background-color: rgb(251, 241, 241);
 }
@@ -41,7 +38,7 @@
 
 .current-type {
     border: 1px solid  black;
-    padding: 0 1rem .2rem 1rem;
+    padding: .2rem 1rem;
     border-radius: 5px;
     cursor: pointer;
 }
