@@ -611,7 +611,7 @@
             },
 
             "The_Basic_Process_Components_for_UX": {
-                "answers": [],
+                "answers": ["UX Design Lifecycle", "UX Design Lifecycle Process","UX Lifecycle Methods","UX Lifecycle Model","UX Lifecycle Activities","UX Lifecycle Techniques","UX Lifecycle Subactivities"],
                 "questions": [
                     {
                         "question": "It is cycle that emcompasses the process of designing a user experience, starting from ideation to deployment and beyond.",
