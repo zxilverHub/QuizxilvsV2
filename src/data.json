@@ -336,7 +336,7 @@
 
         "Chapter_3": {
             "The_User_Experience": {
-                "answers": [],
+                "answers": ["User Experience (UX)", "User Interface (UI)", "Human-Computer Interaction"],
                 "questions": [
                     {
                         "question": "The totality of effects felt by the user as a result of interacftion.",
@@ -525,7 +525,7 @@
 
             "Misconceptions_about_User_Experience": {
                 "answers": [],
-                "question": [],
+                "questions": [],
 
                 "enumeration": {
                     "answers": ["UX is not about dummy proofing or user-friendlyness.", "UX is not just dressing things up in pretty skin.", "UX is not just a diagnostic view."],
@@ -563,7 +563,7 @@
                 }
             },
 
-            "The_Need_for a_process": {
+            "The_Need_for_a_process": {
                 "answers": ["Shared Conception", "Scaffolding for Learning", "Reliability and Consistency", "Systematic Approach", "Guiding Structure"],
                 "questions": [
                     {
