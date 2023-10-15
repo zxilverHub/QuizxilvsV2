@@ -89,19 +89,19 @@
                 "questions": [
                     {
                         "question": "Refers to the ease with which a user can interact with a system or product to achieve their goals. A system or product is considered usable if it is intuitive, efficient, and user-friendly.",
-                        "answer": ["Usability"],
+                        "answer": ["Usability", "Usabilities"],
                         "id": 13
                     },
                     
                     {
                         "question": "Encompasses the overall feelings, perceptions, and responses of a user when interacting with a product or system. It includes aspects like satisfaction, enjoyment, efficiency, and effectiveness of the interaction.",
-                        "answer": ["User Experience"],
+                        "answer": ["User Experience", "User Experiences"],
                         "id": 14
                     },
                     
                     {
                         "question": "Concerned with making technology and digital content usable by individuals with disabilities. This includes ensuring that people with various impairments can perceive, understand, navigate, and interact with digital systems.",
-                        "answer": ["Accessibility"],
+                        "answer": ["Accessibility", "Accessibilities"],
                         "id": 15
                     },
                     
@@ -112,20 +112,20 @@
                     },
                     
                     {
-                        "question": "Refers to the system's ability to accomplish tasks quickly and with minimal effort on the part of the user. Performance involves how well a system or product performs its intended functions.",
-                        "answer": ["Efficiency and Performance"],
+                        "question": "Refers to the system's ability to accomplish tasks quickly and with minimal effort on the part of the user. It involves how well a system or product performs its intended functions.",
+                        "answer": ["Efficiency and Performance", "Efficiency and Performances"],
                         "id": 17
                     },
                     
                     {
                         "question": "Refer to a system's ability to adapt to different user needs or changing circumstances. An adaptable and flexible system can be customized to suit different user preferences and requirements.",
-                        "answer": ["Adaptability and Flexibility"],
+                        "answer": ["Adaptability and Flexibility", "Adaptabilities and Flexibilities"],
                         "id": 18
                     },
                     
                     {
                         "question": "They involve addressing the ethical implications of technology use and its impact on society. This includes issues like data privacy, security, bias, and the broader societal implications of technology.",
-                        "answer": ["Ethical and Social Considerations"],
+                        "answer": ["Ethical and Social Considerations", "Ethical and Social Consideration", "Ethical and Socials Considerations", "Ethical and Socials Consideration"],
                         "id": 19
                     }
                 ],
@@ -332,6 +332,337 @@
                     "id": 82
                 }
             }
+        },
+
+        "Chapter_3": {
+            "The_User_Experience": {
+                "answers": [],
+                "questions": [
+                    {
+                        "question": "The totality of effects felt by the user as a result of interacftion.",
+                        "answer": ["The user experience","User experience","UX","The user experiences","User experiences","The users experiences","users experiences","users experience"],
+                        "id": 83
+                    },
+                    
+                    {
+                        "question": "It is the overall experience that a user has when interacting with a product or service.",
+                        "answer": ["User Experience (UX)","User Experience(UX)","User Experience","UX","User Experiences","Users Experience","Users Experiences"],
+                        "id": 84
+                    },
+                    
+                    {
+                        "question": "Is the visual and interactive elements of a product or service.",
+                        "answer": ["User Interface (UI)","User Interface(UI)","User Interface","UI","Users Interface"],
+                        "id": 85
+                    },
+                    
+                    {
+                        "question": "It is a field of study that focuses on the design and use of computer technology, specifically the interaction between humans and computers",
+                        "answer": ["Human-Computer Interaction","Human Computer Interaction","HCI"],
+                        "id": 86
+                    },
+                    
+                    {
+                        "question": "It refers to the visual elements that allow users to interact with a product.",
+                        "answer": ["User Interface (UI)","User Interface(UI)","User Interface","UI","Users Interface"],
+                        "id": 87
+                    },
+                    
+                    {
+                        "question": "It foucuses on the look of the product. Typography, colors, images and more.",
+                        "answer": ["User Interface (UI)","User Interface(UI)","User Interface","UI","Users Interface"],
+                        "id": 88
+                    },
+                    
+                    {
+                        "question": "The goal is to make the product more usable, aesthetically appealing, and optimized for different screen sizes.",
+                        "answer": ["User Interface (UI)","User Interface(UI)","User Interface","UI","Users Interface"],
+                        "id": 89
+                    },
+                    
+                    {
+                        "question": "It's about feelings and emotions users experience when interacting with a product.",
+                        "answer": ["User Experience (UX)","User Experience(UX)","User Experience","UX","User Experiences","Users Experience","Users Experiences"],
+                        "id": 90
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "The_User_Experience_Design": {
+                "answers": ["User Interface Design", "User Experience Design", "Surface", "Strategy", "Scope", "Structure", "Skeleton"],
+                "questions": [
+                    {
+                        "question": "The process of creating products and experience that help users get done what theyve come to do. Satisfying users needs.",
+                        "answer": ["User Experience Design","User Experience Designs","User Experiences Designs","Users Experiences Designs","Users Experiences Design","UXD"],
+                        "id": 91
+                    },
+                    
+                    {
+                        "question": "The process of designing the visual and interactive elements of a product or service.",
+                        "answer": ["User Interface Design","User Interface Designs","User Interfaces Designs","Users Interfaces Designs","Users Interface Designs","UI Design","UID"],
+                        "id": 92
+                    },
+                    
+                    {
+                        "question": "Who and why are you designing for? (Users needs and Product Objectives)",
+                        "answer": ["Strategy", "Strategies"],
+                        "id": 93
+                    },
+                    
+                    {
+                        "question": "What are you designing, what the solutions does? (Features and COntent Requirements)",
+                        "answer": ["Scope", "Scopes"],
+                        "id": 94
+                    },
+                    
+                    {
+                        "question": "How the product or solution works, create a blueprint on how the user interact with it? (Interaction Design and information Architecture)",
+                        "answer": ["Structure", "Structures"],
+                        "id": 95
+                    },
+                    
+                    {
+                        "question": "First interface of the solution, or the tangible elements of the ux? (Information, interface and Navigation Design)",
+                        "answer": ["Skeleton"],
+                        "id": 96
+                    },
+                    
+                    {
+                        "question": "The most visible element. The users see and interact with? (Visual design)",
+                        "answer": ["Surface", "Surfaces"],
+                        "id": 97
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Importance_of_User_Experience_Design": {
+                "answers": ["Business Success", "Cost Reduction", "Safety and Convenience", "Overall User Satisfaction", "User-centric Approach"],
+                "questions": [
+                    {
+                        "question": "Refers to the positive impact that a well-designed user experience can have on a company's profitability, growth, and competitiveness.",
+                        "answer": ["Business Success"],
+                        "id": 98
+                    },
+                    
+                    {
+                        "question": "The use of prototype to reduce resources.",
+                        "answer": ["Cost Reduction", "Cost Reductions", "Costs Reduction", "Costs Reductions"],
+                        "id": 99
+                    },
+                    
+                    {
+                        "question": "Designing interfaces and interactions that prioritize user safety, security, and ease of use.",
+                        "answer": ["Safety and Convenience", "Safeties and Convenience"],
+                        "id": 100
+                    },
+                    
+                    {
+                        "question": "Refers to how well a product or system meets users' needs, expectations, and preferences, resulting in a positive user experience.",
+                        "answer": ["Overall User Satisfaction","Overall User Satisfactions","Overall Users Satisfactions"],
+                        "id": 101
+                    },
+                    
+                    {
+                        "question": ".Involves placing the needs and preferences of users at the forefront of the design and development process",
+                        "answer": ["User-centric Approach","User centric Approach","Users centric Approach","User centric Approaches"],
+                        "id": 102
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Business Success", "Cost Reduction", "Safety and Convenience", "Overall User Satisfaction", "User-centric Approach"],
+                    "question": "Importance of User Experience Design",
+                    "id": 103
+                }
+            },
+
+            "Components_of_User_Experience": {
+                "answers": ["Usability", "Usefulness", "Emotional Impact", "Meaningfulness"],
+                "questions": [
+                    {
+                        "question": "Productivity, efficiency, ease of use, learnability.",
+                        "answer": ["Usability", "Usabilities"],
+                        "id": 104
+                    },
+                    
+                    {
+                        "question": "Ability to use system or product to accomplish goals of work.",
+                        "answer": ["Usefulness"],
+                        "id": 105
+                    },
+                    
+                    {
+                        "question": "Affective component of user experience and user feelings, user satisfaction.",
+                        "answer": ["Emotional Impact", "Emotional Impacts", "Emotional Impact"],
+                        "id": 106
+                    },
+                    
+                    {
+                        "question": "Long-term personal relationship with product.",
+                        "answer": ["Meaningfulness"],
+                        "id": 107
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Usability", "Usefulness", "Emotional Impact", "Meaningfulness"],
+                    "question": "Components of User Experience",
+                    "id": 108
+                }
+            },
+
+            "Misconceptions_about_User_Experience": {
+                "answers": [],
+                "question": [],
+
+                "enumeration": {
+                    "answers": ["UX is not about dummy proofing or user-friendlyness.", "UX is not just dressing things up in pretty skin.", "UX is not just a diagnostic view."],
+                    "question": "Misconceptions about User Experience",
+                    "id": 109
+                }
+            },
+
+            "Kind_of_Interaction_and_User_Experience": {
+                "answers": ["Activity-based Interaction", "Localized Interaction", "System spanning"],
+                "questions": [
+                    {
+                        "question": "Type of interaction that has more interactions. Like gcash in shopee",
+                        "answer": ["System spanning"],
+                        "id": 110
+                    },
+        
+                    {
+                        "question": "This interaction is one purpose only or limited action",
+                        "answer": ["Localized Interaction", "Localized", "Localized Interactions", "Localize Interaction", "Localize Interactions"],
+                        "id": 111
+                    },
+                    
+                    {
+                        "question": "Perform many task in in one activity",
+                        "answer": ["Activity-based Interaction", "Activity based Interaction", "Activity-based Interactions", "Activity based Interactions"],
+                        "id": 112
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Activity-based Interaction", "Localized Interaction", "System spanning"],
+                    "question": "Kinds of Interaction and User Experience",
+                    "id": 113
+                }
+            },
+
+            "The_Need_for a_process": {
+                "answers": ["Shared Conception", "Scaffolding for Learning", "Reliability and Consistency", "Systematic Approach", "Guiding Structure"],
+                "questions": [
+                    {
+                        "question": "A step-by-step approach followed to create user-centered experience and prototypes, from unnderstanding user needs to evaluating the final design.",
+                        "answer": ["Process"],
+                        "id": 114
+                    },
+
+                    {
+                        "question": "A well-defined process provides a clear path for designing and evaluating user interfaces, ensuring that all relevant aspects are considered.",
+                        "answer": ["Guiding Structure", "Guiding Structures"],
+                        "id": 115
+                    },
+        
+                    {
+                        "question": "A process helps in systematically identifying user needs, conducting research, prototyping, testing, and iterating, leading to more effective HCI solutions.",
+                        "answer": ["Systematic Approach", "Systematic Approaches", "Systematics Approach"],
+                        "id": 116
+                    },
+        
+                    {
+                        "question": " Following a consistent process promotes reliability in design outcomes, making it easier to replicate successful designs and avoid errors.",
+                        "answer": ["Reliability and Consistency", "Reliabilities and Consistencies", "Reliabilities and Consistency", "Reliability and Consistencies"],
+                        "id": 117
+                    },
+        
+                    {
+                        "question": "A process can serve as a framework for both newcomers and experienced professionals, helping them understand and teach HCI principles and methods.",
+                        "answer": ["Scaffolding for Learning", "Scaffoldings for Learnings", "Scaffolding for Learnings", "Scaffoldings for Learnings"],
+                        "id": 118
+                    },
+        
+                    {
+                        "question": "Having a standardized process fosters a common understanding among team members, facilitating collaboration and communication in HCI projects.",
+                        "answer": ["Shared Conception", "Shared Conceptions"],
+                        "id": 119
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": ["Shared Conception", "Scaffolding for Learning", "Reliability and Consistency", "Systematic Approach", "Guiding Structure"],
+                    "question": "Benefits of Having a Process",
+                    "id": 120
+                }
+            },
+
+            "The_Basic_Process_Components_for_UX": {
+                "answers": [],
+                "questions": [
+                    {
+                        "question": "It is cycle that emcompasses the process of designing a user experience, starting from ideation to deployment and beyond.",
+                        "answer": ["UX Design Lifecycle", "UX Design Lifecycles"],
+                        "id": 122
+                    },
+                    
+                    {
+                        "question": "It is a depiction of how the activities of the lifecycle are organized and arrange in chronological.",
+                        "answer": ["UX Design Lifecycle Process", "UX Design Lifecycles Process"],
+                        "id": 123
+                    },
+                    
+                    {
+                        "question": "It is a structured framework that guides the process of designing a user experience.",
+                        "answer": ["UX Lifecycle Model", "UX Lifecycle Models", "UX Lifecycles Models"],
+                        "id": 124
+                    },
+                    
+                    {
+                        "question": "These are the essential tasks and steps that are performed during the process of creating a user experience.",
+                        "answer": ["UX Lifecycle Activities", "UX Lifecycles Activities"],
+                        "id": 125
+                    },
+                    
+                    {
+                        "question": "These are the different approaches used to carry out the main activities or subactivities in the user experience design process.",
+                        "answer": ["UX Lifecycle Methods", "UX Lifecycle Method", "UX Lifecycles Methods"],
+                        "id": 126
+                    },
+                    
+                    {
+                        "question": "These are specific, detailed practices used to perform individual steps within the activities, subactivities, or methods of the user experience design process.",
+                        "answer": ["UX Lifecycle Techniques", "UX Lifecycle Technique", "UX Lifecycles Techniques"],
+                        "id": 127
+                    },
+
+                    {
+                        "question": "Specific tasks and actions performed within each main activity if the user experience design process.",
+                        "answer": ["UX Lifecycle Subactivities", "UX Lifecycles Subactivities", "UX Lifecycle Sub-activities"],
+                        "id": 121
+                    }
+
+                ],
+
+                "enumeration": {
+                    "answers": ["UX Design Lifecycle", "UX Design Lifecycle Process","UX Lifecycle Methods","UX Lifecycle Model","UX Lifecycle Activities","UX Lifecycle Techniques","UX Lifecycle Subactivities"],
+                    "question": "The Basic Process Components for UX",
+                    "id": 128
+                }
+            }
         }
     },
 
@@ -365,7 +696,7 @@
                     },
                     
                     {
-                        "question": "ENsured if all the operations in the algorithm are sufficiently basic that they can, in principle, be done exactly and in finite time by a person using paper and pen.",
+                        "question": "Ensured if all the operations in the algorithm are sufficiently basic that they can, in principle, be done exactly and in finite time by a person using paper and pen.",
                         "answer": ["Effectiveness"],
                         "id": 41
                     }
@@ -417,7 +748,7 @@
                     },
                     
                     {
-                        "question": "Amount if time spent in executing instructions of a given akgorithm. Notation: T(n). Several factors: input size, instruction type, machine speed, quality of source of the algorithm implementation, quality of the machine code generated from the source code by the computer.",
+                        "question": "Amount of time spent in executing instructions of a given akgorithm. Notation: T(n). Several factors: input size, instruction type, machine speed, quality of source of the algorithm implementation, quality of the machine code generated from the source code by the computer.",
                         "answer": ["Execution time","Execution","Executing time"],
                         "id": 48
                     },
@@ -490,7 +821,7 @@
                     },
                     
                     {
-                        "question": "Is a collection of nodes that together form a linear ordering. A linear data structure in which the elements are not stored at contigous memory locations.",
+                        "question": "Is a collection of nodes that together form a linear ordering. A linear data structure in which the elements are not stored at contiguous memory locations.",
                         "answer": ["Linked list"],
                         "id": 58
                     },
@@ -520,7 +851,7 @@
                     },
                     
                     {
-                        "question": "Thed first node in the linked list is called.",
+                        "question": "The first node in the linked list is called.",
                         "answer": ["Head"],
                         "id": 63
                     },
