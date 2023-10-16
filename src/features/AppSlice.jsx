@@ -5,7 +5,7 @@ function userAnswer(payload) {
     let correct = false
 
     payload.main.answer.forEach(ans => {
-        if(String(ans).toLocaleLowerCase() == String(payload.answer).toLowerCase()) {
+        if(String(ans).toLocaleLowerCase().trim() == String(payload.answer).toLowerCase().trim()) {
             correct = true
         }
     })
@@ -75,7 +75,6 @@ export const appSlice = createSlice({
                 })
 
                 state.enum.originalState = enumerate
-                console.log(enumerate)
             }
         },
 
@@ -103,7 +102,7 @@ export const appSlice = createSlice({
                         
                         let isCorrect = false
                         ans.correctAnswer.forEach(cans => {
-                            if(String(cans).toLowerCase() == String(action.payload.answer).toLowerCase()) {
+                            if(String(cans).toLowerCase().trim() == String(action.payload.answer).toLowerCase().trim()) {
                                 isCorrect = true
                             }
                         })
@@ -125,7 +124,7 @@ export const appSlice = createSlice({
 
             enumState.forEach(en => {
                 if(en.id == action.payload.id) {
-                    en.userAnswers.push(action.payload.answer)
+                    en.userAnswers.push(action.payload.answer.trim())
                 }
             })
 

@@ -87,7 +87,7 @@ function QuizForm() {
                             {
                                 <>
                                 <p className="question">{topic.question}</p>
-                                <input type="text" id={topic.id} className="answer-input"
+                                <input type="text" id={topic.id} className="answer-input" autoComplete="off"
                                     onChange={(e)=>dispatch(handleAnswer({main: topic, answer: e.target.value}))}
                                 />
                                 </>
@@ -109,9 +109,18 @@ function QuizForm() {
                     <p className="question">{en.question}({en.size})</p>
                     <div className="answer-inputs">
                         <input type="text" className="enumerate-answer-input"
+                            autoComplete="off"
                             onChange={(e)=>{
                                 setValue(e.target.value)
                             }}
+
+                            onKeyDown={(e)=> {
+                                if(e.key == "Enter" && en.userAnswers.length<en.size && value != "") {
+                                    dispatch(handleAddAnswer({id: en.id, answer: value}))
+                                    setValue('')
+                                }
+                            }}
+
                             value={en.id==editingId? value: ""}
                             onClick={()=>{
                                 setEditingId(en.id)

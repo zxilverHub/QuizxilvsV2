@@ -19,7 +19,7 @@
                 ],
                 
                 "enumeration": {
-                    "answers": ["Human", "Computer", "Interaction"],
+                    "answers": [["Human", "Humans"], ["Computer", "Computers"], ["Interaction", "Interactions"]],
                     "question": "Fundamental Components of HCI",
                     "id": 3
                 }
@@ -78,7 +78,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Memex system", "Mouse", "Sketchpad", "Alto computer", "Macintosh computer", "World Wide Web", "iPhone", "Google glass"],
+                    "answers": [ ["Memex system"], ["Mouse"], ["Sketchpad"], ["Alto computer"], ["Macintosh computer"], ["World Wide Web"], ["iPhone"], ["Google glass"]],
                     "question": "Concepts in History of HCI",
                     "id": 12
                 }
@@ -131,7 +131,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Usability", "User Experience", "Accessibility", "Safety and Reliability", "Efficiency and Performance", "Adaptability and Flexibility", "Ethical and Social Considerations"],
+                    "answers": [["Usability"], ["User Experience"], ["Accessibility"], ["Safety and Reliability", "Safety and Reliabilities"], ["Efficiency and Performance", "Efficiency and Performances"], ["Adaptability and Flexibility"], ["Ethical and Social Considerations", "Ethical and Social Consideration"]],
                     "question": "Enumerate the Primary Goal of HCI",
                     "id": 20
                 }
@@ -196,7 +196,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Psychology", "Computer Science", "Design", "Human Factors and Ergonomics", "Cognitive Science", "Information Science", "Anthropology and Sociology", "Linguistics", "Ethnography"],
+                    "answers": [["Psychology"], ["Computer Science"], ["Design"], ["Human Factors and Ergonomics", "Human Factor and Ergonomic", "Human Factors and Ergonomic", "Human Factor and Ergonomics"], ["Cognitive Science"], ["Information Science"], ["Anthropology and Sociology"], ["Linguistics", "Linguistic"], ["Ethnography"]],
                     "question": "Enumerate the Disciplines Contributing to HCI",
                     "id": 30
                 }
@@ -237,7 +237,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and safety requirements"],
+                    "answers": [["User-Friendly Design", "User Friendly Design", "User-Friendly Designs", "User Friendly Designs"], ["Avoiding Errors and Frustration", "Avoiding Errors and Frustrations", "Avoiding Error and Frustrations", "Avoiding Error and Frustration"], ["Real-World Application", "Real World Application", "Real-World Applications", "Real World Applications"], ["Integration with the Design Process", "Integration with the Designs Process"], ["Legal and safety requirements"]],
                     "question": "Enumerate the Importance of HCI",
                     "id": 36
                 }
@@ -250,7 +250,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["QWERTY Keyboard", "AZERTY Keyboard", "DVORAK Keyboard", "Split design keyboard", "Microwriter", "Mobile phone keypad", "Typical Key Mapping", "Handwriting recognition", "Speach recognition"],
+                    "answers": [["QWERTY Keyboard", "QWERTY"],[ "AZERTY Keyboard", "AZERTY"], ["DVORAK Keyboard", "DVORAK"], ["Split design keyboard"], ["Microwriter"], ["Mobile phone keypad", "Mobilephone keypad", "Mobile phone keypads"], ["Typical Key Mapping"], ["Handwriting recognition", "Handwriting recognitions"], ["Speach recognition","Speach recognitions"]],
                     "question": "Text Entry Devices",
                     "id": 75
                 }
@@ -261,7 +261,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["First Mouse", "Modern Mouse", "Laptop touchpad", "Trackball", "Thumbwheel", "Joystick", "Keyboard nipple", "Touchscreen", "Stylus light pen", "Traditional light pen", "Digitizing tablet", "Eyegaze", "Cursor keys and discrete positioning"],
+                    "answers": [["First Mouse", "The First Mouse"], ["Modern Mouse", "The Modern Mouse"], ["Laptop touchpad", "Laptop touchpads"], ["Trackball", "Trackball"], ["Thumbwheel", "Thumbwheels"], ["Joystick", "The Joystick"], ["Keyboard nipple"], ["Touchscreen", "Touchscreens"], ["Stylus light pen", "Stylus pen", "Stylus"], ["Traditional light pen"], ["Digitizing tablet", "Digitizing tablets"], ["Eyegaze"], ["Cursor keys and discrete positioning", "Cursor key and discrete positionings", "Cursor keys and discrete positionings", "Cursors keys and discrete positioning"]],
                     "question": "Positioning, Pointing, and Drawing",
                     "id": 76
                 }
@@ -272,7 +272,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["Bitmap displays", "Cathode Ray Tube", "Liquid Crytal Display", "The Gas Plasma Display", "Vector Display", "Projector and projector screen", "Concert Stage LED Screens", "Digital paper"],
+                    "answers": [["Bitmap displays", "Bitmap display"], ["Cathode Ray Tube"], ["Liquid Crytal Display", "Liquid Crytal Displays"], ["The Gas Plasma Display", "The Gas Plasma Displays"], ["Vector Display", "Vector Displays"], ["Projector and projector screen", "Projectors and projectors screens", "Projectors and projectors screen", "Projectors and projector screens", "Projector and projector screens"], ["Concert Stage LED Screens", "Concert Stage LED Screen",  "Concert Stage LED Screens"], ["Digital paper", "Digital papers"]],
                     "question": "Display Devices",
                     "id": 77
                 }
@@ -283,7 +283,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["Cockpit and virtual controls", "3D mouse", "Dataglove", "Virtual Reality helmets", "Whole-body tracking", "Stereoscopic Vision", "Small screens fitted to a pair of goggles", "Special spectacles with polarized lenses", "Hologaphic 3D Display", "Large flight simulators", "Motorbike or skiing simulators", "General purpose rooms called caves"],
+                    "answers": [["Cockpit and virtual controls", "Cockpit and virtual control"], ["3D mouse"], ["Dataglove", "Datagloves"], ["Virtual Reality helmets", "Virtual Reality helmet"], ["Whole-body tracking", "Whole body tracking"], ["Stereoscopic Vision", "Stereoscopic Visions"], ["Small screens fitted to a pair of goggles"], ["Special spectacles with polarized lenses"], ["Hologaphic 3D Display", "Hologaphics 3D Displays", "Hologaphic 3D Displays"], ["Large flight simulators", "Large flight simulator", "Large flights simulators", "Large flights simulator"], ["Motorbike or skiing simulators", "Motorbike or skiing simulator", "Motorbikes or skiing simulators"], ["General purpose rooms called caves"], "General purpose rooms called cave"],
                     "question": "Devices for VR and 3D Interaction",
                     "id": 78
                 }
@@ -294,7 +294,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["Light-emitting diodes", "Gauges and dials", "Head-up Display", "Keyboards", "Telephone Keypads", "Doorbell", "Haptic Devices", "Texture analysis Technology", "Arcades Games that generate smells", "Automatic Door", "Energy saving lights", "Security Tags", "Ultrasound", "GPS", "Pressure sensors", "Body temperature sensor", "Unconscious Reaction Sensor"],
+                    "answers": [["Light-emitting diodes", "Light-emitting diode", "Light emitting diodes"], ["Gauges and dials", "Gauge and dials"], "Gauge and dial", ["Head-up Display", "Head-up Displays", "Head up Displays", "Head-ups Display"], ["Keyboards", "Keyboard"], ["Telephone Keypads", "Telephone Keypad", "Telephones Keypads"], ["Doorbell", "Doorbell"], ["Haptic Devices", "Haptics Devices", "Haptics Device"], ["Texture analysis Technology"], ["Arcades Games that generate smells"], ["Automatic Door", "Automatic Doors"], ["Energy saving lights"], ["Security Tags", "Security Tag"], ["Ultrasound", "Ultrasounds"], ["GPS"], ["Pressure sensors"], "Pressure sensor", ["Body temperature sensor", "Body temperature sensors", "Body temperatures sensors", "Body temperatures sensor"], ["Unconscious Reaction Sensor", "Unconscious Reaction Sensors", "Unconscious Reactions Sensor", "Unconscious Reactions Sensors"]],
                     "question": "Physical Controls, Sensors, and Special Devices",
                     "id": 79
                 }
@@ -305,7 +305,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["Types of dot-based printers", "Types of fonts", "WYSIWYG", "Desktop Publishing", "Document storage and retrieval systems", "Optical character recognition", "Electronic publishing"],
+                    "answers": [["Types of dot-based printers", "Types of dot based printer", "Types of dot based printers"], ["Types of fonts", "Types of font"], ["WYSIWYG"], ["Desktop Publishing", "Desktops Publishing"], ["Document storage and retrieval systems", "Document storage and retrieval system"], ["Optical character recognition", "Optical character recognitions"], ["Electronic publishing", "Electronics publishing"]],
                     "question": "Paper: Printing and Scanning",
                     "id": 80
                 }
@@ -316,7 +316,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["RAM and short-term memory", "Magnetic Disks", "Optical Disks", "Compression", "ASCII", "UNICODE standard", "Rich text format", "ISO standards", "Standard database access"],
+                    "answers": [["RAM and short-term memory"], ["Magnetic Disks", "Magnetic Disk"], ["Optical Disks", "Optical Disk"], ["Compression"], ["ASCII"], ["UNICODE standard", "UNICODE standards"], ["Rich text format", "Rich text formats"], ["ISO standards", "ISO standard"], ["Standard database access"]],
                     "question": "Memory",
                     "id": 81
                 }
@@ -327,7 +327,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["Networked computing"],
+                    "answers": [["Networked computing"]],
                     "question": "Networked",
                     "id": 82
                 }
@@ -340,7 +340,7 @@
                 "questions": [
                     {
                         "question": "The totality of effects felt by the user as a result of interacftion.",
-                        "answer": ["The user experience","User experience","UX","The user experiences","User experiences","The users experiences","users experiences","users experience"],
+                        "answer": ["The user experience","User experience","UX","The user experiences","User experiences","The users experiences","users experiences","users experience", "User Experience (UX)", "UX", "User Experience(UX)", "(UX)"],
                         "id": 83
                     },
                     
@@ -482,7 +482,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Business Success", "Cost Reduction", "Safety and Convenience", "Overall User Satisfaction", "User-centric Approach"],
+                    "answers": [["Business Success"], ["Cost Reduction", "Cost Reductions", "Costs Reduction", "Costs Reductions"], ["Safety and Convenience"], ["Overall User Satisfaction", "Overall User's Satisfactions"],["User-centric Approach", "User centric Approach", "User centric Approaches"]],
                     "question": "Importance of User Experience Design",
                     "id": 103
                 }
@@ -517,7 +517,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Usability", "Usefulness", "Emotional Impact", "Meaningfulness"],
+                    "answers": [["Usability"], ["Usefulness"], ["Emotional Impact", "Emotional Impacts"], ["Meaningfulness"]],
                     "question": "Components of User Experience",
                     "id": 108
                 }
@@ -528,7 +528,9 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": ["UX is not about dummy proofing or user-friendlyness.", "UX is not just dressing things up in pretty skin.", "UX is not just a diagnostic view."],
+                    "answers": [["UX is not about dummy proofing or user-friendlyness.", "UX is not about dummy proofing or user-friendlyness", "UX is not about dummy proofing or user friendlyness.", "UX is not about dummy proofing or user friendlyness"], 
+                                ["UX is not just dressing things up in pretty skin.", "UX is not just dressing things up in pretty skin", "UX is not just dressing things up in pretty skins", "UX is not just dressing things up in pretty skins."], 
+                                ["UX is not just a diagnostic view.", "UX is not just a diagnostic view", "UX is not just a diagnostic views", "UX is not just a diagnostic views.", "UX is not just a diagnostics views", "UX is not just a diagnostics views.", "UX is not just a diagnostics view."]],
                     "question": "Misconceptions about User Experience",
                     "id": 109
                 }
@@ -557,7 +559,8 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Activity-based Interaction", "Localized Interaction", "System spanning"],
+                    "answers": [["Activity-based Interaction", "Activity based Interaction", "Activity-based Interactions", "Activity based Interactions"], 
+                    ["Localized Interaction", "Localized Interactions", "Localize Interactions", "Localize Interaction"], ["System spanning", "Systems spanning"]],
                     "question": "Kinds of Interaction and User Experience",
                     "id": 113
                 }
@@ -604,7 +607,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Shared Conception", "Scaffolding for Learning", "Reliability and Consistency", "Systematic Approach", "Guiding Structure"],
+                    "answers": [["Shared Conception", "Shared Conceptions"], ["Scaffolding for Learning", "Scaffolding for Learnings", "Scaffolding in Learning"], ["Reliability and Consistency", "Reliabilities and Consistency"], ["Systematic Approach"], ["Guiding Structure", "Guiding Structures"]],
                     "question": "Benefits of Having a Process",
                     "id": 120
                 }
@@ -658,7 +661,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["UX Design Lifecycle", "UX Design Lifecycle Process","UX Lifecycle Methods","UX Lifecycle Model","UX Lifecycle Activities","UX Lifecycle Techniques","UX Lifecycle Subactivities"],
+                    "answers": [["UX Design Lifecycle"], ["UX Design Lifecycle Process"],["UX Lifecycle Methods", "UX Lifecycle Method"],["UX Lifecycle Model", "UX Lifecycle Model"],["UX Lifecycle Activities"],["UX Lifecycle Techniques", "UX Lifecycle Technique"],["UX Lifecycle Subactivities"]],
                     "question": "The Basic Process Components for UX",
                     "id": 128
                 }
@@ -703,7 +706,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Finiteness", "Definiteness", "Input", "Output", "Effectiveness"],
+                    "answers": [["Finiteness"], ["Definiteness"], ["Input", "Inputs"], ["Output", "Outputs"], ["Effectiveness"]],
                     "question": "Enumerate the fundamentals properties of algorithms.",
                     "id": 42
                 }
@@ -732,7 +735,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": ["Floor", "Cieling", "Modulo"],
+                    "answers": [["Floor"], ["Cieling"], ["Modulo"]],
                     "question": "Mathematical functions",
                     "id": 46
                 }

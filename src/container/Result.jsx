@@ -23,7 +23,7 @@ function Result() {
         let score = 0, siz = result.answers.length
         result.answers.forEach(ans=> {
             result.userAnswers.forEach(uans => {
-                if(String(uans).toLocaleLowerCase() == String(ans).toLocaleLowerCase()) {
+                if(ans.some(a => String(a).toLocaleLowerCase().trim() == String(uans).toLocaleLowerCase().trim())) {
                     score++;
                 }
             })
@@ -34,10 +34,12 @@ function Result() {
 
     function isHave(cor, ans) {
         let have = false
-        cor.forEach(c => {
-            if(String(c).toLocaleLowerCase() == String(ans).toLocaleLowerCase()) {
-                have = true
-            }
+        cor.forEach(cc => {
+            cc.forEach(c => {
+                if(String(c).toLocaleLowerCase() == String(ans).toLocaleLowerCase()) {
+                    have = true
+                }
+            })
         })
 
         return have
@@ -78,7 +80,6 @@ function Result() {
                     <p className="question">
                         {result.question} ({getGoted(result)})
                     </p>
-                    {console.log(result)}
                     <div className="your-answers">
                         {result.userAnswers.map(ans => (
                             <p className={`${isHave(result.answers, ans)? "anwered": "wrong-en"}`}>{ans}</p>
@@ -86,7 +87,7 @@ function Result() {
                     </div>
                     <div className="correct-answers">
                         {result.answers.map((cor, c) => (
-                            <p className="anwered cor" key={c}>{cor}</p>
+                            <p className="anwered cor" key={c}>{cor[0]}</p>
                         ))}
                     </div>
                 </div>
