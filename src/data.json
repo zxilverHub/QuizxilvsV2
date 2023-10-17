@@ -244,7 +244,374 @@
             }
         },
 
-        "Chapter_2": {  
+        "Chapter_2.1": {
+            "The_Human_Component_of_HCI": {
+                "answers": ["Human", "Model Human Processor", "Sensory Memories", "Attention", "Short-term memory", "Rehearsal", "Long-term memory", "Sensory memories", "Rehearsal", "Forgetting", "Information Retrieval", "Storing information", "Episodic Memory", "Semantic Memory"],
+                "questions": [
+                    {
+                        "question": "The one whom computer system are designed to assist. THe Requirements of the user should therefore be our first priority.",
+                        "answer": ["Human","Humans","The Human","The Humans"],
+                        "id": 165
+                    },
+                    
+                    {
+                        "question": "Is a model of human information processing.",
+                        "answer": ["Model Human Processor","Model Human Processor (MHP)","Model Human Processor(MHP)","MHP"],
+                        "id": 166
+                    },
+                    
+                    {
+                        "question": "A type of memory that stores information from the senses for a very short period of time.",
+                        "answer": ["Sensory Memories","Sensory Memory"],
+                        "id": 167
+                    },
+                    
+                    {
+                        "question": "Information from sensory memory is transferred to short-term memory through.",
+                        "answer": ["Attention","Attentions"],
+                        "id": 168
+                    },
+                    
+                    {
+                        "question": "Is a temporary storage system that holds information that is currently being used.",
+                        "answer": ["Short-term memory","Short term memory","Short term memories","Short-term memories","Short-terms memory","Short-terms memories"],
+                        "id": 169
+                    },
+                    
+                    {
+                        "question": "Information from short-term memory can be transfered to long-term memory through.",
+                        "answer": ["Rehearsal","Rehearsals"],
+                        "id": 170
+                    },
+                    
+                    {
+                        "question": "It the part of the memory that stores information for a long period of time.",
+                        "answer": ["Long-term memory","Long-term memories","Long term memory","Long term memories","Long-term memory","Long-terms memory"],
+                        "id": 171
+                    },
+                    
+                    {
+                        "question": "The first step of how our memory stores information.",
+                        "answer": ["Sensory memories","Sensory memory"],
+                        "id": 172
+                    },
+                    
+                    {
+                        "question": "When you give an attention into information, that information will now store in to.",
+                        "answer": ["Short-term memory","Short term memory","Short-term memories","Short term memories"],
+                        "id": 173
+                    },
+                    
+                    {
+                        "question": "We need this so we can store this information in to long-term memory",
+                        "answer": ["Rehearsal","Rehearsals"],
+                        "id": 174
+                    },
+                    
+                    {
+                        "question": "It is the inability to acces information from our memory.",
+                        "answer": ["Forgetting information","Forgetting informations","Forgetting","Forgettings"],
+                        "id": 175
+                    },
+                    
+                    {
+                        "question": "It is what we called when we accessing information from our memory.",
+                        "answer": ["Information Retrieval","Informations Retrieval","Retrieval","Retrievals"],
+                        "id": 176
+                    },
+                    
+                    {
+                        "question": "You are storing or putting information to your memory.",
+                        "answer": ["Storing","Storing","Storings"],
+                        "id": 177
+                    },
+                    
+                    {
+                        "question": "Refers to the system responsible for encoding, storing, and retrieving personal experiences and specific events or episodes in your life.",
+                        "answer": ["Episodic Memory","Episodic Memories"],
+                        "id": 178
+                    },
+                    
+                    {
+                        "question": " It involves the storage of factual knowledge, concepts, and information that are not tied to specific personal experiences. This type of memory encompasses a wide range of information, such as facts, concepts, language, and general knowledge about the world.",
+                        "answer": ["Semantic Memory","Semantic Memories"],
+                        "id": 179
+                    },
+                    
+                    {
+                        "question": "Also known as Working Memory.",
+                        "answer": ["Short-term memory","Short-term memories","Short term memory","Short term memories"],
+                        "id": 180
+                    }  
+                ],
+
+                "enumeration": {
+                    "answers": [["Visual", "Visuals"], ["Auditory", "Auditories"], ["Haptic", "Haptics"], ["Kenisthetic", "Kenisthetics"], ["Olfactory", "Olfactories"], ["Gustatory", "Gustatories"]],
+                    "question": "Input Chanels",
+                    "id": 181
+                }
+            },
+
+            "Information_Processing": {
+                "answers": [],
+                "questions": [],
+
+                "enumeration": {
+                    "answers": [["Input-Output", "Input Output"], ["Memory"], ["Processing"]],
+                    "question": "The three main components of the user as an information processing system.",
+                    "id": 182
+                }
+            },
+
+            "Input_-_Output_Chanel": {
+                "answers": ["Visual", "Auditory", "Haptic", "Kinesthetic", "Olfactory", "Gustatory"],
+                "questions": [
+                    {
+                        "question": "Head (Output to Input)",
+                        "answer": ["Visual","Visuals"],
+                        "id": 211
+                    },
+                    
+                    {
+                        "question": "Eyes (Output to Input)",
+                        "answer": ["Auditory"],
+                        "id": 212
+                    },
+                    
+                    {
+                        "question": "Facial Muscles (Output to Input)",
+                        "answer": ["Haptic","Haptics"],
+                        "id": 213
+                    },
+                    
+                    {
+                        "question": "Vocal Apparatus (Output to Input)",
+                        "answer": ["Kinesthetic","Kinesthetics"],
+                        "id": 214
+                    },
+                    
+                    {
+                        "question": "Hands and Fingers (Output to Input)",
+                        "answer": ["Olfactory","Olfactories"],
+                        "id": 215
+                    },
+                    
+                    {
+                        "question": "Feet and Legs (Output to Input)",
+                        "answer": ["Gustatory","Gustatories"],
+                        "id": 216
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "MHP_Subsystems": {
+                "answers": ["Cognitive system", "Perceptual system", "Motor system"],
+                "questions": [
+                    {
+                        "question": "This component represents how humans gather information from the environment. It involves sensory processes such as vision, hearing, touch, and other senses.",
+                        "answer": ["Perceptual system", "Perceptual"],
+                        "id": 198
+                    },
+        
+                    {
+                        "question": "It is responsible for executing physical actions in response to the information processed by the cognitive system.",
+                        "answer": ["Motor system", "Motor"],
+                        "id": 199
+                    },
+        
+                    {
+                        "question": "It is responsible for tasks such as memory, attention, problem-solving, decision-making, and language processing. It processes the information received from the perceptual system and generates actions based on that information.",
+                        "answer": ["Cognitive system", "Cognitive"],
+                        "id": 200
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Perceptual system", "Perceptual"], ["Motor system", "Motor"], ["Cognitive system", "Cognitive"]],
+                    "question": "MHP Subsystems",
+                    "id": 183
+                }
+            },
+
+            "Type_of_Sensory_Momory": {
+                "answers": ["Iconic memory", "Haptic Memory", "Echoic Memory"],
+                "questions": [
+                    {
+                        "question": "refers to the sensory memory associated with visual information. It is extremely short-lived, lasting only for a fraction of a second (typically less than a second).",
+                        "answer": ["Iconic memory", "Iconic", "Iconic memories"],
+                        "id": 185
+                    },
+        
+                    {
+                        "question": "the sensory memory associated with auditory information, such as sounds and spoken language. It lasts longer than iconic memory, typically around 2 to 4 seconds",
+                        "answer":["Echoic Memory", "Echoic", "Echoic Memories"],
+                        "id": 186
+                    },
+        
+                    {
+                        "question": "This sensory information helps you recognize objects, navigate your environment, and perform various tactile tasks.",
+                        "answer": ["Haptic Memory", "Haptic", "Haptic Memories"],
+                        "id": 187
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Iconic Memory", "Iconic", "Iconic Memories"], ["Echoic Memory", "Echoic", "Echoic Memories"], ["Haptic Memory", "Haptic", "Haptic Memories"]],
+                    "question": "Type of Sensory Memory",
+                    "id": 184
+                }
+            },
+
+            "Processing": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["Reassoning"], ["Probelem Solving", "Probelems Solving", "Probelem Solvings", "Probelems Solvings"], 
+                                ["Skill Acquisition", "Skill Acquisitions", "Skills Acquisition", "Skills Acquisitions"], ["Error", "Errors"]],
+                    "question": "Enumerate Processing",
+                    "id": 188
+                }
+            },
+
+            "Type_of_Reasoning": {
+                "answers": ["Duductive Reasoning", "Inductive Reasoning", "Abductive Reasoning"],
+                "questions": [
+                    {
+                        "question": "Using knowledge to draw conclusion or infer new information.",
+                        "answer": ["Reasoning","Reasinings"],
+                        "id": 189
+                    },
+                    
+                    {
+                        "question": "Derives a logically necessary conclusion from given premises, even if it doesn't always align with our notion of truth.",
+                        "answer": ["Deductive Reasoning","Deductive"],
+                        "id": 190
+                    },
+                    
+                    {
+                        "question": "Generalized from observed cases to infer information about unobserved cases, although it may not be entirely reilable.",
+                        "answer": ["Inductive Resoning","Inductive"],
+                        "id": 191
+                    },
+                    
+                    {
+                        "question": "Reasons from a fact to the cause of the fact, helping us derive explanations for observed events.",
+                        "answer": ["Abductive Reasoning","Abductive Reasoning","Abductive"],
+                        "id": 192
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Duductive"], ["inductive"], ["Abductive"]],
+                    "question": "Type of Reasoning",
+                    "id": 193
+                }
+            },
+
+            "Problem-Solving_theories": {
+                "answers": ["Problem-solving", "Gestalt theory", "Problem space theory"],
+                "questions": [
+                    {
+                        "question": "It is process of finding a solution to an unfamiliar task using the knowledge we have.",
+                        "answer": ["Problem-solving","Problem solving","Problems-solving","Problems solving"],
+                        "id": 194
+                    },
+
+                    {
+                        "question": "In this theory, you are deviding or restructuring the problem and gaining insight to find innovattive solutions.",
+                        "answer": ["Gestalt theory", "Gestalt theories"],
+                        "id": 195
+                    },
+        
+                    {
+                        "question": "We called it a trial and error theory.",
+                        "answer": ["Problem space theory", "Problems space theory"],
+                        "id": 196
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Gestalt theory", "Gestalt theories"], ["Problem space theory", "Problems space theory"]],
+                    "question": "Problem-Solving theories",
+                    "id": 197
+                }
+            },
+
+            "Skill_Acquisition": {
+                "answers": ["Skill acquisition", "Transfer", "Practice", "Feedback", "Theory", "Metacognition"],
+                "questions": [
+                    {
+                        "question": "Refers to the process of gaining experties and proficiency in a particular domain over time. It is a complex process that involves a number of factors.",
+                        "answer": ["Skill acquisition", "Skills acquisitions", "Skill acquisitions", "Skills acquisition"],
+                        "id": 202
+                    },
+        
+                    {
+                        "question": "It is a factor in skill acquisition that said, you are gaining skill through teaching",
+                        "answer": ["Transfer", "Transfers"],
+                        "id": 203
+                    },
+
+                    {
+                        "question": "Refers to the repetitive and purposeful engagement in a specific task or activity to improve one's skills and proficiency. In HCI, this can involve practicing user interface design, interaction techniques, or other aspects of human-computer interaction.",
+                        "answer": ["Practice","Practices"],
+                        "id": 204
+                    },
+                    
+                    {
+                        "question": "involves receiving information about the quality and effectiveness of one's actions or interactions with a computer system. This information can be in the form of user testing results, usability evaluations, or direct user feedback.",
+                        "answer": ["Feedback","Feedbacks"],
+                        "id": 205
+                    },
+                    
+                    {
+                        "question": "Refers to the theoretical understanding and knowledge of principles, concepts, and models that underlie HCI. This knowledge can include human cognition, user experience (UX) design principles, information architecture, and various HCI models.",
+                        "answer": ["Theory"],
+                        "id": 206
+                    },
+                    
+                    {
+                        "question": "Refers to the awareness and understanding of one's cognitive processes, including the ability to monitor, control, and optimize one's learning and problem-solving strategies.",
+                        "answer": ["Metacognition","Metacognitions"],
+                        "id": 207
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Practice", "Practices"], ["Feedback", "Feedbacks"], ["Theory", "Theories"], ["Transfer", "Transfers"], ["Metacognition", "Metacognitions"]],
+                    "question": "Factors in skill acquisition",
+                    "id": 201
+                }
+            },
+
+            "Errors": {
+                "answers": ["Errors", "Mistake", "Slips"],
+                "questions": [
+                    {
+                        "question": "Are unintentional actions that devirate from the desired outcome. They can range from minor inconveniences to serious consequences.",
+                        "answer": ["Errors", "Error"],
+                        "id": 209
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Slips", "Slip"], ["Mistakes", "Mistake"]],
+                    "question": "Main type of Errors",
+                    "id": 208
+                }
+            }
+        },
+
+        "Chapter_2.2": {  
             "Text_Entry_Devices": {
                 "answers": [],
                 "questions": [],
@@ -283,7 +650,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": [["Cockpit and virtual controls", "Cockpit and virtual control"], ["3D mouse"], ["Dataglove", "Datagloves"], ["Virtual Reality helmets", "Virtual Reality helmet"], ["Whole-body tracking", "Whole body tracking"], ["Stereoscopic Vision", "Stereoscopic Visions"], ["Small screens fitted to a pair of goggles"], ["Special spectacles with polarized lenses"], ["Hologaphic 3D Display", "Hologaphics 3D Displays", "Hologaphic 3D Displays"], ["Large flight simulators", "Large flight simulator", "Large flights simulators", "Large flights simulator"], ["Motorbike or skiing simulators", "Motorbike or skiing simulator", "Motorbikes or skiing simulators"], ["General purpose rooms called caves"], "General purpose rooms called cave"],
+                    "answers": [["Cockpit and virtual controls", "Cockpit and virtual control"], ["3D mouse"], ["Dataglove", "Datagloves"], ["Virtual Reality helmets", "Virtual Reality helmet"], ["Whole-body tracking", "Whole body tracking"], ["Stereoscopic Vision", "Stereoscopic Visions"], ["Small screens fitted to a pair of goggles"], ["Special spectacles with polarized lenses"], ["Hologaphic 3D Display", "Hologaphics 3D Displays", "Hologaphic 3D Displays"], ["Large flight simulators", "Large flight simulator", "Large flights simulators", "Large flights simulator"], ["Motorbike or skiing simulators", "Motorbike or skiing simulator", "Motorbikes or skiing simulators"], ["General purpose rooms called caves", "General purpose rooms called cave"]],
                     "question": "Devices for VR and 3D Interaction",
                     "id": 78
                 }
@@ -294,7 +661,7 @@
                 "questions": [],
 
                 "enumeration": {
-                    "answers": [["Light-emitting diodes", "Light-emitting diode", "Light emitting diodes"], ["Gauges and dials", "Gauge and dials"], "Gauge and dial", ["Head-up Display", "Head-up Displays", "Head up Displays", "Head-ups Display"], ["Keyboards", "Keyboard"], ["Telephone Keypads", "Telephone Keypad", "Telephones Keypads"], ["Doorbell", "Doorbell"], ["Haptic Devices", "Haptics Devices", "Haptics Device"], ["Texture analysis Technology"], ["Arcades Games that generate smells"], ["Automatic Door", "Automatic Doors"], ["Energy saving lights"], ["Security Tags", "Security Tag"], ["Ultrasound", "Ultrasounds"], ["GPS"], ["Pressure sensors"], "Pressure sensor", ["Body temperature sensor", "Body temperature sensors", "Body temperatures sensors", "Body temperatures sensor"], ["Unconscious Reaction Sensor", "Unconscious Reaction Sensors", "Unconscious Reactions Sensor", "Unconscious Reactions Sensors"]],
+                    "answers": [["Light-emitting diodes", "Light-emitting diode", "Light emitting diodes"], ["Gauges and dials", "Gauge and dials", "Gauge and dial"], ["Head-up Display", "Head-up Displays", "Head up Displays", "Head-ups Display"], ["Keyboards", "Keyboard"], ["Telephone Keypads", "Telephone Keypad", "Telephones Keypads"], ["Doorbell", "Doorbell"], ["Haptic Devices", "Haptics Devices", "Haptics Device"], ["Texture analysis Technology"], ["Arcades Games that generate smells"], ["Automatic Door", "Automatic Doors"], ["Energy saving lights"], ["Security Tags", "Security Tag"], ["Ultrasound", "Ultrasounds"], ["GPS"], ["Pressure sensors", "Pressure sensor"], ["Body temperature sensor", "Body temperature sensors", "Body temperatures sensors", "Body temperatures sensor"], ["Unconscious Reaction Sensor", "Unconscious Reaction Sensors", "Unconscious Reactions Sensor", "Unconscious Reactions Sensors"]],
                     "question": "Physical Controls, Sensors, and Special Devices",
                     "id": 79
                 }
@@ -330,6 +697,290 @@
                     "answers": [["Networked computing"]],
                     "question": "Networked",
                     "id": 82
+                }
+            }
+        },
+
+        "Chapter_2.3": {
+            "Interaction": {
+                "answers": ["Interaction", "Responding", "Exploring", "Manipulating", "Conversing", "Instructing"],
+                "questions": [
+                    {
+                        "question": "Refers to the dynamic exchange of information and actions between a user and a computer or digital system.",
+                        "answer": ["Interaction", "Interactions"],
+                        "id": 218
+                    },
+
+                    {
+                        "question": "Users provide explicit commands or instructions to a computer system to perform specific actions",
+                        "answer": ["Instructing"],
+                        "id": 219
+                    },
+        
+                    {
+                        "question": "Expecting response from the computer",
+                        "answer": ["Conversing"],
+                        "id": 220
+                    },
+        
+                    {
+                        "question": "Cotrolling software applications",
+                        "answer": ["Manipulating"],
+                        "id": 221
+                    },
+        
+                    {
+                        "question": "Navigating or discovering the system or application.",
+                        "answer": ["Exploring"],
+                        "id": 222
+                    },
+        
+                    {
+                        "question": "Responding of a computer to the user and vice versa.",
+                        "answer": ["Responding"],
+                        "id": 223
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Responding"], ["Exploring"], ["Manipulating"], ["Conversing"], ["Instructing"]],
+                    "question": "Types of interactions",
+                    "id": 217
+                }
+            },
+
+            "Models_of_interaction": {
+                "answers": ["Normans Seven Stages of Action", "GOMS model", "Model Human Processor (MHP)"],
+                "questions": [
+                    {
+                        "question": "This model is widely used in the field of Human-Computer Interaction (HCI) and user experience (UX) design to understand how users interact with systems and how design can influence the user experience.",
+                        "answer": ["Normans Seven Stages of Action", "Norman Seven Stages", "Norman's Seven Stage"],
+                        "id": 225
+                    },
+        
+                    {
+                        "question": "This model emphasizes that the user experience goes beyond usability and functionality, considering the emotional and hedonic aspects of user interactions.",
+                        "answer": ["Hassenzahl UX Model"],
+                        "id": 226
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Norman's Seven Stages of action", "Norman Seven Stages", "Norman's Seven Stage"], ["GOMS model", "GOMS"], ["Model Human Processor", "MHP", "Model Human Processor (MHP)"], ["Hassenzahl UX Model", "Hassenzahl UX Models"]],
+                    "question": "Models of interactions",
+                    "id": 224
+                }
+            },
+
+            "Frameworks_of_Interaction": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["Five Dimesions of Interaction Design", "Five Dimesions of Interaction Designs", "Five Dimesions of Interactions Design", "Five Dimesion of Interaction Design"], ["UX Design pyramid", "UX Design pyramids", "UX Designs pyramid"], ["5E Experience Design Model", "5E Experience Design Models", "5E Experience Designs Model"], ["Donal Norman's coceptual of the system image", "Donal Norman's coceptual of the system images"]],
+                    "question": "Frameworks of Intrerations",
+                    "id": 227
+                }
+            },
+
+            "5E_Experience": {
+                "answers": ["Entry", "Engagement", "Exit", "Extension", "Excitement"],
+                "questions": [
+                    {
+                        "question": "In this phase in 5E Experience Design Model, the application is now deployed",
+                        "answer": ["Entry"],
+                        "id": 229
+                    },
+        
+                    {
+                        "question": "In this phase in 5E Experience Design Model, the team will organizing events and other strategies to keep users using the app",
+                        "answer": ["Engagement", "Engagements"],
+                        "id": 230
+                    },
+        
+                    {
+                        "question": "This the fourth phase in 5E Experience Design Model",
+                        "answer": ["Exit"],
+                        "id": 231
+                    },
+        
+                    {
+                        "question": "In this phase in 5E Experience Design Model, the application has a extra features to keep the user using their app. ex. notifications, event, daily rewards.",
+                        "answer": ["Extension", "Extension"],
+                        "id": 232
+                    },
+        
+                    {
+                        "question": "In this phase in 5E Experience Design Model, the team is makig a promotional events like advertisement before deploying the app",
+                        "answer": ["Excitement", "Excitements"],
+                        "id": 233
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Entry"], ["Engagement","Engagements"], ["Exit"], ["Extension", "Extensions"], ["Excitement", "Excitements"]],
+                    "question": "Steps in 5E Experience Design Model",
+                    "id": 228
+                }
+            },
+
+            "HCI_Interaction": {
+                "answers": ["Ergonomics", "Framework", "Model"],
+                "questions": [
+                    {
+                        "question": "__________, also known as human factors engineering, aims to create systems and environments that are comfortable, efficient, safe, and conducive to human well-being during computer use.",
+                        "answer": ["Ergonomics", "Ergonomic"],
+                        "id": 233
+                    },
+
+                    {
+                        "question": "Help to describe and explain various facets of human-computer interaction.",
+                        "answer": ["Model", "Models"],
+                        "id": 234
+                    },
+
+                    {
+                        "question": "In HCI provides a structured approach, set of principles, or guidelines for designing, evaluating, or analyzing aspects of human-computer interaction.",
+                        "answer": ["Framework", "Frameworks"],
+                        "id": 235
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Five_Dimensions_of_Interaction": {
+                "answers": ["Word", "Visual Representation", "Physical objects or white space", "Time", "Behavior"],
+                "questions": [
+                    {
+                        "question": "What does 1D means in Five Dimensions of Interaction Design",
+                        "answer": ["Word", "Words"],
+                        "id": 237
+                    },
+        
+                    {
+                        "question": "What does 2D means in Five Dimensions of Interaction Design",
+                        "answer": ["Visual Representation", "Visuals Representations", "Visuals Representation", "Visual Representations"],
+                        "id": 238
+                    },
+        
+                    {
+                        "question": "What does 3D means in Five Dimensions of Interaction Design",
+                        "answer": ["Physical objects or white space", "Physical Objects", "Physical Object", "White space", "White Spaces"],
+                        "id": 239
+                    },
+        
+                    {
+                        "question": "What does 4D means in Five Dimensions of Interaction Design",
+                        "answer":["Time"],
+                        "id": 240
+                    },
+        
+                    {
+                        "question": "What does 5D means in Five Dimensions of Interaction Design",
+                        "answer": ["Behavior", "Behaviors"],
+                        "id": 241
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Word", "Words"], ["Visual Representation", "Visuals Representations", "Visuals Representation", "Visual Representations"], ["Physical objects or white space", "Physical Objects", "Physical Object", "White space", "White Spaces"], ["Time"], ["Behavior", "Behaviors"]],
+                    "question": "Ds in Five Dimensions of Interaction Design",
+                    "id": 236
+                }
+            },
+
+            "UX_design_pyramid": {
+                "answers": ["Significant", "Enjoyable", "Convenient", "Usable", "Reliable", "Functional"],
+                "questions": [
+                    {
+                        "question": "in this level in UX design pyramid, the application is working.",
+                        "answer": ["functional", "functionals"],
+                        "id": 243
+                    },
+        
+                    {
+                        "question": "in this level in UX design pyramid, you are using the app to accomplish a task.",
+                        "answer": ["Usable"],
+                        "id": 244
+                    },
+        
+                    {
+                        "question": "in this level in UX design pyramid, you are now using the app more than you need.",
+                        "answer": ["Convenient", "Convenients"],
+                        "id": 245
+                    },
+        
+                    {
+                        "question": "in this level in UX design pyramid, you are now relying on this app.",
+                        "answer": ["Enjoyable"],
+                        "id": 246
+                    },
+        
+                    {
+                        "question": "in this level in UX design pyramid, you can't live without this app.",
+                        "answer": ["Significant", "Significants"],
+                        "id": 247
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Significant", "Significants"], ["Enjoyable"], ["Convenient", "Convenients"], ["Usable"], ["Reliable"], ["functional", "functionals"]],
+                    "question": "UX design pyramid levels",
+                    "id": 242
+                }
+            },
+
+            "Design_Principles_for_Interaction": {
+                "answers": ["Visibility", "Feedback", "Constraints", "Consistency", "Mapping", "Affordance"],
+                "questions": [
+                    {
+                        "question": "It is the basic principle that the more visible an element is, the more likely user will know about them and how to use them.",
+                        "answer": ["Visibility", "Visibilities"],
+                        "id": 249
+                    },
+        
+                    {
+                        "question": "It is the principle of making it clear to the user what action has been taken and what has been accomplished.",
+                        "answer": ["Feedback", "Feedbacks"],
+                        "id": 250
+                    },
+        
+                    {
+                        "question": "Is a about limiting the range of iteraction possibilities for the user to simplify the interface and guide the user to appropriate next action.",
+                        "answer": ["Constraints", "Constraint"],
+                        "id": 251
+                    },
+        
+                    {
+                        "question": "Refers to having similar operations and similar elements for achieving similar tasks.",
+                        "answer": ["Consistency", "Consistencies"],
+                        "id": 252
+                    },
+        
+                    {
+                        "question": "Is about having a clear realationship between controls and the effect they have on the world.",
+                        "answer": ["Mapping"],
+                        "id": 253
+                    },
+        
+                    {
+                        "question": "Refers to the attribute of the objects that allows people to know how to use it",
+                        "answer": ["Affordance"],
+                        "id": 254
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Visibility", "Visibilities"], ["Feedback", "Feedbacks"], ["Constraints", "Constraint"], ["Consistency", "Consistencies"], ["Mapping"], ["Affordance"]],
+                    "question": "Design Principles for Interaction",
+                    "id": 248
                 }
             }
         },
@@ -475,7 +1126,7 @@
                     },
                     
                     {
-                        "question": ".Involves placing the needs and preferences of users at the forefront of the design and development process",
+                        "question": "Involves placing the needs and preferences of users at the forefront of the design and development process",
                         "answer": ["User-centric Approach","User centric Approach","Users centric Approach","User centric Approaches"],
                         "id": 102
                     }
@@ -664,6 +1315,239 @@
                     "answers": [["UX Design Lifecycle"], ["UX Design Lifecycle Process"],["UX Lifecycle Methods", "UX Lifecycle Method"],["UX Lifecycle Model", "UX Lifecycle Model"],["UX Lifecycle Activities"],["UX Lifecycle Techniques", "UX Lifecycle Technique"],["UX Lifecycle Subactivities"]],
                     "question": "The Basic Process Components for UX",
                     "id": 128
+                }
+            },
+
+            "UX_Design_Techniques_as_Life_Skills": {
+                "answers": ["Iteration", "Critical Thinking", "Prototyping and Envisioning", "Reasoning and Deduction", "Framing and Reframing", "Sketching and Drawing", "Observation", "Abstraction", "Note Taking", "Data Organization", "Modeling", "Storytelling", "Immersion", "Brainstorming"],
+                "questions": [
+                    {
+                        "question": "Involves keenly and objectively watching people, events, or situations to gather information and insights.",
+                        "answer": ["Observation", "Observations"], 
+                        "id": 129
+                    },
+                    
+                    {
+                        "question": "Is the process of simplifying complex information or concepts into more manageable and understandable forms.",
+                        "answer": ["Abstraction", "Abstractions"],
+                        "id": 130
+                    },
+                    
+                    {
+                        "question": "Involves recording important information, ideas, or observations for future reference or organization.",
+                        "answer": ["Note Taking", "Notes Taking"],
+                        "id": 131
+                    },
+                    
+                    {
+                        "question": "Is the skill of structuring and categorizing information logically and efficiently.",
+                        "answer": ["Data Organization", "Data Organizations"],
+                        "id": 132
+                    },
+        
+                    {
+                        "question": "entails creating representations or visualizations of objects, systems, or processes to understand them better.",
+                        "answer": ["Modeling"],
+                        "id": 133
+                    },
+                    
+                    {
+                        "question": "is the art of conveying information, ideas, or experiences through narratives that engage and captivate an audience.",
+                        "answer": ["Storytelling"],
+                        "id": 134
+                    },
+                    
+                    {
+                        "question": "involves fully engaging in an experience or environment to gain a deep understanding of it.",
+                        "answer": ["Immersion" ,"Immersions"],
+                        "id": 135
+                    },
+                    
+                    {
+                        "question": "is a creative technique for generating a wide range of ideas and solutions within a group.",
+                        "answer": ["Brainstorming"],
+                        "id": 136
+                    },
+                    
+                    {
+                        "question": "involve visually representing ideas, concepts, or designs through hand-drawn images.",
+                        "answer": ["Sketching and Drawing"],
+                        "id": 137
+                    },
+                    
+                    {
+                        "question": "is the way in which a problem or situation is presented, and involves looking at it from different perspectives.",
+                        "answer": ["Framing and Reframing"],
+                        "id": 138
+                    },
+                    
+                    {
+                        "question": "is the ability to form logical conclusions, and involves drawing specific conclusions from general information.",
+                        "answer": ["Reasoning and Deduction", "Reasoning and Deductions"],
+                        "id": 139
+                    },
+                    
+                    {
+                        "question": "is the creation of preliminary models or representations of a design or idea, and involves imagining future scenarios.",
+                        "answer": ["Prototyping and Envisioning"],
+                        "id": 140
+                    },
+                    
+                    {
+                        "question": "involves analyzing and evaluating information or arguments.",
+                        "answer": ["Critical Thinking"],
+                        "id": 141
+                    },
+
+                    {
+                        "question": "Refers to the process of refining and improving a design through multiple cycles or rounds of evaluation, feedback, and revision.",
+                        "answer": ["Iteration", "Iterations"],
+                        "id": 142
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Iteration", "Iterations"], ["Critical Thinking"], ["Prototyping and Envisioning"], ["Reasoning and Deduction", "Reasoning and Deductions"], ["Framing and Reframing"], ["Sketching and Drawing"],
+                                ["Observation", "Observations"], ["Abstraction", "Abstractions"], ["Note Taking", "Notes Taking"], ["Data Organization", "Data Organizations"],["Modeling"], ["Storytelling"], ["Immersion" ,"Immersions"], ["Brainstorming"]],
+                    "question": "UX Design Techniques as Life Skills",
+                    "id": 143
+                }
+            },
+
+            "Fundamental_UX_Lifecycle_Activities": {
+                "answers": ["Report Results", "Propose Redisign Solution", "Analyze Evaluation Data", "Collect Evaluation Data", "Build Physical Prototypes","Develop Click-Through Wireframe Prototypes","Build Wireframes and Wireflows","Create Paper Prototype","Intermediate Design","Design Production","Conceptual Design","Generative Design","Requirements Extraction","Data modeling","Data Analysis","Data Elicitation","Evalute UX","Prototype Candidates","Design Solution","Understand Needs"],
+                "questions": [
+                    {
+                        "question": "This activity involves gaining insights into users, their work practices, usage patterns, and the subject-matter domain to understand their needs and requirements for the design.",
+                        "answer": ["Understand Needs", "Understand Need", "Understand Need"],
+                        "id": 144
+                    },
+                    
+                    {
+                        "question": "In this activity, designer create designs as solutions to address the identified user needs and challenges.",
+                        "answer": ["Design Solution", "Designs Solutions", "Design Solutions"], 
+                        "id": 145
+                    },
+                    
+                    {
+                        "question": "Designers build prototypes of promising design solutions to visualize and test their effectiveness.",
+                        "answer": ["Prototype Candidates", "Prototypes Candidates", "Prototype Candidate"], 
+                        "id": 146
+                    },
+                    
+                    {
+                        "question": "This activity involves verifying and refining the designs based on user feedback and insight to ensure a positive user experience.",
+                        "answer": ["Evalute UX", "Evalutes UX", "Evalute User Experience"], 
+                        "id": 147
+                    },
+                    
+                    {
+                        "question": "This involves interviewing and observing users while they work to gather data about their practices, preference, and needs.",
+                        "answer": ["Data Elicitation", "Data Elicitations"], 
+                        "id": 148
+                    },
+                    
+                    {
+                        "question": "The collected usage research data is distilled and organized for better comprehension.",
+                        "answer": ["Data Analysis"], 
+                        "id": 149
+                    },
+                    
+                    {
+                        "question": "Representation are created to capture user characteristics, information, flow, tasks, and work environments. These model aid collaboration, sharing, archival, rehearsal, and immension.",
+                        "answer": ["Data modeling"],
+                        "id": 150
+                    },
+                    
+                    {
+                        "question": "This subacitivity invloves codifying the needs and requirements identified during the reseach process.",
+                        "answer": ["Requirements Extraction", "Requirements Extractions", "Requirement Extraction"],
+                        "id": 151
+                    },
+                    
+                    {
+                        "question": "In This sub-activity, designers engage in ideation and sketching to create various design ideas.",
+                        "answer": ["Generative Design", "Generative Designs"],
+                        "id": 152
+                    },
+                    
+                    {
+                        "question": "This sub-activity involves creating mental models, system models, and storyboards to flesh out the design concepts.",
+                        "answer": ["Conceptual Design", "Conceptual Designs"],
+                        "id": 153
+                    },
+                    
+                    {
+                        "question": "This sub-activity focuses on specifying detailed plans for implementing the selected design.",
+                        "answer": ["Design Production", "Design Productions", "Designs Production", "Designs Productions"],
+                        "id": 154
+                    },
+        
+                    {
+                        "question": "In this place, desingers develop ecological, interaction, and emotional design plans for the most promising candidates.",
+                        "answer": ["Intermediate Design", "Intermediate Designs"],
+                        "id": 155
+                    },
+                    
+                    {
+                        "question": "DEsigners develop hand-drawn or printed paper prototypes to explore and visualize design concepts in low fidelity.",
+                        "answer": ["Create Paper Prototype", "Create Paper Prototypes"],
+                        "id": 156
+                    },
+                    
+                    {
+                        "question": "Designers create basic visual representations of the user interface and interaction flow.",
+                        "answer": ["Build Wireframes and Wireflows", "Build Wireframe and Wireflow", "Build Wireframes and Wireflow", "Build Wireframe and Wireflows", "Builds Wireframes and Wireflows", "Builds Wireframe and Wireflow"],
+                        "id": 157
+                    },
+                    
+                    {
+                        "question": "Desingers create interactive prototypes that allow users to navigate through the design with clickable elements, providing a more dynamic representation of the user experience.",
+                        "answer": ["Develop Click-Through Wireframe Prototypes", "Develop Click Through Wireframe Prototypes", "Develop Click Through Wireframe Prototype"],
+                        "id": 158
+                    },
+                    
+                    {
+                        "question": "For physical products or tangible interactions, designers create physical prototyes to test and evaluate the designs functionality and usability.",
+                        "answer": ["Build Physical Prototypes", "Build Physical Prototype"],
+                        "id": 159
+                    },
+                    
+                    {
+                        "question": "Desingers use various methods, such as user testing, surveys, or analysis, to gather data on how users interact with the design. This data provides valuable insights into user behavior and preferences.",
+                        "answer": ["Collect Evaluation Data", "Collects Evaluations Data", "Collects Evaluation Data", "Collect Evaluations Data"],
+                        "id": 160
+                    },
+                    
+                    {
+                        "question": "The collected daya is analyzed to identify patterns, official incidents, and root causes. This analysis helps designers understand the strengths and weakness of the design.",
+                        "answer": ["Analyze Evaluation Data", "Analyze Evaluations Data"],
+                        "id": 161
+                    },
+                    
+                    {
+                        "question": "Based on the evaluation results, designers propose changes and improvements to address identified issues and enhance the user experience.",
+                        "answer": ["Propose Redisign Solution", "Propose Redisign Solutions"],
+                        "id": 162
+                    },
+                    
+                    {
+                        "question": "The evaluation findings and proposed redesign solution solution are documented and communicated to stakeholders and the design team. This ensures everyone knows the evaluation outcomes and the design team. This ensures everyone knows the evaluation outcomes and the next steps for refining the design.",
+                        "answer": ["Report Results", "Report Result"],
+                        "id": 163
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Report Results", "Report Result"], ["Propose Redisign Solution", "Propose Redisign Solutions"], ["Analyze Evaluation Data", "Analyze Evaluations Data"],
+                                ["Collect Evaluation Data", "Collects Evaluations Data", "Collects Evaluation Data", "Collect Evaluations Data"], ["Build Physical Prototypes", "Build Physical Prototype"],
+                                ["Build Wireframes and Wireflows", "Build Wireframe and Wireflow", "Build Wireframes and Wireflow", "Build Wireframe and Wireflows", "Builds Wireframes and Wireflows", "Builds Wireframe and Wireflow"],
+                                ["Create Paper Prototype", "Create Paper Prototypes"], ["Intermediate Design", "Intermediate Designs"], ["Design Production", "Design Productions", "Designs Production", "Designs Productions"],
+                                ["Conceptual Design", "Conceptual Designs"], ["Generative Design", "Generative Designs"], ["Requirements Extraction", "Requirements Extractions", "Requirement Extraction"], 
+                                ["Data Analysis"], ["Data modeling"],  ["Data Elicitation", "Data Elicitations"], ["Evalute UX", "Evalutes UX", "Evalute User Experience"],  ["Prototype Candidates", "Prototypes Candidates", "Prototype Candidate"], 
+                                ["Design Solution", "Designs Solutions", "Design Solutions"], ["Understand Needs", "Understand Need", "Understand Need"]],
+                    "question": "Fundamentals UX Lifecycle Activities",
+                    "id": 164
                 }
             }
         }
