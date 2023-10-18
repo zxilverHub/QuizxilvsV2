@@ -322,7 +322,7 @@
                     
                     {
                         "question": "You are storing or putting information to your memory.",
-                        "answer": ["Storing","Storing","Storings"],
+                        "answer": ["Storing Information","Storing Informations","Storing","Storings"],
                         "id": 177
                     },
                     
@@ -475,7 +475,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": [["Reassoning"], ["Probelem Solving", "Probelems Solving", "Probelem Solvings", "Probelems Solvings"], 
+                    "answers": [["Reasoning", "Reasonings"], ["Probelem-Solving", "Problems Solving", "Probelem Solvings", "Probelems Solvings", "Probelem Solving"], 
                                 ["Skill Acquisition", "Skill Acquisitions", "Skills Acquisition", "Skills Acquisitions"], ["Error", "Errors"]],
                     "question": "Enumerate Processing",
                     "id": 188
@@ -483,7 +483,7 @@
             },
 
             "Type_of_Reasoning": {
-                "answers": ["Duductive Reasoning", "Inductive Reasoning", "Abductive Reasoning"],
+                "answers": ["Deductive Reasoning", "Inductive Reasoning", "Abductive Reasoning"],
                 "questions": [
                     {
                         "question": "Using knowledge to draw conclusion or infer new information.",
@@ -498,8 +498,8 @@
                     },
                     
                     {
-                        "question": "Generalized from observed cases to infer information about unobserved cases, although it may not be entirely reilable.",
-                        "answer": ["Inductive Resoning","Inductive"],
+                        "question": "Generalized from observed cases to infer information about unobserved cases, although it may not be entirely reliable.",
+                        "answer": ["Inductive Reasoning","Inductive"],
                         "id": 191
                     },
                     
@@ -511,7 +511,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": [["Duductive"], ["inductive"], ["Abductive"]],
+                    "answers": [["Deductive", "Deductive Reasoning"], ["Inductive", "Inductive Reasoning"], ["Abductive", "Abductive Reasining"]],
                     "question": "Type of Reasoning",
                     "id": 193
                 }
@@ -568,7 +568,7 @@
                     },
                     
                     {
-                        "question": "involves receiving information about the quality and effectiveness of one's actions or interactions with a computer system. This information can be in the form of user testing results, usability evaluations, or direct user feedback.",
+                        "question": "Involves receiving information about the quality and effectiveness of one's actions or interactions with a computer system. This information can be in the form of user testing results, usability evaluations, or direct user feedback.",
                         "answer": ["Feedback","Feedbacks"],
                         "id": 205
                     },
@@ -813,7 +813,7 @@
                     },
         
                     {
-                        "question": "In this phase in 5E Experience Design Model, the team is makig a promotional events like advertisement before deploying the app",
+                        "question": "In this phase in 5E Experience Design Model, the team is making a promotional events like advertisement before deploying the app",
                         "answer": ["Excitement", "Excitements"],
                         "id": 233
                     }
@@ -830,9 +830,9 @@
                 "answers": ["Ergonomics", "Framework", "Model"],
                 "questions": [
                     {
-                        "question": "__________, also known as human factors engineering, aims to create systems and environments that are comfortable, efficient, safe, and conducive to human well-being during computer use.",
+                        "question": "Also known as human factors engineering, aims to create systems and environments that are comfortable, efficient, safe, and conducive to human well-being during computer use.",
                         "answer": ["Ergonomics", "Ergonomic"],
-                        "id": 233
+                        "id": 233333
                     },
 
                     {
@@ -990,7 +990,7 @@
                 "answers": ["User Experience (UX)", "User Interface (UI)", "Human-Computer Interaction"],
                 "questions": [
                     {
-                        "question": "The totality of effects felt by the user as a result of interacftion.",
+                        "question": "The totality of effects felt by the user as a result of interaction.",
                         "answer": ["The user experience","User experience","UX","The user experiences","User experiences","The users experiences","users experiences","users experience", "User Experience (UX)", "UX", "User Experience(UX)", "(UX)"],
                         "id": 83
                     },
