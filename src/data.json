@@ -475,7 +475,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": [["Reasoning", "Reasonings"], ["Probelem-Solving", "Problems Solving", "Probelem Solvings", "Probelems Solvings", "Probelem Solving"], 
+                    "answers": [["Reasoning", "Reasonings"], ["Problem-Solving", "Problems Solving", "Problem Solvings", "Probelems Solvings", "Problem Solving"], 
                                 ["Skill Acquisition", "Skill Acquisitions", "Skills Acquisition", "Skills Acquisitions"], ["Error", "Errors"]],
                     "question": "Enumerate Processing",
                     "id": 188
