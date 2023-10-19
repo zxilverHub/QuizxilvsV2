@@ -1415,7 +1415,7 @@
             },
 
             "Fundamental_UX_Lifecycle_Activities": {
-                "answers": ["Report Results", "Propose Redisign Solution", "Analyze Evaluation Data", "Collect Evaluation Data", "Build Physical Prototypes","Develop Click-Through Wireframe Prototypes","Build Wireframes and Wireflows","Create Paper Prototype","Intermediate Design","Design Production","Conceptual Design","Generative Design","Requirements Extraction","Data modeling","Data Analysis","Data Elicitation","Evalute UX","Prototype Candidates","Design Solution","Understand Needs"],
+                "answers": ["Report Results", "Propose Redisign Solution", "Analyze Evaluation Data", "Collect Evaluation Data", "Build Physical Prototypes","Develop Click-Through Wireframe Prototypes","Build Wireframes and Wireflows","Create Paper Prototype","Intermediate Design","Design Production","Conceptual Design","Generative Design","Requirements Extraction","Data modeling","Data Analysis","Data Elicitation","Evaluate UX","Prototype Candidates","Design Solution","Understand Needs"],
                 "questions": [
                     {
                         "question": "This activity involves gaining insights into users, their work practices, usage patterns, and the subject-matter domain to understand their needs and requirements for the design.",
@@ -1437,7 +1437,7 @@
                     
                     {
                         "question": "This activity involves verifying and refining the designs based on user feedback and insight to ensure a positive user experience.",
-                        "answer": ["Evalute UX", "Evalutes UX", "Evalute User Experience"], 
+                        "answer": ["Evaluate UX", "Evalutes UX", "Evalute User Experience"], 
                         "id": 147
                     },
                     
@@ -1454,7 +1454,7 @@
                     },
                     
                     {
-                        "question": "Representation are created to capture user characteristics, information, flow, tasks, and work environments. These model aid collaboration, sharing, archival, rehearsal, and immension.",
+                        "question": "Representation are created to capture user characteristics, information, flow, tasks, and work environments. These model aid collaboration, sharing, archival, rehearsal, and immersion.",
                         "answer": ["Data modeling"],
                         "id": 150
                     },
@@ -1544,7 +1544,7 @@
                                 ["Build Wireframes and Wireflows", "Build Wireframe and Wireflow", "Build Wireframes and Wireflow", "Build Wireframe and Wireflows", "Builds Wireframes and Wireflows", "Builds Wireframe and Wireflow"],
                                 ["Create Paper Prototype", "Create Paper Prototypes"], ["Intermediate Design", "Intermediate Designs"], ["Design Production", "Design Productions", "Designs Production", "Designs Productions"],
                                 ["Conceptual Design", "Conceptual Designs"], ["Generative Design", "Generative Designs"], ["Requirements Extraction", "Requirements Extractions", "Requirement Extraction"], 
-                                ["Data Analysis"], ["Data modeling"],  ["Data Elicitation", "Data Elicitations"], ["Evalute UX", "Evalutes UX", "Evalute User Experience"],  ["Prototype Candidates", "Prototypes Candidates", "Prototype Candidate"], 
+                                ["Data Analysis"], ["Data modeling"],  ["Data Elicitation", "Data Elicitations"], ["Evaluate UX", "Evaluates UX", "Evaluate User Experience"],  ["Prototype Candidates", "Prototypes Candidates", "Prototype Candidate"], 
                                 ["Design Solution", "Designs Solutions", "Design Solutions"], ["Understand Needs", "Understand Need", "Understand Need"]],
                     "question": "Fundamentals UX Lifecycle Activities",
                     "id": 164
@@ -1839,6 +1839,438 @@
     },
 
     "PUR_COM": {
+        "Chapter_1": {
+            "Communication": {
+                "answers": ["wikipedia.org", "Oxford English Dictionary", "Chase & Shamo, 2013", "Seiler and Beall, 1999", "Wood, 2004"],
+                "questions": [
+                    {
+                        "question": "From the Latin communicare, meaning to share is the act of conveying meanings from one entity or group to another using mutually understood signs, symbols, and semiotic rules. By?",
+                        "answer": ["wikipedia.org","wikipedia","www.wikipedia","www.wikipedia.org"],
+                        "id": 255
+                    },
+                    
+                    {
+                        "question": "The imparting or exchanging of information by speaking, writing, or using some other medium. The successful conveying or sharing of ideas and feelings.",
+                        "answer": ["Oxford English Dictionary","Oxford English","Oxford","Oxford Dictionary"],
+                        "id": 256
+                    },
+                    
+                    {
+                        "question": "A common understanding of something. By?",
+                        "answer": ["Chase & Shamo, 2013","Chase & Shamo","Chase and Shamo in 2013","Shamo & Chase, 2013","Shamo & Chase"],
+                        "id": 257
+                    },
+                    
+                    {
+                        "question": "The simultaneous sharing and creating of meaning through human symbolic interaction. By?",
+                        "answer": ["Seiler and Beall, 1999","Seiler and Beall","Seiler & Beall","Beall and Seiller","Beall and Seiller, 1999","Beall & Seiller, 1999"],
+                        "id": 258
+                    },
+                    
+                    {
+                        "question": "A systematic process in which individuals interact with and through symbols to create and interpret meanings. By?",
+                        "answer": ["Wood, 2004","Wood","Wood 2004","Wood in 2004"],
+                        "id": 259
+                    }
+                ],
 
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Types_of_Communication": {
+                "answers": ["Communication", "Verbal Communication", "Written Communication", "Oral communication", "Nonverbal communication", "Physical nonverbal communication", "Visual communication"],
+                "questions": [
+                    {
+                        "question": "Is a process of creating and sharing meaning by using verbal and nonverbal symbols in varied contexts.",
+                        "answer": ["Communication","Communications"],
+                        "id": 260
+                    },
+                    
+                    {
+                        "question": "It is further subdivided into written communication and oral communication.",
+                        "answer": ["Verbal Communication","Verbal Communications","Verbal"],
+                        "id": 261
+                    },
+                    
+                    {
+                        "question": "Can involve anything from words on a page to emails, to text messages.",
+                        "answer": ["Written Communication","Written Communications","Writtens Communications","Written"],
+                        "id": 262
+                    },
+                    
+                    {
+                        "question": "Involves spoken words. This can be done in person, through the phone, or over video chat.",
+                        "answer": ["Oral communication","Oral communications","Oral"],
+                        "id": 263
+                    },
+                    
+                    {
+                        "question": "Occurs when meaning or messages are sent or received without the use of words. It can be intentional or unintentional.",
+                        "answer": ["Nonverbal communication","Nonverbal communications","Non-verbal communication","Non-verbal communications","Nonverbal","Non-verbal"],
+                        "id": 264
+                    },
+                    
+                    {
+                        "question": "Can be displayed through body language, facial expressions, touch, or eye contact.",
+                        "answer": ["Physical nonverbal communication","Physical nonverbal communications","Physical non-verbal communication","Physical"],
+                        "id": 265
+                    },
+                    
+                    {
+                        "question": "Utilizes drawings, illustrations, pictures, colors, graphs, charts, and signs to share meaning. It can be used in conjunction with verbal communication, or it can stand on its own.",
+                        "answer": ["Visual communication","Visual communications","Visuals"],
+                        "id": 266
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Process_of_Communication": {
+                "answers": ["Source", "Message", "Encoding", "Decoding", "Reciever", "Feedback", "Context"],
+                "questions": [
+                    {
+                        "question": "Sender of the message. Know exactly what information to give or share.",
+                        "answer": ["Source","Sources"],
+                        "id": 266
+                    },
+                    
+                    {
+                        "question": "The information you want to convey. Details of the information should be very clear.",
+                        "answer": ["Message","Messages"],
+                        "id": 267
+                    },
+                    
+                    {
+                        "question": "The mental process of converting your ideas or thoughts into verbal and/ or nonverbal symbols that can be understood by the receiver of the message.",
+                        "answer": ["Encoding"],
+                        "id": 268
+                    },
+                    
+                    {
+                        "question": "The way the message or information is conveyed. It may be in the form of a face-to-face conversation, text message, phone call, video conference, letter, email, reports, memo)",
+                        "answer": ["Decoding"],
+                        "id": 269
+                    },
+                    
+                    {
+                        "question": "The receiver’s mental process of the message into the meaning suggested by the verbal and/or nonverbal symbols used by the sender.",
+                        "answer": ["Decoding"],
+                        "id": 270
+                    },
+                    
+                    {
+                        "question": "The people or group of people who will get the message.",
+                        "answer": ["Reciever","Recievers"],
+                        "id": 271
+                    },
+                    
+                    {
+                        "question": "The receiver’s response or reply to the message.",
+                        "answer": ["Feedback","Feedbacks"],
+                        "id": 272
+                    },
+                    
+                    {
+                        "question": "The situation in which the communication takes place.",
+                        "answer": ["Context","Contexts"],
+                        "id": 273
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Element_of_Communication": {
+                "answers": ["Sender", "Message", "Channel", "Reciever", "Effect"],
+                "questions": [
+                    {
+                        "question": "(who the source is)",
+                        "answer": ["Sender","Senders"],
+                        "id": 274
+                    },
+                    
+                    {
+                        "question": "(what idea is being communicated)",
+                        "answer": ["Message","Messages"],
+                        "id": 275
+                    },
+                    
+                    {
+                        "question": "(through what medium the message is relayed)",
+                        "answer": ["Channel","Channels"],
+                        "id": 276
+                    },
+                    
+                    {
+                        "question": "(to whom is the message directed)",
+                        "answer": ["Reciever","Recievers"],
+                        "id": 277
+                    },
+                    
+                    {
+                        "question": "(what the desired result of the communication is)",
+                        "answer": ["Effect","Effect","Effects"],
+                        "id": 278
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Models_of_Communication": {
+                "answers": ["Linear Model", "Interactive Model", "Transactional Model"],
+                "questions": [
+                    {
+                        "question": "Also call the transmission model, it assumes that communication is transmitted in a straightforward manner-from a sender to a receiver. This clearly reflects that communication is a one-way process.",
+                        "answer": ["Linear Model","Linear Models","Linear"],
+                        "id": 279
+                    },
+                    
+                    {
+                        "question": "In this model, communication is a two-way process which involves an exchange or an interaction between the sender and the receiver. This indicates that the receiver is not just a mere absorber of the message from the receiver.",
+                        "answer": ["Interactive Model","Interactive Models","Interactives Model","Interactives Models","Interactive"],
+                        "id": 280
+                    },
+                    
+                    {
+                        "question": "This is a model in which people interact with and through symbols overtime to share and create meaning. It has time element which influences how people communicate. Itdepicts communication as varying and dynamic. that communication occurs within systems that influence what and how people communicate. the model does not label one as sender and the receiver, instead, are communicators",
+                        "answer": ["Transactional Model","Transactional Models","Transactionals Models","Transactionals Model","Transactional","Transactionals"],
+                        "id": 281
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Forms_of_Communication": {
+                "answers": ["Intrapersonal Communication", "Interpersonal Communication", "Dyadic Communication", "Small Group Communication", "Public Communication", "Mass Communication", "Intrapersonal Communication", "Interpersonal Communication", "Extended Communication", "Organizational Communication", "Formal structure", "Downward Communication", "Upward Communication", "Horizontal Communication", "Crosswise approach", "Informal structure", "Intercultural Communication", "Formal Communication", "Informal Communication"],
+                "questions": [
+                    {
+                        "question": "Is a communication which happens within one’s self. Here both Source (sender) and receiver is only one. so, the feedback works without any interruption.",
+                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
+                        "id": 282
+                    },
+                    
+                    {
+                        "question": "The process of exchange of information, ideas and feelings between two or more people through verbal or non-verbal methods. It often includes face-to-face exchange of information, in a form of voice, facial expressions, body language and gestures.",
+                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonals Communications","Interpersonals Communication","Interpersonals","Interpersonal"],
+                        "id": 283
+                    },
+                    
+                    {
+                        "question": "Two persons are involved in this communication process. Here the source becomes a receiver and receiver becomes source.",
+                        "answer": ["Dyadic Communication","Dyadic Communications","Dyadics Communication","Dyadics","Dyadic","Dynamic Communication","Dynamic Communications","Dynamic"],
+                        "id": 284
+                    },
+                    
+                    {
+                        "question": "More than two members involved in communication process will become a group communication. If least number of persons is involved in the group communication is called as small group communication. In this communication process, everyone becomes a Source as well as receiver through sharing information and gives feedback to another.",
+                        "answer": ["Small Group Communication","Small Group Communications","Smalls Groups Communications","Small Groups Communications","Small Groups","Small Groups","Small Group"],
+                        "id": 285
+                    },
+                    
+                    {
+                        "question": "Source or messages from a single person will reach or will be received by huge number of audiences. Feedback is quite distant because of the large number of receivers.",
+                        "answer": ["Public Communication","Public Communications","Publics Communications","Public"],
+                        "id": 286
+                    },
+                    
+                    {
+                        "question": "Basically have many audiences and they can’t be grouped together in one place so a certain tool or technology for communication process is needed. But, there is no direct access with the receiver/s so there is a need for the use of media like newspaper, radio, television, and internet. Here the audience feedback is very less or delayed.",
+                        "answer": ["Mass Communication","Mass Communications","Mass"],
+                        "id": 287
+                    },
+                    
+                    {
+                        "question": "The Latin prefix intra- means within or inside. This communication then means talking to oneself. Some label it as self or inner talk, inner monologue, or inner dialogue. Psychologists call it with other names such as self-verbalization or self-statement.",
+                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
+                        "id": 288
+                    },
+                    
+                    {
+                        "question": "The Latin prefix inter- means between, among and together. An interactive exchange takes place as this communication takes place. However, as it occurs, a transaction does not necessarily take place since it can only be a simple interaction such as greetings, getting to know a person, or ordinary conversations that happen between and among the interactants. This may occur in dyads or small groups, also known as group communication.",
+                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonal"],
+                        "id": 289
+                    },
+                    
+                    {
+                        "question": "Involves the use of electronic media. With electronic media, messages are transmitted quickly, your own thinking, behavior and attitude may be influenced by the views you hear. It is important then that you weigh what you hear and assess them against those beliefs that you hold onto, so you do not get easily swayed by other people’s convictions.",
+                        "answer": ["Extended Communication","Extended Communications","Extended"],
+                        "id": 290
+                    },
+                    
+                    {
+                        "question": "The focus is on the role that communication plays in organizational contexts. Organizations comprise individuals who work for the company. For an organization to be successful, a system of communication should be put in place. A set of rules or standards for communication protocol should be made clear so that interaction patterns are established.",
+                        "answer": ["Organizational Communication","Organizational Communications","Organizationals Communications","Organizationals Communication","Organizationals","Organizational"],
+                        "id": 291
+                    },
+                    
+                    {
+                        "question": "Enter question: Allows communication to take place via designated channels of message flow between positions in the organization.",
+                        "answer": ["Formal structure","Formal structures","Formal"],
+                        "id": 292
+                    },
+                    
+                    {
+                        "question": "Is the type that flows from upper to lower positions. The flow of communication is top down or from a superior to a subordinate, usually asking certain individuals to perform a certain task.",
+                        "answer": ["Downward Communication","Downward Communications","Downwards Communication","Downwards Communications","Downwards","Downward"],
+                        "id": 293
+                    },
+                    
+                    {
+                        "question": "Is bottom- up in which subordinates send communication to their superiors bearing their views on organizational policies, issued related to their jobs, and the like.",
+                        "answer": ["Upward Communication","Upward Communications","Upwards Communications","Upward"],
+                        "id": 294
+                    },
+                    
+                    {
+                        "question": "Is lateral in approach as it takes place among people belonging to the same level but coming from different departments or units to facilitate performance to task through proper coordination.",
+                        "answer": ["Horizontal Communication","Horizontal Communications","Horizontal"],
+                        "id": 295
+                    },
+                    
+                    {
+                        "question": "Is diagonal in nature as employees from different units or departments working at various levels.",
+                        "answer": ["Crosswise approach","Crosswise approachs"],
+                        "id": 296
+                    },
+                    
+                    {
+                        "question": "Comes from unofficial channels of message flow. Also known as grapevine messages coming from the different levels of the organization. This occurs due to the dissatisfaction of some employees accompanied by uncertainty.",
+                        "answer": ["Informal structure","Informal structures","Informal"],
+                        "id": 297
+                    },
+                    
+                    {
+                        "question": "It is a communication between or among people having different linguistic, religious, ethnic, social, and professional backgrounds. This particularly happens with non-verbal communication.",
+                        "answer": ["Intercultural Communication","Intercultural Communications","Interculturals"],
+                        "id": 298
+                    },
+                    
+                    {
+                        "question": "Employs formal language delivered orally or in written form.",
+                        "answer": ["Formal Communication","Formal Communications","Formal"],
+                        "id": 299
+                    },
+                    
+                    {
+                        "question": "It involves personal and ordinary conversations with friends, family members, or acquaintances about anything under the sun. the purpose is simply to socialize and enhance relationship.",
+                        "answer": ["Informal Communication","Informal Communications","Informal"],
+                        "id": 300
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            },
+
+            "Morals_and_Ethics": {
+                "answers": ["Ethics", "Morals", "Mutuality", "Individual Dignity", "Accuracy", "Access to information", "Accountability", "Audience", "Relative truth", "Ends vs. means", "Use of power", "Rights vs. Responsibilities"],
+                "questions": [
+                    {
+                        "question": "Refer to rules provided by an external source, e.g., codes of conduct in workplaces or principles in religions.",
+                        "answer": ["Ethics","Ethic"],
+                        "id": 301
+                    },
+                    
+                    {
+                        "question": "Refer to an individual’s own principles regarding right and wrong.",
+                        "answer": ["Morals","Moral"],
+                        "id": 302
+                    },
+                    
+                    {
+                        "question": "Pay attention to the needs of others, as well as yours.",
+                        "answer": ["Mutuality","Mutualities"],
+                        "id": 303
+                    },
+                    
+                    {
+                        "question": "Do not cause another person’s embarrassment or a loss dignity.",
+                        "answer": ["Individual Dignity","Individual Dignities"],
+                        "id": 304
+                    },
+                    
+                    {
+                        "question": "Ensure that others have accurate information. Tell them everything they have a right and need to know, not just what is true.",
+                        "answer": ["Accuracy","Accuracies"],
+                        "id": 305
+                    },
+                    
+                    {
+                        "question": "Never bolster the impact of your communication by preventing people from communicating with one another or by hindering access to the supporting information. ",
+                        "answer": ["Access to information","Access to informations"],
+                        "id": 306
+                    },
+                    
+                    {
+                        "question": "Be responsible and accountable for the consequences of your relationships and communication.",
+                        "answer": ["Accountability","Accountabilities"],
+                        "id": 307
+                    },
+                    
+                    {
+                        "question": "As audience or receiver of the information, you also have ethical responsibilities. A good rule of thumb is the 100% rule, where both the sender and the receiver have full or 100% responsibility to ensure that the message is understood, and that ethics are followed. This is a 100/100 rule, not a 50/50 rule.",
+                        "answer": ["Audience"],
+                        "id": 308
+                    },
+                    
+                    {
+                        "question": "As either sender or receiver of information, remember that your own point of view may not be shared by others and that your conclusions are relative to your perspective, so allow others to respectfully disagree or see it differently.",
+                        "answer": ["Relative truth","Relative truths","Relatives truths"],
+                        "id": 309
+                    },
+                    
+                    {
+                        "question": "Be sure that the end goal of your communication and the means of getting to that end are both ethical although no rule can be applied without reservation to any situation.",
+                        "answer": ["Ends vs. means","End vs. mean","Ends vs means","Ends versus means","End versus mean"],
+                        "id": 310
+                    },
+                    
+                    {
+                        "question": "In situations where you have more power than others (e.g., a teacher with a student, a boss with a subordinate, a parent with a child), you also have more responsibility for the outcome.",
+                        "answer": ["Use of power","Use of powers"],
+                        "id": 311
+                    },
+                    
+                    {
+                        "question": "Balance your rights against your responsibilities even if you live in a wonderful society where your rights are protected by law; not everything you have a right to do is ethical.",
+                        "answer": ["Rights vs. Responsibilities","Rights vs. Responsibility","Rights vs Responsibilities","Rights versus Responsibility","Right vs. Responsibility","Rights vs Responsibility","Rights vs. Responsibility"],
+                        "id": 312
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            }
+        }
+        
     }
 }
