@@ -27,7 +27,8 @@ function ReviewContent() {
                 <div className="keyword-container" key={i}>
                     <p className="title">{topic.replaceAll("_", " ")}</p>
                     {getTopics(topic).questions.map((question, j) => (
-                            <h2 className="keyword" key={j}>{question.answer[0]} <span className="meaning"> - {question.question}</span></h2>
+                            <h2 className="keyword" key={j}>{question.answer[0]} 
+                            <span className="meaning"> - {question.question}</span></h2>
                     ))}
                 </div>
             )) }

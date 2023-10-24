@@ -1553,6 +1553,1539 @@
         }
     },
 
+    "PUR_COM": {
+        "Chapter_1": {
+            "Communication": {
+                "answers": ["wikipedia.org", "Oxford English Dictionary", "Chase & Shamo, 2013", "Seiler and Beall, 1999", "Wood, 2004"],
+                "questions": [
+                    {
+                        "question": "From the Latin communicare, meaning to share is the act of conveying meanings from one entity or group to another using mutually understood signs, symbols, and semiotic rules. By?",
+                        "answer": ["wikipedia.org","wikipedia","www.wikipedia","www.wikipedia.org"],
+                        "id": 255
+                    },
+                    
+                    {
+                        "question": "The imparting or exchanging of information by speaking, writing, or using some other medium. The successful conveying or sharing of ideas and feelings. By?",
+                        "answer": ["Oxford English Dictionary","Oxford English","Oxford","Oxford Dictionary"],
+                        "id": 256
+                    },
+                    
+                    {
+                        "question": "A common understanding of something. By?",
+                        "answer": ["Chase & Shamo, 2013","Chase & Shamo","Chase and Shamo in 2013","Shamo & Chase, 2013","Shamo & Chase"],
+                        "id": 257
+                    },
+                    
+                    {
+                        "question": "The simultaneous sharing and creating of meaning through human symbolic interaction. By?",
+                        "answer": ["Seiler and Beall, 1999","Seiler and Beall","Seiler & Beall","Beall and Seiller","Beall and Seiller, 1999","Beall & Seiller, 1999"],
+                        "id": 258
+                    },
+                    
+                    {
+                        "question": "A systematic process in which individuals interact with and through symbols to create and interpret meanings. By?",
+                        "answer": ["Wood, 2004","Wood","Wood 2004","Wood in 2004"],
+                        "id": 259
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Source", "Sources"], ["Message", "Messages"], ["Encoding"], ["Channel", "Channels"], ["Decoding"], ["Reciever", "Recievers"], ["Feedback", "Feedbacks"], ["Context", "Contexts"]],
+                    "question": "Process of Communication",
+                    "id": 390
+                }
+            },
+
+            "Types_of_Communication": {
+                "answers": ["Communication", "Verbal Communication", "Written Communication", "Oral communication", "Nonverbal communication", "Physical nonverbal communication", "Visual communication"],
+                "questions": [
+                    {
+                        "question": "Is a process of creating and sharing meaning by using verbal and nonverbal symbols in varied contexts.",
+                        "answer": ["Communication","Communications"],
+                        "id": 260
+                    },
+                    
+                    {
+                        "question": "It is further subdivided into written communication and oral communication.",
+                        "answer": ["Verbal Communication","Verbal Communications","Verbal"],
+                        "id": 261
+                    },
+                    
+                    {
+                        "question": "Can involve anything from words on a page to emails, to text messages.",
+                        "answer": ["Written Communication","Written Communications","Writtens Communications","Written"],
+                        "id": 262
+                    },
+                    
+                    {
+                        "question": "Involves spoken words. This can be done in person, through the phone, or over video chat.",
+                        "answer": ["Oral communication","Oral communications","Oral"],
+                        "id": 263
+                    },
+                    
+                    {
+                        "question": "Occurs when meaning or messages are sent or received without the use of words. It can be intentional or unintentional.",
+                        "answer": ["Nonverbal communication","Nonverbal communications","Non-verbal communication","Non-verbal communications","Nonverbal","Non-verbal"],
+                        "id": 264
+                    },
+                    
+                    {
+                        "question": "Can be displayed through body language, facial expressions, touch, or eye contact.",
+                        "answer": ["Physical nonverbal communication","Physical nonverbal communications","Physical non-verbal communication","Physical"],
+                        "id": 265
+                    },
+                    
+                    {
+                        "question": "Utilizes drawings, illustrations, pictures, colors, graphs, charts, and signs to share meaning. It can be used in conjunction with verbal communication, or it can stand on its own.",
+                        "answer": ["Visual communication","Visual communications","Visuals"],
+                        "id": 266
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Sender", "Senders"], ["Message", "Messages"], ["Channel", "Channels"], ["Reciever", "Reciever"], ["Effect", "Effects"]],
+                    "question": "Elements of Communication",
+                    "id": 391
+                }
+            },
+
+            "Process_of_Communication": {
+                "answers": ["Source", "Message", "Encoding", "Decoding", "Reciever", "Feedback", "Context"],
+                "questions": [
+                    {
+                        "question": "Sender of the message. Know exactly what information to give or share.",
+                        "answer": ["Source","Sources"],
+                        "id": 266666
+                    },
+                    
+                    {
+                        "question": "The information you want to convey. Details of the information should be very clear.",
+                        "answer": ["Message","Messages"],
+                        "id": 267
+                    },
+                    
+                    {
+                        "question": "The mental process of converting your ideas or thoughts into verbal and or nonverbal symbols that can be understood by the receiver of the message.",
+                        "answer": ["Encoding"],
+                        "id": 268
+                    },
+                    
+                    {
+                        "question": "The way the message or information is conveyed. It may be in the form of a face-to-face conversation, text message, phone call, video conference, letter, email, reports, memo)",
+                        "answer": ["Channel", "Channels"],
+                        "id": 269
+                    },
+                    
+                    {
+                        "question": "The receiver’s mental process of the message into the meaning suggested by the verbal and or nonverbal symbols used by the sender.",
+                        "answer": ["Decoding"],
+                        "id": 270
+                    },
+                    
+                    {
+                        "question": "The people or group of people who will get the message.",
+                        "answer": ["Reciever","Recievers"],
+                        "id": 271
+                    },
+                    
+                    {
+                        "question": "The receiver’s response or reply to the message.",
+                        "answer": ["Feedback","Feedbacks"],
+                        "id": 272
+                    },
+                    
+                    {
+                        "question": "The situation in which the communication takes place.",
+                        "answer": ["Context","Contexts"],
+                        "id": 273
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Linear Model", "Linear Models"], ["Interactive Model", "Interactive Models"], ["Transactional Model", "Transactional Models"]],
+                    "question": "Models of Communication",
+                    "id": 392
+                }
+            },
+
+            "Element_of_Communication": {
+                "answers": ["Sender", "Message", "Channel", "Reciever", "Effect"],
+                "questions": [
+                    {
+                        "question": "(who the source is)",
+                        "answer": ["Sender","Senders"],
+                        "id": 274
+                    },
+                    
+                    {
+                        "question": "(what idea is being communicated)",
+                        "answer": ["Message","Messages"],
+                        "id": 275
+                    },
+                    
+                    {
+                        "question": "(through what medium the message is relayed)",
+                        "answer": ["Channel","Channels"],
+                        "id": 276
+                    },
+                    
+                    {
+                        "question": "(to whom is the message directed)",
+                        "answer": ["Reciever","Recievers"],
+                        "id": 277
+                    },
+                    
+                    {
+                        "question": "(what the desired result of the communication is)",
+                        "answer": ["Effect","Effect","Effects"],
+                        "id": 278
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Intrapersonal Communication", "Intrapersonal Communications", "Intrapersonals Communication"], ["Interpersonal Communication", "Interpersonal Communications", "Interpersonald Communication"]],
+                    "question": "Forms of Communication",
+                    "id": 394
+                }
+            },
+
+            "Models_of_Communication": {
+                "answers": ["Linear Model", "Interactive Model", "Transactional Model"],
+                "questions": [
+                    {
+                        "question": "Also call the transmission model, it assumes that communication is transmitted in a straightforward manner-from a sender to a receiver. This clearly reflects that communication is a one-way process.",
+                        "answer": ["Linear Model","Linear Models","Linear"],
+                        "id": 279
+                    },
+                    
+                    {
+                        "question": "In this model, communication is a two-way process which involves an exchange or an interaction between the sender and the receiver. This indicates that the receiver is not just a mere absorber of the message from the receiver.",
+                        "answer": ["Interactive Model","Interactive Models","Interactives Model","Interactives Models","Interactive"],
+                        "id": 280
+                    },
+                    
+                    {
+                        "question": "This is a model in which people interact with and through symbols overtime to share and create meaning. It has time element which influences how people communicate. Itdepicts communication as varying and dynamic. that communication occurs within systems that influence what and how people communicate. the model does not label one as sender and the receiver, instead, are communicators",
+                        "answer": ["Transactional Model","Transactional Models","Transactionals Models","Transactionals Model","Transactional","Transactionals"],
+                        "id": 281
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Dynamic Communication", "Dynamic Communications", "Dyadic Communication", "Dyadic Communications"],
+                                ["Small Group Communication", "Small Group Communications", "Small Groups Communication", "Small Groups Communications"],
+                                ["Public Communication", "Public Communications", "Publics Communications"],
+                                ["Mass Communication", "Mass Communications"]],
+                    "question": "Types of Interpersonal Communication",
+                    "id": 395
+                }
+            },
+
+            "Forms_of_Communication": {
+                "answers": ["Intrapersonal Communication", "Interpersonal Communication", "Dyadic Communication", "Small Group Communication", "Public Communication", "Mass Communication", "Intrapersonal Communication", "Interpersonal Communication", "Extended Communication", "Organizational Communication", "Formal structure", "Downward Communication", "Upward Communication", "Horizontal Communication", "Crosswise approach", "Informal structure", "Intercultural Communication", "Formal Communication", "Informal Communication"],
+                "questions": [
+                    {
+                        "question": "Is a communication which happens within one’s self. Here both Source (sender) and receiver is only one. so, the feedback works without any interruption.",
+                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
+                        "id": 282
+                    },
+                    
+                    {
+                        "question": "The process of exchange of information, ideas and feelings between two or more people through verbal or non-verbal methods. It often includes face-to-face exchange of information, in a form of voice, facial expressions, body language and gestures.",
+                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonals Communications","Interpersonals Communication","Interpersonals","Interpersonal"],
+                        "id": 283
+                    },
+                    
+                    {
+                        "question": "Two persons are involved in this communication process. Here the source becomes a receiver and receiver becomes source.",
+                        "answer": ["Dyadic Communication","Dyadic Communications","Dyadics Communication","Dyadics","Dyadic","Dynamic Communication","Dynamic Communications","Dynamic"],
+                        "id": 284
+                    },
+                    
+                    {
+                        "question": "More than two members involved in communication process will become a group communication. If least number of persons is involved in the group communication. In this communication process, everyone becomes a Source as well as receiver through sharing information and gives feedback to another.",
+                        "answer": ["Small Group Communication","Small Group Communications","Smalls Groups Communications","Small Groups Communications","Small Groups","Small Groups","Small Group"],
+                        "id": 285
+                    },
+                    
+                    {
+                        "question": "Source or messages from a single person will reach or will be received by huge number of audiences. Feedback is quite distant because of the large number of receivers.",
+                        "answer": ["Public Communication","Public Communications","Publics Communications","Public"],
+                        "id": 286
+                    },
+                    
+                    {
+                        "question": "Basically have many audiences and they can’t be grouped together in one place so a certain tool or technology for communication process is needed. But, there is no direct access with the receivers so there is a need for the use of media like newspaper, radio, television, and internet. Here the audience feedback is very less or delayed.",
+                        "answer": ["Mass Communication","Mass Communications","Mass"],
+                        "id": 287
+                    },
+                    
+                    {
+                        "question": "The Latin prefix intra- means within or inside. This communication then means talking to oneself. Some label it as self or inner talk, inner monologue, or inner dialogue. Psychologists call it with other names such as self-verbalization or self-statement.",
+                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
+                        "id": 288
+                    },
+                    
+                    {
+                        "question": "The Latin prefix inter- means between, among and together. An interactive exchange takes place as this communication takes place. However, as it occurs, a transaction does not necessarily take place since it can only be a simple interaction such as greetings, getting to know a person, or ordinary conversations that happen between and among the interactants. This may occur in dyads or small groups, also known as group communication.",
+                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonal"],
+                        "id": 289
+                    },
+                    
+                    {
+                        "question": "Involves the use of electronic media. With electronic media, messages are transmitted quickly, your own thinking, behavior and attitude may be influenced by the views you hear. It is important then that you weigh what you hear and assess them against those beliefs that you hold onto, so you do not get easily swayed by other people’s convictions.",
+                        "answer": ["Extended Communication","Extended Communications","Extended"],
+                        "id": 290
+                    },
+                    
+                    {
+                        "question": "The focus is on the role that communication plays in organizational contexts. Organizations comprise individuals who work for the company. For an organization to be successful, a system of communication should be put in place. A set of rules or standards for communication protocol should be made clear so that interaction patterns are established.",
+                        "answer": ["Organizational Communication","Organizational Communications","Organizationals Communications","Organizationals Communication","Organizationals","Organizational"],
+                        "id": 291
+                    },
+                    
+                    {
+                        "question": "Allows communication to take place via designated channels of message flow between positions in the organization.",
+                        "answer": ["Formal structure","Formal structures","Formal"],
+                        "id": 292
+                    },
+                    
+                    {
+                        "question": "Is the type that flows from upper to lower positions. The flow of communication is top down or from a superior to a subordinate, usually asking certain individuals to perform a certain task.",
+                        "answer": ["Downward Communication","Downward Communications","Downwards Communication","Downwards Communications","Downwards","Downward"],
+                        "id": 293
+                    },
+                    
+                    {
+                        "question": "Is bottom- up in which subordinates send communication to their superiors bearing their views on organizational policies, issued related to their jobs, and the like.",
+                        "answer": ["Upward Communication","Upward Communications","Upwards Communications","Upward"],
+                        "id": 294
+                    },
+                    
+                    {
+                        "question": "Is lateral in approach as it takes place among people belonging to the same level but coming from different departments or units to facilitate performance to task through proper coordination.",
+                        "answer": ["Horizontal Communication","Horizontal Communications","Horizontal"],
+                        "id": 295
+                    },
+                    
+                    {
+                        "question": "Is diagonal in nature as employees from different units or departments working at various levels.",
+                        "answer": ["Crosswise approach","Crosswise approachs"],
+                        "id": 296
+                    },
+                    
+                    {
+                        "question": "Comes from unofficial channels of message flow. Also known as grapevine messages coming from the different levels of the organization. This occurs due to the dissatisfaction of some employees accompanied by uncertainty.",
+                        "answer": ["Informal structure","Informal structures","Informal"],
+                        "id": 297
+                    },
+                    
+                    {
+                        "question": "It is a communication between or among people having different linguistic, religious, ethnic, social, and professional backgrounds. This particularly happens with non-verbal communication.",
+                        "answer": ["Intercultural Communication","Intercultural Communications","Interculturals"],
+                        "id": 298
+                    },
+                    
+                    {
+                        "question": "Employs formal language delivered orally or in written form.",
+                        "answer": ["Formal Communication","Formal Communications","Formal"],
+                        "id": 299
+                    },
+                    
+                    {
+                        "question": "It involves personal and ordinary conversations with friends, family members, or acquaintances about anything under the sun. the purpose is simply to socialize and enhance relationship.",
+                        "answer": ["Informal Communication","Informal Communications","Informal"],
+                        "id": 300
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Intrapersonal Communication", "Intrapersonal Communications", "Intrapersonals Communications"],
+                                ["Interpersonal Communication", "Interpersonal Communications", "Interpersonals Communications"],
+                                ["Extended Communication", "Extended Communications", "Extendeds Communications"],
+                                ["Organizational Communication", "Organizational Communications", "Organizationals Communications"],
+                                ["Intercultural Communication", "Intercultural Communications", "Interculturals Communications", "Interculturals Communication"]],
+                    "question": "Types of Communication According to Context",
+                    "id": 396
+                }
+            },
+
+            "Morals_and_Ethics": {
+                "answers": ["Ethics", "Morals", "Mutuality", "Individual Dignity", "Accuracy", "Access to information", "Accountability", "Audience", "Relative truth", "Ends vs. means", "Use of power", "Rights vs. Responsibilities"],
+                "questions": [
+                    {
+                        "question": "Refer to rules provided by an external source, e.g., codes of conduct in workplaces or principles in religions.",
+                        "answer": ["Ethics","Ethic"],
+                        "id": 301
+                    },
+                    
+                    {
+                        "question": "Refer to an individual’s own principles regarding right and wrong.",
+                        "answer": ["Morals","Moral"],
+                        "id": 302
+                    },
+                    
+                    {
+                        "question": "Pay attention to the needs of others, as well as yours.",
+                        "answer": ["Mutuality","Mutualities"],
+                        "id": 303
+                    },
+                    
+                    {
+                        "question": "Do not cause another person’s embarrassment or a loss dignity.",
+                        "answer": ["Individual Dignity","Individual Dignities"],
+                        "id": 304
+                    },
+                    
+                    {
+                        "question": "Ensure that others have accurate information. Tell them everything they have a right and need to know, not just what is true.",
+                        "answer": ["Accuracy","Accuracies"],
+                        "id": 305
+                    },
+                    
+                    {
+                        "question": "Never bolster the impact of your communication by preventing people from communicating with one another or by hindering access to the supporting information. ",
+                        "answer": ["Access to information","Access to informations"],
+                        "id": 306
+                    },
+                    
+                    {
+                        "question": "Be responsible and accountable for the consequences of your relationships and communication.",
+                        "answer": ["Accountability","Accountabilities"],
+                        "id": 307
+                    },
+                    
+                    {
+                        "question": "As audience or receiver of the information, you also have ethical responsibilities. A good rule of thumb is the 100% rule, where both the sender and the receiver have full or 100% responsibility to ensure that the message is understood, and that ethics are followed.",
+                        "answer": ["Audience"],
+                        "id": 308
+                    },
+                    
+                    {
+                        "question": "As either sender or receiver of information, remember that your own point of view may not be shared by others and that your conclusions are relative to your perspective, so allow others to respectfully disagree or see it differently.",
+                        "answer": ["Relative truth","Relative truths","Relatives truths"],
+                        "id": 309
+                    },
+                    
+                    {
+                        "question": "Be sure that the end goal of your communication and the means of getting to that end are both ethical although no rule can be applied without reservation to any situation.",
+                        "answer": ["Ends vs. means","End vs. mean","Ends vs means","Ends versus means","End versus mean"],
+                        "id": 310
+                    },
+                    
+                    {
+                        "question": "In situations where you have more power than others (e.g., a teacher with a student, a boss with a subordinate, a parent with a child), you also have more responsibility for the outcome.",
+                        "answer": ["Use of power","Use of powers"],
+                        "id": 311
+                    },
+                    
+                    {
+                        "question": "Balance your rights against your responsibilities even if you live in a wonderful society where your rights are protected by law; not everything you have a right to do is ethical.",
+                        "answer": ["Rights vs. Responsibilities","Rights vs. Responsibility","Rights vs Responsibilities","Rights versus Responsibility","Right vs. Responsibility","Rights vs Responsibility","Rights vs. Responsibility"],
+                        "id": 312
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Formal Structure", "Formal Structures"], ["Informal Structure", "Informal Structures"]],
+                    "question": "Type of Organizational Structure",
+                    "id": 397
+                }
+            },
+
+            "Types_of_Fornal_Communication": {
+                "answers": [],
+                "questions": [],
+            
+                "enumeration": {
+                    "answers": [["Downward Communication", "Downward Communications", "Downwards Communication"],
+                                ["Upward Communication", "Upward Communications", "Upwards Communication"],
+                                ["Horizontal Communication", "Horizontal Communications", "Horizontals Communication"],
+                                ["Crosswise Communication", "Crosswise Communications", "Crosswised Communications"]],
+                    "question": "Types of Formal Communication",
+                    "id": 398
+                }
+            },
+
+            "Contextual": {
+                "answers": ["Psychological context", "Relational context", "Situational context", "Environmental context", "Cultural context"],
+                "questions": [
+                    {
+                        "question": "Which is who you are, and what you as sender or receiver bring to the interaction--your needs, desires, values, beliefs, personality, and so on.",
+                        "answer": ["Psychological context","Psychologicals context"],
+                        "id": 400
+                    },
+                    
+                    {
+                        "question": "Which concerns your reactions to the other person based on relationship-as boss, colleague, friend, sibling. parent, and the like.",
+                        "answer": ["Relational context","Relationals context"],
+                        "id": 401
+                    },
+                    
+                    {
+                        "question": "Which deals with the psycho-social where you are communicating. An interaction that takes place in a classroom, which quite formal, will be very different from one that takes place in a bar, which is very informal where communicators do not need to be guarded in their speech.",
+                        "answer": ["Situational context","Situationals context"],
+                        "id": 402
+                    },
+                    
+                    {
+                        "question": "Which has to do with the physical where you are communicating-objects in the room and their arrangement, location, noise level, temperature, season, time of day.",
+                        "answer": ["Environmental context","Environmentals context"],
+                        "id": 403
+                    },
+                    
+                    {
+                        "question": "Which includes all the learned behaviors and rules that affect the interaction. For instance, bodily movement, facial expression, gesture, distance, and eye contact vary in different cultures.",
+                        "answer": ["Cultural context","Culturals context"],
+                        "id": 404
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Psychological context", "Psychologicals context"],
+                                ["Relational context", "Relationals context"],
+                                ["Situational context", "Situationals context"],
+                                ["Environmental context", "Environmentals context"],
+                                ["Cultural context", "Culturals context"]],
+                    "question": "Interpersonal communication is contextual",
+                    "id": 399
+                }
+            },
+
+            "Ethics_in_Communication": {
+                "answers": [],
+                "questions": [],
+            
+                "enumeration": {
+                    "answers": [["Mutuality", "Mutualities"],
+                                ["Individual dignity", "Individuals dignity", "Individual dignities", "Individuals dignities"], ["Accuracy", "Accuracies"], ["Access to information", "Access to informations"],
+                                ["Accountability", "Accountabilities"], ["Audience"], ["Relative truth", "Relative of truth"],
+                                ["Ends vs. means", "End vs. mean", "Ends vs means", "Ends versus means", "Ends vs. mean", "End vs. means", "End vs means"], ["Use of power", "Use of powers"],
+                                ["Rights vs. Responsibilities", "Rights vs. Responsibility", "Right vs. Responsibility", "Rights vs Responsibilities", "Rights versus Responsibilities", "Right versus Responsibilitie"]],
+                    "question": "Ethics in Communication",
+                    "id": 405
+                }
+            }
+        },
+
+        "Chapter_2": {
+            "Impact_of_technology": {
+                "answers": ["Technology provides us with unlimited information.", "It creates opportunities for meeting new people.", "It helps us keep in touch with family and friends anywhere in the world.", "It brings new diversity to our culture and our lives", "It fosters better cooperation among different cultural groups", "It isolates us.", "It can make us create second lives."],
+                "questions": [
+                    {
+                        "question": "What used to take someone hours of searching through a library can now be done within a matter of seconds on the Internet. Whatever questions you have you can generally get an instant answer on the computer. One word of caution though: Make sure that the website you visit and or the source of the information is credible!",
+                        "answer": ["Technology provides us with unlimited information.","Technology provides us with unlimited information","Technology provides unlimited information","Technology provides us with unlimited informations","Technology provides us with unlimited informations.","Technology provides unlimited informations","unlimited information","unlimited informations"],
+                        "id": 313
+                    },
+                    
+                    {
+                        "question": "Many applications online are currently available for meeting new people anytime anywhere in the world. The applications vary--from posting photos and videos like Instagram, to social networking like Twitter, games like Game of War, or entertainment like textPlus Communities. You should, however, be careful about things that you post on the Internet or about getting too close with an online acquaintance whom you have neither met nor known much more before or else you may eventually find yourself in some kind of predicament.",
+                        "answer": ["It creates opportunities for meeting new people.","It creates opportunities for meeting new people","It creates opportunities for meeting new peoples.","It creates opportunities for meeting new peoples","creates opportunities for meeting new people","creates opportunities for meeting new peoples","creates opportunities for meeting new people.","creates opportunities for meeting new peoples.","It creates opportunity for meeting new people","It creates opportunity for meeting new peoples","It creates opportunity for meeting new people.","It creates opportunity for meeting new peoples.","meeting new people","meeting new peoples","meeting new peoples.","meeting new people."],
+                        "id": 314
+                    },
+                    
+                    {
+                        "question": "Our being in the 21 century is great; many incredible communication tools have been developed. The tools allow us to get in touch with family and friends, even strangers, anytime anywhere. Computers, smart phones, iPads, and email, besides the dependable SMS (text message), allow us to communicate quickly and easily.",
+                        "answer": ["It helps us keep in touch with family and friends anywhere in the world.","helps us keep in touch with family and friends anywhere in the world","It helps us keep in touch with family and friends anywhere in the world","helps us keep in touch with family and friends anywhere in the world.","helps keep in touch with family and friends anywhere in the world","helps keep in touch with family and friends anywhere in the world."],
+                        "id": 315
+                    },
+                    
+                    {
+                        "question": "The pace of change caused by technology is blinding. Google recipes, and anyone, like you and your classmate, can put sumptuous meals on the dining table. Your cell phone, with its digital camera, has replaced the film camera, and you yourself can print your own pictures without any help from the almost-extinct film developer.",
+                        "answer": ["It brings new diversity to our culture and our lives","It brings new diversity to our culture and our lives.","brings new diversity to our culture and our lives","brings new diversity to our culture and our lives."],
+                        "id": 316
+                    },
+                    
+                    {
+                        "question": "New technologies help companies extend participation on a project to an ever-greater number of people, allowing firms to tap into a wide body of knowledge and expertise.",
+                        "answer": ["It fosters better cooperation among different cultural groups","It fosters better cooperation among different cultural groups.","fosters better cooperation among different cultural groups","fosters better cooperation among different cultural groups.","It fosters better cooperation among different cultural group.","It fosters better cooperation among different cultural group","fosters better cooperation among different cultural group","fosters better cooperation among different cultural groups"],
+                        "id": 317
+                    },
+                    
+                    {
+                        "question": "Mobile communication is so powerful that it changes not only what we do so, but also what we are. Wherever we are, our mobile phones are also there-we are inseparable. At the dinner table with our families, in a meeting at work, during interactions in the classroom, while shopping in malls, in conversations with friends, while listening to presentations in lectures-everywhere, even at the most unlikely places like funerals--the cell phone takes us away from the people around us. It literally isolates us from the rest of the world... from humanity. ",
+                        "answer": ["It isolates us.","It isolates us","isolates us.","isolates us"],
+                        "id": 318
+                    },
+                    
+                    {
+                        "question": "Millions of people find solace in virtual communities where they have found a second life. You might have heard of Sim City, Farmville, and Cities Skylines. In these social networking sites, users or players create or choose avatars to interact with other users anywhere in the world. ",
+                        "answer": ["It can make us create second lives.","It can make us create second lives.","It can make us create second lives","It can make us create second live","It can make us create second live.","can make us create second lives.","can make us create second lives","can make us create second live","can make us create second live","can make us create second live.","create second lives","create second lives.","create second live","create second live."],
+                        "id": 319
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Language", "Languages"], ["Ethnicity", "Ethnicities"], ["National Identities", "National Identity"],
+                                ["Religious Identities", "Religious Identity"], ["Social Class"], ["Gender", "genders"], ["Age", "Ages"]],
+                    "question": "Factors that affect the flow of communication.",
+                    "id": 406
+                }
+            },
+
+            "Factors_that_affect_the_flow_of_communication": {
+                "answers": ["Language", "Ethnicity", "National Identities", "Religious Identities", "Social Class", "Gender", "Age"],
+                "questions": [
+                    {
+                        "question": "It is probably the most important element in the communication chain. To put it simply, it is the medium through which the group speaking that language expresses its culture. ",
+                        "answer": ["Language","Languages"],
+                        "id": 320
+                    },
+                    
+                    {
+                        "question": "Often misunderstandings crop up from ethnic differences. These misunderstandings in turn hamper the communication chain.",
+                        "answer": ["Ethnicity","Ethnicities"],
+                        "id": 321
+                    },
+                    
+                    {
+                        "question": "The concept of nationhood is a very complicated proposition. The concept of national pride at times inundates other humane considerations.",
+                        "answer": ["National Identities","National Identity"],
+                        "id": 322
+                    },
+                    
+                    {
+                        "question": "History has been witnessed to the fact that this has played the role of the biggest human divisive force. If we take a sneak peek into the history of humanity, we would be able to find out that religion has been the single largest cause of conflicts. ",
+                        "answer": ["Religious Identities","Religious Identity"],
+                        "id": 323
+                    },
+                    
+                    {
+                        "question": "No wonder that social positioning and economic status of people put them into certain brackets. This artificial division again creates rifts between the haves and have-nots thereby leading to a breakage in the communication chain. ",
+                        "answer": ["Social Class","Social Classes"],
+                        "id": 324
+                    },
+                    
+                    {
+                        "question": "As basic as it is, the reality remains that this can also become an impediment for the flow of communication at times. The difference between this across the world is very real. In India, the transgender community must face social ostracism all the time. The communication channel in this case is broken. There is hardly any discourse on the community. The best way to deal with this stalemate is to accept that this can’t be the basis of any discrimination. However, like many other things, it is easier said than done.",
+                        "answer": ["Gender","Genders"],
+                        "id": 325
+                    },
+                    
+                    {
+                        "question": "Across societies, generational shifts can cause a lot of miscommunications. As the world changes, meanings and communication channels change. At times, older people can’t cope with these changes, which in turn creates an imbalance in communication. At other times, the younger generation fails to understand the frame of reference of the older people thereby creating an unnecessary rift.",
+                        "answer": ["Age","Ages"],
+                        "id": 326
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Identity", "Identities"], ["Conversations", "Conversation"], ["Sharing"], ["Presence"],
+                    ["Relationships", "Relationship"], ["Reputation", "Reputations"], ["Groups", "Group"]],
+                    "question": "Functional social media building blocks",
+                    "id": 407
+                }
+            },
+
+            "Functional_social_media_building_blocks": {
+                "answers": ["Presence", "Relationships", "Reputations", "Groups", "Conversations", "Sharing", "Identity"],
+                "questions": [
+                    {
+                        "question": "This is the most basic functional block of social media. It represents the extent to which users reveal their identities in a social media setting and can include information like name, age, gender, profession, location, and also information that portrays users in certain ways.",
+                        "answer": ["Identity","Identities"],
+                        "id": 327
+                    },
+                    
+                    {
+                        "question": "How do users communicate with other users in a social media setting? These happen for variety of reasons such as to meet like-minded people, to find love, to build their self-esteem, or to be news-breakers on innovative ideas or trending topics.",
+                        "answer": ["Conversations","Conversation"],
+                        "id": 328
+                    },
+                    
+                    {
+                        "question": "Social often implies an exchange between people. We now distribute and receive more content in less time than all of humanity has done previously. ",
+                        "answer": ["Sharing"],
+                        "id": 329
+                    },
+                    
+                    {
+                        "question": "Have you ever checked Facebook or Foursquare to find out where your friends are? It refers to the accessibility of which you can know where others are, virtually and or physically, through status updates or check-ins. This social media building block has benefited from the world's hyper-connectivity and bridged the gap between virtual and physical.",
+                        "answer": ["Presence","Presences"],
+                        "id": 330
+                    },
+                    
+                    {
+                        "question": "It represents a connection between more than one user through conversation, sharing information, meeting up, or just listing each other as a follower or friend. Consequently, this can lead to duping, such as catfishing. Everything has its evils.",
+                        "answer": ["Relationships","Relationship"],
+                        "id": 331
+                    },
+                    
+                    {
+                        "question": "Can have different meanings on social media platforms, but at its core it's a sense of identifying the status of others and yourself in a social network. The study states that 'is a matter of trust'. ",
+                        "answer": ["Reputation","Reputations"],
+                        "id": 332
+                    },
+                    
+                    {
+                        "question": "What communities and sub-communities exist on a social media platform, and how easy are they to construct? As your network becomes bigger with friends, followers, and contacts, it becomes necessary to sort your cronies into different groups. This is exemplified in Twitter's lists and Facebook's public, private, and secret groups.",
+                        "answer": ["Groups","Group"],
+                        "id": 333
+                    },
+
+                    {
+                        "question": "The extent to which users know if others are available.",
+                        "answer": ["Presence","Presences"],
+                        "id": 334
+                    },
+                    
+                    {
+                        "question": "The extent to which users relate to each other",
+                        "answer": ["Relationships","Relationship"],
+                        "id": 335
+                    },
+                    
+                    {
+                        "question": "The extent to which users know the social standing of others and content",
+                        "answer": ["Reputations","Reputation"],
+                        "id": 336
+                    },
+                    
+                    {
+                        "question": "The extent to which users are ordered or form communications",
+                        "answer": ["Groups","Group"],
+                        "id": 337
+                    },
+                    
+                    {
+                        "question": "The extent to which users communicate with each other",
+                        "answer": ["Conversations","Conversation"],
+                        "id": 338
+                    },
+                    
+                    {
+                        "question": "The extent to which users exchange, distribute and receive content",
+                        "answer": ["Sharing"],
+                        "id": 339
+                    },
+
+                    {
+                        "question": "The extent to which users reveal themselves",
+                        "answer": ["Identities", "Identity"],
+                        "id": 340
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 408
+                }
+            },
+
+            "The_basics_of_social_media_etiquette": {
+                "answers": ["Don’t be overly promotional", "Avoid over-automation.", "Handle your hashtags carefully.", "Don’t bad-mouth your competition.", "Be authentic and genuine."],
+                "questions": [
+                    {
+                        "question": "Try not to message all your customers asking them to buy your products and avoid sharing constant advertisements on your page. Make your social profiles a blend of promotional and valuable content.",
+                        "answer": ["Don’t be overly promotional","Don’t be overly promotional.","Don’t be overly promotionals","Don’t be overly promotionals."],
+                        "id": 341
+                    },
+                    
+                    {
+                        "question": "While scheduling your posts in advance and automating analytics is helpful, don’t automate everything. Some things still need a human touch.",
+                        "answer": ["Avoid over-automation.","Avoid over-automation","Avoid over-automations","Avoid over-automations.","Avoid over automation.","Avoid over automation"],
+                        "id": 342
+                    },
+                    
+                    {
+                        "question": "Avoid using too many hashtags at once. Even on Instagram, where you can use 30 hashtags in a single caption, it’s important not to overdo it.",
+                        "answer": ["Handle your hashtags carefully.","Handle your hashtags carefully"],
+                        "id": 343
+                    },
+                    
+                    {
+                        "question": "Don’t be petty. Saying negative things about your competitors online will harm your reputation more than it hurts theirs.",
+                        "answer": ["Don’t bad-mouth your competition.","Don’t bad-mouth your competitions","Don’t bad-mouth your competitions.","Don’t bad mouth your competition.","Don not bad-mouth your competition."],
+                        "id": 344
+                    },
+                    
+                    {
+                        "question": "Don’t try to be something you’re not. Remember that your customers can learn whatever they need to know about your brand online today and things like authenticity can go a long way",
+                        "answer": ["Be authentic and genuine.","Be authentic and genuine"],
+                        "id": 345
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 99999
+                }
+            }
+        },
+        
+        "Chapter_3": {
+            "Culture": {
+                "answers": ["Culture", "Communication", "Intercultural Communication"],
+                "questions": [
+                    {
+                        "question": "The learned and shared behavior of a community of interacting human beings.",
+                        "answer": ["Culture","Cultures"],
+                        "id": 346
+                    },
+                    
+                    {
+                        "question": "It is the act of conveying meanings from one entity or group to another using mutually understood signs, symbols, and semiotic rules.",
+                        "answer": ["Communication","Communications"],
+                        "id": 347
+                    },
+                    
+                    {
+                        "question": "Refers to the communication between people from two different cultures.",
+                        "answer": ["Intercultural Communication","Intercultural Communications"],
+                        "id": 348
+                    },
+                    
+                    {
+                        "question": "Is the mutual creation of meaning.",
+                        "answer": ["Communication","Communications"],
+                        "id": 349
+                    },
+                    
+                    {
+                        "question": "Is the coordination of meaning and action in a group.",
+                        "answer": ["Culture","Cultures"],
+                        "id": 350
+                    },
+                    
+                    {
+                        "question": "Is the mutual creation of meaning across cultures.",
+                        "answer": ["Intercultural Communication","Intercultural Communications"],
+                        "id": 351
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Power Distance", "Powers Distance"], ["Uncertainty Avoidance"],
+                                ["Performance Orientation", "Performance Orientations"], ["Assertiveness"],
+                                ["Future Orientation", "Future Orientations"], ["Humane Orientations", "Humane Orientation"],
+                                ["Institutional Collectivism", "Institutionals Collectivism"],
+                                ["In-Group Collectivism", "In-Groups Collectivism", "In Group Collectivism", "In Groups Collectivism"],
+                                ["Gender Egalitarianism", "Genders Egalitarianism"]],
+                    "question": "Dimensions that describe differences in national cultures",
+                    "id": 409
+                }
+            },
+
+            "Differences_in_national_cultures": {
+                "answers": ["Power Distance", "Uncertainly Avoidance", "Performance orientation", "Assertiveness", "Future Orientation", "Humane orientation", "Institutional collectivism", "In-group collectivism", "Gender egalitarianism"],
+                "questions": [
+                    {
+                        "question": "Is the degree to which people accept an unequal distribution of power and status privileges. In this countries, there is respect for age and titles, people are expected to follow rules, and there is more tolerance for concentrated power. India, Mexico, and the Philippines have high power distance. The United States, Australia, and Israel have low power distance.",
+                        "answer": ["Power Distance","Powers Distance"],
+                        "id": 352
+                    },
+                    
+                    {
+                        "question": "The degree to which people are uncomfortable with risk, change, and ambiguity. In high uncertainty avoidance countries, there is a greater emphasis on rules, structure, order, and predictability. France, Japan, and Costa Rica, for example, are countries with high uncertainty avoidance. The United States, India, and Sweden have low uncertainty avoidance.",
+                        "answer": ["Uncertainly Avoidance","Uncertainly Avoidances"],
+                        "id": 353
+                    },
+                    
+                    {
+                        "question": "Is the degree to which innovation, high standards, and excellent performance are encouraged and rewarded. Countries with high this value materialism and competitiveness, and they expect to invest in training to promote performance improvements. ",
+                        "answer": ["Performance orientation","Performance orientations"],
+                        "id": 354
+                    },
+                    
+                    {
+                        "question": "Is the degree to which individuals are forceful, confrontational, and aggressive, as opposed to cooperative and compassionate. In this countries such as the United States, Germany, and Mexico, communication is direct and unambiguous. Individual initiative is encouraged, and relationships are likely to be competitive. ",
+                        "answer": ["Assertiveness"],
+                        "id": 355
+                    },
+                    
+                    {
+                        "question": "The degree to which delayed gratification and planning for the future are valued over short-term gains. Countries with high this encourage investments for future payoffs over immediate consumption. It is like the ability of individuals to delay gratification. ",
+                        "answer": ["Future Orientation","Future Orientations"],
+                        "id": 356
+                    },
+                    
+                    {
+                        "question": "The degree to which fairness, altruism, generosity, and kindness are encouraged and valued. In nations with high this orientation, individuals are responsible for promoting the well-being of others as opposed to the state providing social and economic support. ",
+                        "answer": ["Humane orientation","humane orientations"],
+                        "id": 357
+                    },
+                    
+                    {
+                        "question": "Is the degree to which organizational and societal institutions encourage individuals to be integrated into groups and organizations. In this countries, collective distribution of resources and collective action are encouraged. ",
+                        "answer": ["Institutional collectivism","Institutional collectivisms","Institutionals collectivisms"],
+                        "id": 358
+                    },
+                    
+                    {
+                        "question": "Is the degree to which individuals express pride, loyalty, and cohesiveness in their organizations or families. In countries with this, individuals identify with their families or organizations and duties and obligations determine behaviors",
+                        "answer": ["In-group collectivism","In-group collectivisms","In group collectivisms","In group collectivism","Ingroup collectivism","Ingroup collectivisms"],
+                        "id": 359
+                    },
+                    
+                    {
+                        "question": "The degree to which male and female equality is actualized. Countries with this provide more opportunities for women and have more women in positions of power. ",
+                        "answer": ["Gender egalitarianism","gender egalitarianisms","genders egalitarianism","genders egalitarianisms"],
+                        "id": 360
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Physical appearance"], ["Paralanguage", "Paralanguages"],
+                                ["Facial expressions", "Facial expression", "Facials expression"],
+                                ["Eye contact", "Eye contacts", "Eyes contacts"],
+                                ["Gestures", "Gesture"], ["Haptics", "Haptic"], ["proxemics", "proxemic"]],
+                    "question": "Forms of nonverbal communication",
+                    "id": 410
+                }
+            },
+
+            "Form_of_Nonverval_Communication": {
+                "answers": ["Physical appearance", "Paralanguage", "Facial expressions", "Eye Contact", "Gestures", "Emblems", "Illustrators", "Regulators", "Adaptors", "Haptic", "Proxemics"],
+                "questions": [
+                    {
+                        "question": "Includes body type, height, weight, hair, and skin color. These characteristics affect our daily communications with others. We also wear clothing, and we display artifacts, which are ornaments or adornments that themselves communicate. Our clothing and artifacts mark our unique or co-cultural identity, or the many smaller cultural groups to which we belong within a larger culture. Whatever you wear or don't wear, this says something about you.",
+                        "answer": ["Physical appearance","Physical appearances"],
+                        "id": 361
+                    },
+                    
+                    {
+                        "question": "Or vocal cues, also mark our cultural, ethnic, and gender identity. This is how we say something, not what we way. If you raise your voice during a conversation, chances are that will be interpreted as you are angry or irritated. ",
+                        "answer": ["Paralanguage","Paralanguages"],
+                        "id": 362
+                    },
+                    
+                    {
+                        "question": "Falls under a larger category of nonverbal communication, kinesics, or body movement. The face can produce 250,000 different expressions. Many of these vary cross-culturally, but some can be recognized across cultures.",
+                        "answer": ["Facial expressions","Facial expression"],
+                        "id": 363
+                    },
+                    
+                    {
+                        "question": "Is a very powerful communication tool. Holding it can be a sign of respect, truthfulness, attraction, attention, or domination and power, for example. Failure to make eye contact can similarly be an indication of respect, fear, intimidation, lack of interest, and more. Some of this depends on the culture. ",
+                        "answer": ["Eye Contact","Eye Contacts"],
+                        "id": 364
+                    },
+                    
+                    {
+                        "question": "Another form of kinesics, are culturally specific.",
+                        "answer": ["Gestures","Gesture"],
+                        "id": 365
+                    },
+                    
+                    {
+                        "question": "Gestures shat substitute for words and phrases, such as raising your shoulders for 'I don't know'.",
+                        "answer": ["Emblems","Emblem"],
+                        "id": 366
+                    },
+                    
+                    {
+                        "question": "Help illustrate what we are trying to say, perhaps by indicating 'this big'.",
+                        "answer": ["Illustrators","Illustrator"],
+                        "id": 367
+                    },
+                    
+                    {
+                        "question": "Are used to control, maintain, or 'regulate' the pace and flow of conversation, such as putting up your forefinger to indicate you're not finished speaking;",
+                        "answer": ["Regulators","Regulator"],
+                        "id": 368
+                    },
+                    
+                    {
+                        "question": "Are habits or gestures that fulfill some kind of psychological need, such as picking lint off your shirt or playing with your hair.",
+                        "answer": ["Adaptors","Adaptor"],
+                        "id": 369
+                    },
+                    
+                    {
+                        "question": "Is the study of touch, and its rules vary considerably across cultures.",
+                        "answer": ["Haptic","Haptics"],
+                        "id": 370
+                    },
+                    
+                    {
+                        "question": "The study of space and it too is culturally regulated.",
+                        "answer": ["Proxemics","Proxemic"],
+                        "id": 371
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["emblems", "emblem"], ["illustrators", "illustrator"], ["regulator", "regulators"], ["adaptors", "adaptor"]],
+                    "question": "Gestures areas",
+                    "id": 412
+                }
+            },
+
+            "Interpersonal_Boundaries": {
+                "answers": ["Intimate zone", "Personal zone", "Social zone", "Public zone", "Environmental boundaries", "Psychological boundaries"],
+                "questions": [
+                    {
+                        "question": "Is reserved for those closest to us such as family, close friends, and an emotional situation. Its distance is zero to 18 inches. ",
+                        "answer": ["Intimate zone","Intimate zones","Intimates zone","Intimates zones"],
+                        "id": 372
+                    },
+                    
+                    {
+                        "question": "Is reserved for closer friends, some acquaintances, and colleagues. Its distance is eighteen to forty-eight inches.",
+                        "answer": ["Personal zone","Personal zones","Personals zone","Personals zones"],
+                        "id": 373
+                    },
+                    
+                    {
+                        "question": "Is what we typically find at a larger event such as a party, and its distance is forty-eight inches to twelve feet.",
+                        "answer": ["Social zone","Social zones","Socials zones","Socials zone"],
+                        "id": 374
+                    },
+                    
+                    {
+                        "question": "The distance of twelve feet or more. When any of these zones is violated, anxiety or discomfort can result.",
+                        "answer": ["Public zone","Public zones","Publics zone"],
+                        "id": 375
+                    },
+                    
+                    {
+                        "question": "Are the space we claim and to which we become emotionally attached along with other members of our communities. Territory and identity are interconnected concepts because of the amount of time, effort, emotion, and self-worth that is invested in what we claim as our primary territories.",
+                        "answer": ["Environmental boundaries","Environmental boundary"],
+                        "id": 376
+                    },
+                    
+                    {
+                        "question": "Can be defined as the expectation of space around you in an empty elevator or movie theater. How do you feel when someone sits right next to you on a park bench, when there are many other park benches free?",
+                        "answer": ["Psychological boundaries","Psychological boundary"],
+                        "id": 377
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["intimate zone", "intimate zones"],
+                    ["personal zone", "personal zones", "personals zone"],
+                    ["social zone", "social zones", "socials zone"],
+                    ["public zone", "public zones", "publics zone", "publics zones"]],
+                    "question": "Four spatial zones",
+                    "id": 413
+                }
+            },
+
+            "Barriers_to_Effective_internal_communication": {
+                "answers": ["Ethnocentrism", "Stereotypes and prejudices", "Stereotypes", "Prejudice", "Assumed similarities", "Anxiety"],
+                "questions": [
+                    {
+                        "question": "Refers to the belief that a person's culture (his 'in-group' culture) is much better than any other group's culture (an 'out-group' culture), and the tendency is for that person to judge any 'out group' culture by using the norms of his 'in-group' culture.",
+                        "answer": ["Ethnocentrism","Ethnocentrisms"],
+                        "id": 378
+                    },
+                    
+                    {
+                        "question": "Are the main barriers to intercultural communication. The negative characteristics attributed to one group can cause beliefs and feelings that lead to biases and discrimination against that group. The discriminated group often suffers from being rejected and avoided in cross-cultural interactions.",
+                        "answer": ["Stereotypes and prejudices","Stereotype and prejudice","Stereotype and prejudices","Stereotypes and prejudice","Stereotype and prejudice"],
+                        "id": 379
+                    },
+                    
+                    {
+                        "question": "Are often generalized negative traits assigned to a group of people (eg, race, nationality, religion, social class, sexual orientation, age, gender) even if these traits may only reflect a selected few of the group. ",
+                        "answer": ["Stereotypes","Stereotype"],
+                        "id": 380
+                    },
+                    
+                    {
+                        "question": "An offshoot of stereotypes, is an unfair thought, belief, or feeling of dislike for a person or group because of race, nationality, gender, sexual orientation, age, religion, and so on. It is a negative preconceived opinion held by one group toward members of another group that biases perception and provides a reason for discrimination.",
+                        "answer": ["Prejudice","Prejudices"],
+                        "id": 381
+                    },
+                    
+                    {
+                        "question": "Unreasonable refusal to see cultural differences where they exist. This happens when members of one group assume that all groups behave the same way they do, that what is true to their culture is also true to all other cultures. This results in insensitivity to cultural differences.",
+                        "answer": ["Assumed similarities","Assumed similarity","assumption of similarity"],
+                        "id": 382
+                    },
+                    
+                    {
+                        "question": "Is the fear or apprehension associated with either real or anticipated communication with people from another cultural group. The fear is often caused by differences in language ability, verbal and nonverbal communication styles, and expression of emotions.",
+                        "answer": ["Anxiety","Anxieties"],
+                        "id": 383
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 414
+                }
+            
+            },
+
+            "Cultural_Awareness": {
+                "answers": ["Cultural awareness", "Cultural sensitivity", "Gender sensitivity", "Gender-sensitive language", "Attributes", "Political correctness"],
+                "questions": [
+                    {
+                        "question": "Is knowing that there are multiple different cultures-based on religion, ethnicity, nationality, and other factors that have different attitudes and outlooks.",
+                        "answer": ["Cultural awareness","Culturals awareness"],
+                        "id": 384
+                    },
+                    
+                    {
+                        "question": "Involves accepting those differences without insisting your own culture is better, or that everyone should do it your way.",
+                        "answer": ["Cultural sensitivity","Cultural sensitivities"],
+                        "id": 385
+                    },
+                    
+                    {
+                        "question": "Refers to the aim of understanding and taking account of the societal and cultural factors involved in gender-based exclusion and discrimination in the most diverse spheres of public and private life. It focuses mainly on instances of structural disadvantage in the positions and roles of women.",
+                        "answer": ["Gender sensitivity","Gender sensitivities","Genders sensitivity","Genders sensitivities"],
+                        "id": 386
+                    },
+                    
+                    {
+                        "question": "Is the realization of gender equality in written and spoken language. Gender equality in language is attained when women and men and those who do not conform to the binary gender system are made visible and addressed in language as persons of equal value, dignity, integrity and respect.",
+                        "answer": ["Gender-sensitive language","Gender-sensitive languages","Gender sensitive language","Gender sensitive languages"],
+                        "id": 387
+                    },
+                    
+                    {
+                        "question": "Means usage of certain words which underline stereotypic gendered attributes. (Women are caretakers, gentle and emotional, while men are achievers, strong and logical).",
+                        "answer": ["Attributes","Attribute"],
+                        "id": 388
+                    },
+                    
+                    {
+                        "question": "Is a term used to describe a language, policies, or measures that are intended to avoid offense or disadvantage to members of groups in society. ",
+                        "answer": ["Political correctness"],
+                        "id": 389
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Interpersonal boundaries", "Interpersonal boundary", "Interpersonals boundaries"],
+                    ["Environmental boundaries", "Environmental boundary", "Environmentals boundaries"],
+                    ["Psychological boundaries", "Psychological boundary"]],
+                    "question": "Boundaries",
+                    "id": 415
+                }
+            },
+
+            "Barriers_to_Effective_internal_communications": {
+                "answers": [],
+                "questions": [],
+            
+                "enumeration": {
+                    "answers": [["Ethnocentrism"], ["Stereotypes and prejudices", "Stereotype and prejudice", "Stereotypes and prejudice", "Stereotype and prejudices", "Stereotype and prejudice"],
+                                ["Stereotypes", "Stereotype"], ["Prejudice", "Prejudices"], ["Assumed similarities", "Assumed similarity"], ["Anxiety"]],
+                    "question": "Barriers to Effective internal communications",
+                    "id": 416
+                }
+            }
+        },
+
+        "Chapter_4": {
+            "Varieties_of_English": {
+                "answers": ["World Englishes", "Inner Circle", "Outer Circle", "Expanding Circle"],
+                "questions": [
+                    {
+                        "question": "It stands for the localized varieties of English as they are used or spoken in certain areas.",
+                        "answer": ["World Englishes","World Englishes (WE)","World Englishes(WE)","WE"],
+                        "id": 421
+                    },
+                    
+                    {
+                        "question": "It covers the native English-speaking countries.",
+                        "answer": ["Inner Circle","Inner Circles"],
+                        "id": 422
+                    },
+                    
+                    {
+                        "question": "It comprises the former colonies.",
+                        "answer": ["Outer Circle","Outer Circles"],
+                        "id": 423
+                    },
+                    
+                    {
+                        "question": "Are affected by the widespread use of English as a Global language—an important language in business, science, technology and education.",
+                        "answer": ["Expanding Circle","Expanding Circles"],
+                        "id": 424
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Inner Circle"], ["Outer Circle"], ["Expanding Circle"]],
+                    "question": "Three Concentric Circles of Asian Englishes",
+                    "id": 425
+                }
+            },
+
+            "Singapore_English": {
+                "answers": ["Actsy", "Missy", "Chop", "Marina kid's", "Graduate mother", "Deep", "Stick", "High blood", "Blow out", "Motel", "Manualize", "Go ahead", "Studentry", "Amboy", "Promdi", "Behest loan", "Pulot boy", "Balikbayan box"],
+                "questions": [
+                    {
+                        "question": "show off (Singapore english)",
+                        "answer": ["Actsy"],
+                        "id": 427
+                    },
+                    
+                    {
+                        "question": "Nurse (Singapore english)",
+                        "answer": ["Missy"],
+                        "id": 428
+                    },
+                    
+                    {
+                        "question": "Rubber stamp (Singapore english)",
+                        "answer": ["Chop"],
+                        "id": 429
+                    },
+                    
+                    {
+                        "question": "youngsters who spend their leisure time at or around Marina Square. (Singapore English)",
+                        "answer": ["Marina kid's","Marina kids","Marina kid"],
+                        "id": 430
+                    },
+                    
+                    {
+                        "question": "graduate (well educated) married women, encourage to have more children, and accorded certain privileges in Singapore as compared. red to non-graduate mothers. (Singapore English)",
+                        "answer": ["Graduate mother","Graduate mothers","Graduates mother"],
+                        "id": 431
+                    },
+                    
+                    {
+                        "question": "puristic or hard to understand as an attribute of language. (Philippines english)",
+                        "answer": ["Deep"],
+                        "id": 432
+                    },
+                    
+                    {
+                        "question": "Cigarette (Philippines english)",
+                        "answer": ["Stick"],
+                        "id": 433
+                    },
+                    
+                    {
+                        "question": "tense or upset. (Philippines english)",
+                        "answer": ["High blood"],
+                        "id": 434
+                    },
+                    
+                    {
+                        "question": "treating someone with a snack or meal. (Philippines english)",
+                        "answer": ["Blow out"],
+                        "id": 435
+                    },
+                    
+                    {
+                        "question": "a hotel used for pre-marital or extramarital affairs. (Philippines english)",
+                        "answer": ["Motel","Motels"],
+                        "id": 436
+                    },
+                    
+                    {
+                        "question": "to prepare manuals. (Philippines english)",
+                        "answer": ["Manualize"],
+                        "id": 437
+                    },
+                    
+                    {
+                        "question": "leave before others with host’s permission. (Philippines English)",
+                        "answer": ["Go ahead"],
+                        "id": 438
+                    },
+                    
+                    {
+                        "question": "student body. (Philippines English)",
+                        "answer": ["Studentry"],
+                        "id": 440
+                    },
+                    
+                    {
+                        "question": "a Filipino perceived to be too pro-American. (Philippines English)",
+                        "answer": ["Amboy"],
+                        "id": 441
+                    },
+                    
+                    {
+                        "question": "from the province(Philippines English)",
+                        "answer": ["Promdi"],
+                        "id": 442
+                    },
+                    
+                    {
+                        "question": "unguaranteed bank loan given presidential cronies (Philippines English)",
+                        "answer": ["Behest loan","Behest loans"],
+                        "id": 443
+                    },
+                    
+                    {
+                        "question": "boy who picks up tennis ball in a game (Philippines English)",
+                        "answer": ["Pulot boy","Pulot boys"],
+                        "id": 444
+                    },
+                    
+                    {
+                        "question": "box where Filipinos returning from abroad put all their shopping (Philippines English)",
+                        "answer": ["Balikbayan box","Balikbayan boxes"],
+                        "id": 445
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["China"],
+                    ["Indonesia"],
+                    ["Korea"],
+                    ["South Africa"],
+                    ["CIS"],
+                    ["Caibean Countries"],
+                    ["Israel"],
+                    ["Nepal"],
+                    ["South America"],
+                    ["Zimbabwe"],
+                    ["Egypt"],
+                    ["Japan"],
+                    ["Saudi Arabia"],
+                    ["Taiwan"]],
+                    "question": "The Expanding circle(e.g. in module)",
+                    "id": 426
+                }
+            },
+
+            "Registers": {
+                "answers": ["Register", "Very formal, frozern, or static register.", "Formal or regulated register.", "Neutral, professional, consultative register.", "Informal, group, or casual register.", "Very informal, personal, or intimate register.", "Very formal, frozern, or static register.", "Formal or regulated register.", "Neutral, professional, consultative register.", "Informal, group, or casual register.", "Very formal, frozern, or static register."],
+                "questions": [
+                    {
+                        "question": "Refers to varieties or styles of speaking and writing, which vary in their degrees of formality depending on the topic (what), purpose (why), context (where), and audience (who). ",
+                        "answer": ["Register","Registers"],
+                        "id": 428
+                    },
+                    
+                    {
+                        "question": "This register is 'frozen' in time and content because it rarely or never changes.",
+                        "answer": ["Very formal, frozern, or static register.","Very formal, frozern, or static register","Very formal","frozen","static register"],
+                        "id": 429
+                    },
+                    
+                    {
+                        "question": "This is the formal and impersonal language, which is one-way in nature and used in formal situations.",
+                        "answer": ["Formal or regulated register.","Formal or regulated register","Formal or regulated registers.","Formal or regulated registers"],
+                        "id": 430
+                    },
+                    
+                    {
+                        "question": "This is the normal style of speaking between communications who use mutually accepted language that conforms to formal societal standards.",
+                        "answer": ["Neutral, professional, consultative register.","Neutral, professional, consultative register","Neutral, professional, consultative registers","Neutral, professional, consultative registers.","Neutral","professional","consultative register"],
+                        "id": 431
+                    },
+                    
+                    {
+                        "question": "This is the informal language between friends and peers, which uses slang, vulgarities, and colloquialisms.",
+                        "answer": ["Informal, group, or casual register.","Informal, group, or casual register","Informal","group","casual register"],
+                        "id": 432
+                    },
+                    
+                    {
+                        "question": "This is the private, intimaate language reserved for family members or intimate people.",
+                        "answer": ["Very informal, personal, or intimate register.","Very informal, personal, or intimate register","Very informal","personal","Very informal, personal, or intimate register"],
+                        "id": 433
+                    },
+                    
+                    {
+                        "question": "(Language Register or Style) peotry, prayers, laws, marriage vows, insurance policies, leases, and wills.",
+                        "answer": ["Very formal, frozern, or static register.","Very formal, frozern, or static register","Very formal","frozen","static register"],
+                        "id": 434
+                    },
+                    
+                    {
+                        "question": "(Language Register or Style) Books, news reports, magazines or journal articles, business letters, official speeches, and sermons.",
+                        "answer": ["Formal or regulated register.","Formal or regulated register","Formal or regulated registers.","Formal or regulated registers"],
+                        "id": 435
+                    },
+                    
+                    {
+                        "question": "Types of communications between strangers, teacher and student, superior and subordinate, doctor and patient,a nd lawyer and client.",
+                        "answer": ["Neutral, professional, consultative register.","Neutral, professional, consultative register","Neutral, professional, consultative registers","Neutral, professional, consultative registers.","Neutral","professional","consultative register"],
+                        "id": 436
+                    },
+                    
+                    {
+                        "question": "(Language Register or Style) conversations, chats and emails, blogs, tweets, and personal letters.",
+                        "answer": ["Informal, group, or casual register.","Informal, group, or casual register","Informal","group","casual register"],
+                        "id": 437
+                    },
+                    
+                    {
+                        "question": "kind of interactions between husband and wife, boyfriend and girlfriend, siblings, and parent and child.",
+                        "answer": ["Very formal, frozern, or static register.","Very formal, frozern, or static register","Very formal","frozen","static register"],
+                        "id": 438
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Bangladesh"],
+                                ["kenya"],
+                                ["Pakistan"],
+                                ["Sri Lanka"],
+                                ["Ghana"],
+                                ["Malaysia"],
+                                ["Philippines"],
+                                ["Tanzania"],
+                                ["India"],
+                                ["Nigeria"],
+                                ["Singapore"],
+                                ["Zambia"]],
+                    "question": "The outer circle(e.g. in module)",
+                    "id": 427
+                }
+            },
+
+            "Vocabulary ": {
+                "answers": ["abaca", "taclobo", "tamarau", "ylang-ylang", "balikbayan box", "barangay", "barkada", "despedida party", "estafa", "kikay kit", "pan de sal", "pasalubong", "sari-sari store", "sisig", "suki", "batchmate", "kkb", "mani-pedi", "presidentiable", "carnapper", "comfort room", "high bllod", "to go down", "salvage"],
+                "questions": [
+                    {
+                        "question": "(first attested 1751) – a kind of banana plant, Musa textilis, native to the Philippines, the petioles of which yield a strong fiber; the fiber itself, used for making paper, ropes, matting, etc.; Manila hemp. ",
+                        "answer": ["abaca"],
+                        "id": 441
+                    },
+                    
+                    {
+                        "question": "(1885) – A bivalve mollusk, of great size, the Giant Clam (Tridacna gigas) of the Indian and China seas. ",
+                        "answer": ["taclobo"],
+                        "id": 442
+                    },
+                    
+                    {
+                        "question": "(1898) – A diminutive black buffalo, Bubalus mindorensis, peculiar to the island Mindoro, in the Philippines.  ",
+                        "answer": ["tamarau"],
+                        "id": 443
+                    },
+                    
+                    {
+                        "question": "(1876) – an anonaceous tree (Canangium odoratum) of Malaysia, the Philippines, etc., with fragrant greenish-yellow flowers from which a perfume is distilled; hence, the perfume itself.  ",
+                        "answer": ["ylang-ylang"],
+                        "id": 444
+                    },
+                    
+                    {
+                        "question": "(1984) – a carton shipped or brought to the Philippines from another country by a Filipino who has been living overseas, typically containing items such as food, clothing, toys, and household products. ",
+                        "answer": ["balikbayan box","balikbayan boxes"],
+                        "id": 445
+                    },
+                    
+                    {
+                        "question": "(1840) – a village, suburb, or other demarcated neighborhood; a small territorial and administrative district forming the most local level of government; from Tagalog. ",
+                        "answer": ["barangay"],
+                        "id": 446
+                    },
+                    
+                    {
+                        "question": "(1965) – a group of friends; from Tagalog, ultimately from Spanish barcada ‘boat-load’. ",
+                        "answer": ["barkada"],
+                        "id": 447
+                    },
+                    
+                    {
+                        "question": "(1929) – a social event honoring someone who is about to depart on a journey or leave an organization; a going-away party; a blend of Spanish and English. ",
+                        "answer": ["despedida party"],
+                        "id": 448
+                    },
+                    
+                    {
+                        "question": "(1903) – criminal deception, fraud; dishonest dealing; from Spanish.  ",
+                        "answer": ["estafa"],
+                        "id": 449
+                    },
+                    
+                    {
+                        "question": "(2002) – a soft case in which a woman’s toiletries and cosmetics are stored; blend of Tagalog and English. ",
+                        "answer": ["kikay kit"],
+                        "id": 450
+                    },
+                    
+                    {
+                        "question": "(1910) – a yeast-raised bread roll made of flour, eggs, sugar and salt, widely consumed in the Philippines, especially for breakfast, partly from Tagalog, partly from Spanish.  ",
+                        "answer": ["pan de sal"],
+                        "id": 451
+                    },
+                    
+                    {
+                        "question": "(1933) – a gift or souvenir given to a friend or relative by a person who has returned from a trip or arrived for a visit; from Tagalog. ",
+                        "answer": ["pasalubong"],
+                        "id": 452
+                    },
+                    
+                    {
+                        "question": "(1925) – a small neighborhood store selling a variety of goods; blend of Tagalog and English. ",
+                        "answer": ["sari-sari store"],
+                        "id": 453
+                    },
+                    
+                    {
+                        "question": "(1987) – a dish consisting of chopped pork, onions, and chilies; from Kapampangan. ",
+                        "answer": ["sisig"],
+                        "id": 454
+                    },
+                    
+                    {
+                        "question": "(1941) – a buyer or seller involved in an arrangement whereby a customer regularly purchases products or services from the same provider in exchange for favorable treatment; also the arrangement itself; from Tagalog.  ",
+                        "answer": ["suki"],
+                        "id": 455
+                    },
+                    
+                    {
+                        "question": "(1918) – a member of the same graduation class as another; a classmate; formed by combining batch, n. with mate, n. ",
+                        "answer": ["batchmate"],
+                        "id": 456
+                    },
+                    
+                    {
+                        "question": "(1987) – ‘Kaniya-kaniyang bayad’, lit. ‘each one pays their own’, used esp. to indicate that the cost of a meal is to be shared. ",
+                        "answer": ["kkb"],
+                        "id": 458
+                    },
+                    
+                    {
+                        "question": "(1972) – a beauty treatment comprising both a manicure and a pedicure; formed by clipping and blending the words manicure, n. and pedicure, n. ",
+                        "answer": ["mani-pedi"],
+                        "id": 459
+                    },
+                    
+                    {
+                        "question": "(1840) – a person who is a likely or confirmed candidate for president; formed by adding the –able suffix to president.",
+                        "answer": ["presidentiable"],
+                        "id": 460
+                    },
+                    
+                    {
+                        "question": "(1945) – a person who steals a motor vehicle; a car thief; formed following the model of kidnapper",
+                        "answer": ["carnapper"],
+                        "id": 461
+                    },
+                    
+                    {
+                        "question": "(1886) – a toilet; an old-fashioned American euphemism that continues to be widely used in the Philippines. ",
+                        "answer": ["comfort room"],
+                        "id": 462
+                    },
+                    
+                    {
+                        "question": "(1997) – angry, agitated (e.g., I am so high blood because of this traffic jam!); use of a noun phrase as an adjective. ",
+                        "answer": ["high bllod","high blood"],
+                        "id": 463
+                    },
+                    
+                    {
+                        "question": "(1993) – to alight from a vehicle; to get off a bus, train, etc., esp. at a specified stop; a translation of the Filipino verb bumaba. ",
+                        "answer": ["to go down"],
+                        "id": 464
+                    },
+                    
+                    {
+                        "question": "(1980) – to apprehend and execute (a suspected criminal) without trial; complete semantic change from the original English meaning ‘to rescue’",
+                        "answer": ["salvage"],
+                        "id": 465
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["USA", "United State of America", "America"], ["UK", "United Kingdom"],
+                                ["Canada"], ["Austrilia"], ["New Zealand"]],
+                    "question": "The Inner Circle",
+                    "id": 440
+                }
+            }
+        }
+    },
+
     "DSA": {
         "Chapter_1": {
             "Fundamentals_Properties": {
@@ -1836,441 +3369,5 @@
 
     "PE": {
 
-    },
-
-    "PUR_COM": {
-        "Chapter_1": {
-            "Communication": {
-                "answers": ["wikipedia.org", "Oxford English Dictionary", "Chase & Shamo, 2013", "Seiler and Beall, 1999", "Wood, 2004"],
-                "questions": [
-                    {
-                        "question": "From the Latin communicare, meaning to share is the act of conveying meanings from one entity or group to another using mutually understood signs, symbols, and semiotic rules. By?",
-                        "answer": ["wikipedia.org","wikipedia","www.wikipedia","www.wikipedia.org"],
-                        "id": 255
-                    },
-                    
-                    {
-                        "question": "The imparting or exchanging of information by speaking, writing, or using some other medium. The successful conveying or sharing of ideas and feelings.",
-                        "answer": ["Oxford English Dictionary","Oxford English","Oxford","Oxford Dictionary"],
-                        "id": 256
-                    },
-                    
-                    {
-                        "question": "A common understanding of something. By?",
-                        "answer": ["Chase & Shamo, 2013","Chase & Shamo","Chase and Shamo in 2013","Shamo & Chase, 2013","Shamo & Chase"],
-                        "id": 257
-                    },
-                    
-                    {
-                        "question": "The simultaneous sharing and creating of meaning through human symbolic interaction. By?",
-                        "answer": ["Seiler and Beall, 1999","Seiler and Beall","Seiler & Beall","Beall and Seiller","Beall and Seiller, 1999","Beall & Seiller, 1999"],
-                        "id": 258
-                    },
-                    
-                    {
-                        "question": "A systematic process in which individuals interact with and through symbols to create and interpret meanings. By?",
-                        "answer": ["Wood, 2004","Wood","Wood 2004","Wood in 2004"],
-                        "id": 259
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Types_of_Communication": {
-                "answers": ["Communication", "Verbal Communication", "Written Communication", "Oral communication", "Nonverbal communication", "Physical nonverbal communication", "Visual communication"],
-                "questions": [
-                    {
-                        "question": "Is a process of creating and sharing meaning by using verbal and nonverbal symbols in varied contexts.",
-                        "answer": ["Communication","Communications"],
-                        "id": 260
-                    },
-                    
-                    {
-                        "question": "It is further subdivided into written communication and oral communication.",
-                        "answer": ["Verbal Communication","Verbal Communications","Verbal"],
-                        "id": 261
-                    },
-                    
-                    {
-                        "question": "Can involve anything from words on a page to emails, to text messages.",
-                        "answer": ["Written Communication","Written Communications","Writtens Communications","Written"],
-                        "id": 262
-                    },
-                    
-                    {
-                        "question": "Involves spoken words. This can be done in person, through the phone, or over video chat.",
-                        "answer": ["Oral communication","Oral communications","Oral"],
-                        "id": 263
-                    },
-                    
-                    {
-                        "question": "Occurs when meaning or messages are sent or received without the use of words. It can be intentional or unintentional.",
-                        "answer": ["Nonverbal communication","Nonverbal communications","Non-verbal communication","Non-verbal communications","Nonverbal","Non-verbal"],
-                        "id": 264
-                    },
-                    
-                    {
-                        "question": "Can be displayed through body language, facial expressions, touch, or eye contact.",
-                        "answer": ["Physical nonverbal communication","Physical nonverbal communications","Physical non-verbal communication","Physical"],
-                        "id": 265
-                    },
-                    
-                    {
-                        "question": "Utilizes drawings, illustrations, pictures, colors, graphs, charts, and signs to share meaning. It can be used in conjunction with verbal communication, or it can stand on its own.",
-                        "answer": ["Visual communication","Visual communications","Visuals"],
-                        "id": 266
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Process_of_Communication": {
-                "answers": ["Source", "Message", "Encoding", "Decoding", "Reciever", "Feedback", "Context"],
-                "questions": [
-                    {
-                        "question": "Sender of the message. Know exactly what information to give or share.",
-                        "answer": ["Source","Sources"],
-                        "id": 266
-                    },
-                    
-                    {
-                        "question": "The information you want to convey. Details of the information should be very clear.",
-                        "answer": ["Message","Messages"],
-                        "id": 267
-                    },
-                    
-                    {
-                        "question": "The mental process of converting your ideas or thoughts into verbal and/ or nonverbal symbols that can be understood by the receiver of the message.",
-                        "answer": ["Encoding"],
-                        "id": 268
-                    },
-                    
-                    {
-                        "question": "The way the message or information is conveyed. It may be in the form of a face-to-face conversation, text message, phone call, video conference, letter, email, reports, memo)",
-                        "answer": ["Decoding"],
-                        "id": 269
-                    },
-                    
-                    {
-                        "question": "The receiver’s mental process of the message into the meaning suggested by the verbal and/or nonverbal symbols used by the sender.",
-                        "answer": ["Decoding"],
-                        "id": 270
-                    },
-                    
-                    {
-                        "question": "The people or group of people who will get the message.",
-                        "answer": ["Reciever","Recievers"],
-                        "id": 271
-                    },
-                    
-                    {
-                        "question": "The receiver’s response or reply to the message.",
-                        "answer": ["Feedback","Feedbacks"],
-                        "id": 272
-                    },
-                    
-                    {
-                        "question": "The situation in which the communication takes place.",
-                        "answer": ["Context","Contexts"],
-                        "id": 273
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Element_of_Communication": {
-                "answers": ["Sender", "Message", "Channel", "Reciever", "Effect"],
-                "questions": [
-                    {
-                        "question": "(who the source is)",
-                        "answer": ["Sender","Senders"],
-                        "id": 274
-                    },
-                    
-                    {
-                        "question": "(what idea is being communicated)",
-                        "answer": ["Message","Messages"],
-                        "id": 275
-                    },
-                    
-                    {
-                        "question": "(through what medium the message is relayed)",
-                        "answer": ["Channel","Channels"],
-                        "id": 276
-                    },
-                    
-                    {
-                        "question": "(to whom is the message directed)",
-                        "answer": ["Reciever","Recievers"],
-                        "id": 277
-                    },
-                    
-                    {
-                        "question": "(what the desired result of the communication is)",
-                        "answer": ["Effect","Effect","Effects"],
-                        "id": 278
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Models_of_Communication": {
-                "answers": ["Linear Model", "Interactive Model", "Transactional Model"],
-                "questions": [
-                    {
-                        "question": "Also call the transmission model, it assumes that communication is transmitted in a straightforward manner-from a sender to a receiver. This clearly reflects that communication is a one-way process.",
-                        "answer": ["Linear Model","Linear Models","Linear"],
-                        "id": 279
-                    },
-                    
-                    {
-                        "question": "In this model, communication is a two-way process which involves an exchange or an interaction between the sender and the receiver. This indicates that the receiver is not just a mere absorber of the message from the receiver.",
-                        "answer": ["Interactive Model","Interactive Models","Interactives Model","Interactives Models","Interactive"],
-                        "id": 280
-                    },
-                    
-                    {
-                        "question": "This is a model in which people interact with and through symbols overtime to share and create meaning. It has time element which influences how people communicate. Itdepicts communication as varying and dynamic. that communication occurs within systems that influence what and how people communicate. the model does not label one as sender and the receiver, instead, are communicators",
-                        "answer": ["Transactional Model","Transactional Models","Transactionals Models","Transactionals Model","Transactional","Transactionals"],
-                        "id": 281
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Forms_of_Communication": {
-                "answers": ["Intrapersonal Communication", "Interpersonal Communication", "Dyadic Communication", "Small Group Communication", "Public Communication", "Mass Communication", "Intrapersonal Communication", "Interpersonal Communication", "Extended Communication", "Organizational Communication", "Formal structure", "Downward Communication", "Upward Communication", "Horizontal Communication", "Crosswise approach", "Informal structure", "Intercultural Communication", "Formal Communication", "Informal Communication"],
-                "questions": [
-                    {
-                        "question": "Is a communication which happens within one’s self. Here both Source (sender) and receiver is only one. so, the feedback works without any interruption.",
-                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
-                        "id": 282
-                    },
-                    
-                    {
-                        "question": "The process of exchange of information, ideas and feelings between two or more people through verbal or non-verbal methods. It often includes face-to-face exchange of information, in a form of voice, facial expressions, body language and gestures.",
-                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonals Communications","Interpersonals Communication","Interpersonals","Interpersonal"],
-                        "id": 283
-                    },
-                    
-                    {
-                        "question": "Two persons are involved in this communication process. Here the source becomes a receiver and receiver becomes source.",
-                        "answer": ["Dyadic Communication","Dyadic Communications","Dyadics Communication","Dyadics","Dyadic","Dynamic Communication","Dynamic Communications","Dynamic"],
-                        "id": 284
-                    },
-                    
-                    {
-                        "question": "More than two members involved in communication process will become a group communication. If least number of persons is involved in the group communication is called as small group communication. In this communication process, everyone becomes a Source as well as receiver through sharing information and gives feedback to another.",
-                        "answer": ["Small Group Communication","Small Group Communications","Smalls Groups Communications","Small Groups Communications","Small Groups","Small Groups","Small Group"],
-                        "id": 285
-                    },
-                    
-                    {
-                        "question": "Source or messages from a single person will reach or will be received by huge number of audiences. Feedback is quite distant because of the large number of receivers.",
-                        "answer": ["Public Communication","Public Communications","Publics Communications","Public"],
-                        "id": 286
-                    },
-                    
-                    {
-                        "question": "Basically have many audiences and they can’t be grouped together in one place so a certain tool or technology for communication process is needed. But, there is no direct access with the receiver/s so there is a need for the use of media like newspaper, radio, television, and internet. Here the audience feedback is very less or delayed.",
-                        "answer": ["Mass Communication","Mass Communications","Mass"],
-                        "id": 287
-                    },
-                    
-                    {
-                        "question": "The Latin prefix intra- means within or inside. This communication then means talking to oneself. Some label it as self or inner talk, inner monologue, or inner dialogue. Psychologists call it with other names such as self-verbalization or self-statement.",
-                        "answer": ["Intrapersonal Communication","Intrapersonal Communications","Intrapersonals Communications","Intrapersonals","Intrapersonal"],
-                        "id": 288
-                    },
-                    
-                    {
-                        "question": "The Latin prefix inter- means between, among and together. An interactive exchange takes place as this communication takes place. However, as it occurs, a transaction does not necessarily take place since it can only be a simple interaction such as greetings, getting to know a person, or ordinary conversations that happen between and among the interactants. This may occur in dyads or small groups, also known as group communication.",
-                        "answer": ["Interpersonal Communication","Interpersonal Communications","Interpersonal"],
-                        "id": 289
-                    },
-                    
-                    {
-                        "question": "Involves the use of electronic media. With electronic media, messages are transmitted quickly, your own thinking, behavior and attitude may be influenced by the views you hear. It is important then that you weigh what you hear and assess them against those beliefs that you hold onto, so you do not get easily swayed by other people’s convictions.",
-                        "answer": ["Extended Communication","Extended Communications","Extended"],
-                        "id": 290
-                    },
-                    
-                    {
-                        "question": "The focus is on the role that communication plays in organizational contexts. Organizations comprise individuals who work for the company. For an organization to be successful, a system of communication should be put in place. A set of rules or standards for communication protocol should be made clear so that interaction patterns are established.",
-                        "answer": ["Organizational Communication","Organizational Communications","Organizationals Communications","Organizationals Communication","Organizationals","Organizational"],
-                        "id": 291
-                    },
-                    
-                    {
-                        "question": "Enter question: Allows communication to take place via designated channels of message flow between positions in the organization.",
-                        "answer": ["Formal structure","Formal structures","Formal"],
-                        "id": 292
-                    },
-                    
-                    {
-                        "question": "Is the type that flows from upper to lower positions. The flow of communication is top down or from a superior to a subordinate, usually asking certain individuals to perform a certain task.",
-                        "answer": ["Downward Communication","Downward Communications","Downwards Communication","Downwards Communications","Downwards","Downward"],
-                        "id": 293
-                    },
-                    
-                    {
-                        "question": "Is bottom- up in which subordinates send communication to their superiors bearing their views on organizational policies, issued related to their jobs, and the like.",
-                        "answer": ["Upward Communication","Upward Communications","Upwards Communications","Upward"],
-                        "id": 294
-                    },
-                    
-                    {
-                        "question": "Is lateral in approach as it takes place among people belonging to the same level but coming from different departments or units to facilitate performance to task through proper coordination.",
-                        "answer": ["Horizontal Communication","Horizontal Communications","Horizontal"],
-                        "id": 295
-                    },
-                    
-                    {
-                        "question": "Is diagonal in nature as employees from different units or departments working at various levels.",
-                        "answer": ["Crosswise approach","Crosswise approachs"],
-                        "id": 296
-                    },
-                    
-                    {
-                        "question": "Comes from unofficial channels of message flow. Also known as grapevine messages coming from the different levels of the organization. This occurs due to the dissatisfaction of some employees accompanied by uncertainty.",
-                        "answer": ["Informal structure","Informal structures","Informal"],
-                        "id": 297
-                    },
-                    
-                    {
-                        "question": "It is a communication between or among people having different linguistic, religious, ethnic, social, and professional backgrounds. This particularly happens with non-verbal communication.",
-                        "answer": ["Intercultural Communication","Intercultural Communications","Interculturals"],
-                        "id": 298
-                    },
-                    
-                    {
-                        "question": "Employs formal language delivered orally or in written form.",
-                        "answer": ["Formal Communication","Formal Communications","Formal"],
-                        "id": 299
-                    },
-                    
-                    {
-                        "question": "It involves personal and ordinary conversations with friends, family members, or acquaintances about anything under the sun. the purpose is simply to socialize and enhance relationship.",
-                        "answer": ["Informal Communication","Informal Communications","Informal"],
-                        "id": 300
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            },
-
-            "Morals_and_Ethics": {
-                "answers": ["Ethics", "Morals", "Mutuality", "Individual Dignity", "Accuracy", "Access to information", "Accountability", "Audience", "Relative truth", "Ends vs. means", "Use of power", "Rights vs. Responsibilities"],
-                "questions": [
-                    {
-                        "question": "Refer to rules provided by an external source, e.g., codes of conduct in workplaces or principles in religions.",
-                        "answer": ["Ethics","Ethic"],
-                        "id": 301
-                    },
-                    
-                    {
-                        "question": "Refer to an individual’s own principles regarding right and wrong.",
-                        "answer": ["Morals","Moral"],
-                        "id": 302
-                    },
-                    
-                    {
-                        "question": "Pay attention to the needs of others, as well as yours.",
-                        "answer": ["Mutuality","Mutualities"],
-                        "id": 303
-                    },
-                    
-                    {
-                        "question": "Do not cause another person’s embarrassment or a loss dignity.",
-                        "answer": ["Individual Dignity","Individual Dignities"],
-                        "id": 304
-                    },
-                    
-                    {
-                        "question": "Ensure that others have accurate information. Tell them everything they have a right and need to know, not just what is true.",
-                        "answer": ["Accuracy","Accuracies"],
-                        "id": 305
-                    },
-                    
-                    {
-                        "question": "Never bolster the impact of your communication by preventing people from communicating with one another or by hindering access to the supporting information. ",
-                        "answer": ["Access to information","Access to informations"],
-                        "id": 306
-                    },
-                    
-                    {
-                        "question": "Be responsible and accountable for the consequences of your relationships and communication.",
-                        "answer": ["Accountability","Accountabilities"],
-                        "id": 307
-                    },
-                    
-                    {
-                        "question": "As audience or receiver of the information, you also have ethical responsibilities. A good rule of thumb is the 100% rule, where both the sender and the receiver have full or 100% responsibility to ensure that the message is understood, and that ethics are followed. This is a 100/100 rule, not a 50/50 rule.",
-                        "answer": ["Audience"],
-                        "id": 308
-                    },
-                    
-                    {
-                        "question": "As either sender or receiver of information, remember that your own point of view may not be shared by others and that your conclusions are relative to your perspective, so allow others to respectfully disagree or see it differently.",
-                        "answer": ["Relative truth","Relative truths","Relatives truths"],
-                        "id": 309
-                    },
-                    
-                    {
-                        "question": "Be sure that the end goal of your communication and the means of getting to that end are both ethical although no rule can be applied without reservation to any situation.",
-                        "answer": ["Ends vs. means","End vs. mean","Ends vs means","Ends versus means","End versus mean"],
-                        "id": 310
-                    },
-                    
-                    {
-                        "question": "In situations where you have more power than others (e.g., a teacher with a student, a boss with a subordinate, a parent with a child), you also have more responsibility for the outcome.",
-                        "answer": ["Use of power","Use of powers"],
-                        "id": 311
-                    },
-                    
-                    {
-                        "question": "Balance your rights against your responsibilities even if you live in a wonderful society where your rights are protected by law; not everything you have a right to do is ethical.",
-                        "answer": ["Rights vs. Responsibilities","Rights vs. Responsibility","Rights vs Responsibilities","Rights versus Responsibility","Right vs. Responsibility","Rights vs Responsibility","Rights vs. Responsibility"],
-                        "id": 312
-                    }
-                ],
-
-                "enumeration": {
-                    "answers": [],
-                    "question": "",
-                    "id": 99999
-                }
-            }
-        }
-        
     }
 }
