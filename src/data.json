@@ -1590,7 +1590,7 @@
                 ],
 
                 "enumeration": {
-                    "answers": [["Source", "Sources"], ["Message", "Messages"], ["Encoding"], ["Channel", "Channels"], ["Decoding"], ["Reciever", "Recievers"], ["Feedback", "Feedbacks"], ["Context", "Contexts"]],
+                    "answers": [["Source", "Sources"], ["Message", "Messages"], ["Encoding"], ["Channel", "Channels"], ["Decoding"], ["Receiver", "Receivers"], ["Feedback", "Feedbacks"], ["Context", "Contexts"]],
                     "question": "Process of Communication",
                     "id": 390
                 }
@@ -1643,14 +1643,14 @@
                 ],
 
                 "enumeration": {
-                    "answers": [["Sender", "Senders"], ["Message", "Messages"], ["Channel", "Channels"], ["Reciever", "Reciever"], ["Effect", "Effects"]],
+                    "answers": [["Sender", "Senders"], ["Message", "Messages"], ["Channel", "Channels"], ["Receiver", "Receiver"], ["Effect", "Effects"]],
                     "question": "Elements of Communication",
                     "id": 391
                 }
             },
 
             "Process_of_Communication": {
-                "answers": ["Source", "Message", "Encoding", "Decoding", "Reciever", "Feedback", "Context"],
+                "answers": ["Source", "Message", "Encoding", "Decoding", "Receiver", "Feedback", "Context"],
                 "questions": [
                     {
                         "question": "Sender of the message. Know exactly what information to give or share.",
@@ -1684,7 +1684,7 @@
                     
                     {
                         "question": "The people or group of people who will get the message.",
-                        "answer": ["Reciever","Recievers"],
+                        "answer": ["Receiver","Receivers"],
                         "id": 271
                     },
                     
@@ -1731,7 +1731,7 @@
                     
                     {
                         "question": "(to whom is the message directed)",
-                        "answer": ["Reciever","Recievers"],
+                        "answer": ["Reciever","Receivers"],
                         "id": 277
                     },
                     
@@ -2714,109 +2714,109 @@
                     {
                         "question": "show off (Singapore english)",
                         "answer": ["Actsy"],
-                        "id": 427
+                        "id": 4271111
                     },
                     
                     {
                         "question": "Nurse (Singapore english)",
                         "answer": ["Missy"],
-                        "id": 428
+                        "id": 4281111
                     },
                     
                     {
                         "question": "Rubber stamp (Singapore english)",
                         "answer": ["Chop"],
-                        "id": 429
+                        "id": 4291111
                     },
                     
                     {
                         "question": "youngsters who spend their leisure time at or around Marina Square. (Singapore English)",
                         "answer": ["Marina kid's","Marina kids","Marina kid"],
-                        "id": 430
+                        "id": 4301111
                     },
                     
                     {
                         "question": "graduate (well educated) married women, encourage to have more children, and accorded certain privileges in Singapore as compared. red to non-graduate mothers. (Singapore English)",
                         "answer": ["Graduate mother","Graduate mothers","Graduates mother"],
-                        "id": 431
+                        "id": 4311111
                     },
                     
                     {
                         "question": "puristic or hard to understand as an attribute of language. (Philippines english)",
                         "answer": ["Deep"],
-                        "id": 432
+                        "id": 4321111
                     },
                     
                     {
                         "question": "Cigarette (Philippines english)",
                         "answer": ["Stick"],
-                        "id": 433
+                        "id": 4331111
                     },
                     
                     {
                         "question": "tense or upset. (Philippines english)",
                         "answer": ["High blood"],
-                        "id": 434
+                        "id": 4341111
                     },
                     
                     {
                         "question": "treating someone with a snack or meal. (Philippines english)",
                         "answer": ["Blow out"],
-                        "id": 435
+                        "id": 4351111
                     },
                     
                     {
                         "question": "a hotel used for pre-marital or extramarital affairs. (Philippines english)",
                         "answer": ["Motel","Motels"],
-                        "id": 436
+                        "id": 4361111
                     },
                     
                     {
                         "question": "to prepare manuals. (Philippines english)",
                         "answer": ["Manualize"],
-                        "id": 437
+                        "id": 4371111
                     },
                     
                     {
                         "question": "leave before others with host’s permission. (Philippines English)",
                         "answer": ["Go ahead"],
-                        "id": 438
+                        "id": 4381111
                     },
                     
                     {
                         "question": "student body. (Philippines English)",
                         "answer": ["Studentry"],
-                        "id": 440
+                        "id": 4401111
                     },
                     
                     {
                         "question": "a Filipino perceived to be too pro-American. (Philippines English)",
                         "answer": ["Amboy"],
-                        "id": 441
+                        "id": 4411111
                     },
                     
                     {
                         "question": "from the province(Philippines English)",
                         "answer": ["Promdi"],
-                        "id": 442
+                        "id": 4421111
                     },
                     
                     {
                         "question": "unguaranteed bank loan given presidential cronies (Philippines English)",
                         "answer": ["Behest loan","Behest loans"],
-                        "id": 443
+                        "id": 4431111
                     },
                     
                     {
                         "question": "boy who picks up tennis ball in a game (Philippines English)",
                         "answer": ["Pulot boy","Pulot boys"],
-                        "id": 444
+                        "id": 4441111
                     },
                     
                     {
                         "question": "box where Filipinos returning from abroad put all their shopping (Philippines English)",
                         "answer": ["Balikbayan box","Balikbayan boxes"],
-                        "id": 445
+                        "id": 4451111
                     }
                 ],
             
@@ -2836,12 +2836,12 @@
                     ["Saudi Arabia"],
                     ["Taiwan"]],
                     "question": "The Expanding circle(e.g. in module)",
-                    "id": 426
+                    "id": 4261111
                 }
             },
 
             "Registers": {
-                "answers": ["Register", "Very formal, frozern, or static register.", "Formal or regulated register.", "Neutral, professional, consultative register.", "Informal, group, or casual register.", "Very informal, personal, or intimate register.", "Very formal, frozern, or static register.", "Formal or regulated register.", "Neutral, professional, consultative register.", "Informal, group, or casual register.", "Very formal, frozern, or static register."],
+                "answers": ["Register", "Very formal, frozern, or static register.", "Formal or regulated register.", "Neutral, professional, consultative register.", "Informal, group, or casual register.", "Very informal, personal, or intimate register."],
                 "questions": [
                     {
                         "question": "Refers to varieties or styles of speaking and writing, which vary in their degrees of formality depending on the topic (what), purpose (why), context (where), and audience (who). ",
@@ -2929,7 +2929,7 @@
             },
 
             "Vocabulary ": {
-                "answers": ["abaca", "taclobo", "tamarau", "ylang-ylang", "balikbayan box", "barangay", "barkada", "despedida party", "estafa", "kikay kit", "pan de sal", "pasalubong", "sari-sari store", "sisig", "suki", "batchmate", "kkb", "mani-pedi", "presidentiable", "carnapper", "comfort room", "high bllod", "to go down", "salvage"],
+                "answers": ["abaca", "taclobo", "tamarau", "ylang-ylang", "balikbayan box", "barangay", "barkada", "despedida party", "estafa", "kikay kit", "pan de sal", "pasalubong", "sari-sari store", "sisig", "suki", "batchmate", "kkb", "mani-pedi", "presidentiable", "carnapper", "comfort room", "high blood", "to go down", "salvage"],
                 "questions": [
                     {
                         "question": "(first attested 1751) – a kind of banana plant, Musa textilis, native to the Philippines, the petioles of which yield a strong fiber; the fiber itself, used for making paper, ropes, matting, etc.; Manila hemp. ",
@@ -3059,7 +3059,7 @@
                     
                     {
                         "question": "(1997) – angry, agitated (e.g., I am so high blood because of this traffic jam!); use of a noun phrase as an adjective. ",
-                        "answer": ["high bllod","high blood"],
+                        "answer": ["high blood"],
                         "id": 463
                     },
                     
@@ -3078,9 +3078,113 @@
             
                 "enumeration": {
                     "answers": [["USA", "United State of America", "America"], ["UK", "United Kingdom"],
-                                ["Canada"], ["Austrilia"], ["New Zealand"]],
+                                ["Canada"], ["Australia"], ["New Zealand"]],
                     "question": "The Inner Circle",
                     "id": 440
+                }
+            }
+        }
+    },
+
+    "GLOBAL_CIT.": {
+        "Chapter_1": {
+            "Citizenship": {
+                "answers": ["Citizenship" , "Civitas", "Citizens", "Membership", "Rights", "Duties", "Participation"],
+                "questions": [
+                    {
+                        "question": "The status of being a citizen. Membership in a community.",
+                        "answer": ["Citizenship","Citizenships"],
+                        "id": 467
+                    },
+                    
+                    {
+                        "question": "= Latin for 'citizen'.",
+                        "answer": ["Civitas"],
+                        "id": 468
+                    },
+                    
+                    {
+                        "question": "The origin of citizenship can be traced back to Ancient Greece, when ________ were those who had a legal right to participate in the affairs of the state.",
+                        "answer": ["Citizens", "Citizen"],
+                        "id": 469
+                    },
+                    
+                    {
+                        "question": "The politics of citizenship emerge essentially",
+                        "answer": ["Membership","Memberships"],
+                        "id": 470
+                    },
+                    
+                    {
+                        "question": "Crucial to the nature of citizenship (ex: civil rights, political rights, and social rights).",
+                        "answer": ["Rights","Right"],
+                        "id": 471
+                    },
+                    
+                    {
+                        "question": "Duties do not necessarily mean that there must be corresponding rights (and vice versa).",
+                        "answer": ["Duties","Duty"],
+                        "id": 472
+                    },
+                    
+                    {
+                        "question": "Aristotle argues that citizenship was always primarily about participation, that is, about empowerment to",
+                        "answer": ["Participation","Participations"],
+                        "id": 473
+                    },
+                    
+                    {
+                        "question": "s understood as the enjoyment of basic rights and entitlements, the idea of transnational or global citizenship seems generally more plausible.",
+                        "answer": ["Citizenship", "Citizenships"],
+                        "id": 474
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [["Membership", "Memberships"], ["Rights"], ["Duties", "Duty"], ["Participation", "Participations"]],
+                    "question": "Components of Citizenship",
+                    "id": 466
+                }
+            },
+
+            "Global_Citizenship": {
+                "answers": ["Global Citizenship", "Global", "Globalization", "Globalization from above", "Globalization from below"],
+                "questions": [
+                    {
+                        "question": "It is the values inherent in these two communities coming together within an individual that I believe constitutes global citizenship.",
+                        "answer": ["Global Citizenship","Global Citizenships"],
+                        "id": 477
+                    },
+                    
+                    {
+                        "question": "Relates to the world AS A WHOLE (regardless ofational boundaries).",
+                        "answer": ["Global"],
+                        "id": 478
+                    },
+                    
+                    {
+                        "question": "Refers to the social and cultural aspects of global change; a reclaiming of both global and local identity away from the false barriers imposed by the political and economic aspects of the modern system.",
+                        "answer": ["Globalization","Globalizations"],
+                        "id": 479
+                    },
+                    
+                    {
+                        "question": "It mainly serves the interests of transnational corporations and monetary institutions like the World Bank that work in collaboration with the most powerful economies in the world (Demaine, 2002).",
+                        "answer": ["Globalization from above"],
+                        "id": 480
+                    },
+                    
+                    {
+                        "question": "Social movements, non-government organizations, and people who are active in grassroots initiatives and community-based movements. These people want to open up spaces for community building and meaningful participation in democracies.",
+                        "answer": ["Globalization from below"],
+                        "id": 481
+                    }
+                ],
+            
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 476
                 }
             }
         }
@@ -3369,5 +3473,667 @@
 
     "PE": {
 
+    },
+
+    "SAD": {
+        "Module_1": {
+            "Introduction_to_SAD": {
+                "answers": ["Systems Analysis", "Systems design", "System analysis and design", "System", "Subsystem", "Supersystem", "Functional decomposition", "Information system", "Information technology", "System designers", "System builders", "System analysts", "Programmer/analyst", "Business analyst", "ESP (External Service Provider)", "Project managers", "Business Process Modeling", "Business profile", "Business model", "Business Process Reengineering"],
+                "questions": [
+                    {
+                        "question": "The process of understanding and specifying in detail what an information system should do",
+                        "answer": ["Systems Analysis","System analysis","k"],
+                        "id": 501
+                    },
+                    
+                    {
+                        "question": "The process of specifying in detail how the parts an information system should be implemented. Create a technical solution that satisfies the functional requirements for the system.",
+                        "answer": ["Systems design","System design"],
+                        "id": 502
+                    },
+                    
+                    {
+                        "question": "Is a step by step process for developing high quality information system.",
+                        "answer": ["System analysis and design","SAD","Systems analysis and design","Systems analysis and designs"],
+                        "id": 503
+                    },
+                    
+                    {
+                        "question": "A group of interralated components that function together to achieve a desired result.",
+                        "answer": ["System","Systems"],
+                        "id": 504
+                    },
+                    
+                    {
+                        "question": "A system that is part of a larger system.",
+                        "answer": ["Subsystem","Subsystems"],
+                        "id": 505
+                    },
+                    
+                    {
+                        "question": "A larger system that contains other systems.",
+                        "answer": ["Supersystem","Supersystems"],
+                        "id": 506
+                    },
+                    
+                    {
+                        "question": "Deviding a system into components based on subsystems that in turn are further divided into subsystems.",
+                        "answer": ["Functional decomposition","Functional decompositions","Functionals decompositions"],
+                        "id": 507
+                    },
+                    
+                    {
+                        "question": "A arrangement of people, data, process and information technology that interact to collect, process, store and procuide provide as output the information needed to support an organization. Capture and manage data to provide useful information that supports an organization, employees, customers, suppliers and partners.",
+                        "answer": ["Information system","Information systems","Informations systems","IS"],
+                        "id": 508
+                    },
+
+                    {
+                        "question": "A contemporary term that describes the combination of computer technology with telecommunications technology such as data, image, and voice networks)",
+                        "answer": ["Information technology"],
+                        "id": 517
+                    },
+
+                    {
+                        "question": "A technical specialist who translates system users business requirements and constraints into technical solutions.",
+                        "answer": ["System designers","System designer","Systems designers"],
+                        "id": 535
+                    },
+                    
+                    {
+                        "question": "A technical specialist who construct information systems and components based on the design specifications generated by system designers.",
+                        "answer": ["System builders","System builder","Systems builders","Systems builder"],
+                        "id": 536
+                    },
+                    
+                    {
+                        "question": "A specialist who studies the problem and needs of an organization to determine thow people, data, process and IT can best accomplish improvements for the business.",
+                        "answer": ["System analysts","System analyst","Systems analysts","Systems analyst"],
+                        "id": 537
+                    },
+                    
+                    {
+                        "question": "Includes the responsibilities of both the computer programmer and the system analyst.",
+                        "answer": ["Programmer/analyst","Programmer / analyst","Programmer or analyst"],
+                        "id": 538
+                    },
+                    
+                    {
+                        "question": "Focuses on only the nontechnical aspects of systems analysis and design.",
+                        "answer": ["Business analyst","Business analysts","Businesses analyst","Businesses analysts"],
+                        "id": 539
+                    },
+                    
+                    {
+                        "question": "A system analysts, system desinger, system builder who sells his or her experties and experience to other businesses to help those business pruchase, develop or integrate their information systems solutions; may be affiliated with a consulting or services organization",
+                        "answer": ["ESP (External Service Provider)","External Service Provider (ESP)","External Service Provider","ESP"],
+                        "id": 540
+                    },
+                    
+                    {
+                        "question": "An experienced professional who accepts responsibility fo plannig monitoring and controlling projects with respect to budget, schedule deliverables, customer satisfaction technical standards and quality.",
+                        "answer": ["Project managers","Project manager","Projects managers","Projects manager"],
+                        "id": 541
+                    },
+                    
+                    {
+                        "question": "It is used to represent a company;s operations and information needs. It requires business profile and a series of models that document various business processes.",
+                        "answer": ["Business Process Modeling","Business Process Model"],
+                        "id": 542
+                    },
+                    
+                    {
+                        "question": "Defines a company's overall functions, processes, organization, products, services, customers, suppliers, competitors, contraints, and future direction.",
+                        "answer": ["Business profile","Business profiles","Businesses profile"],
+                        "id": 543
+                    },
+                    
+                    {
+                        "question": "Graphically repressent business functions that consist of business processes, such as sales, accounting, and pruchasing, which peform specific tasks.",
+                        "answer": ["Business model","Business models","Businesses model"],
+                        "id": 544
+                    },
+                    
+                    {
+                        "question": "A technique that seeks to alter the nature of the work done in a business function, with the objective of radically improving performance. A strategy to simplify operations or reduce cost.",
+                        "answer": ["Business Process Reengineering","Businesses Process Reengineering"],
+                        "id": 545
+                    }
+
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 509
+                }
+            },
+
+            "Information_System_Components": {
+                "answers": ["Hardware", "System software", "Application software", "Data", "Processes", "People"],
+                "questions": [
+                    {
+                        "question": "It is the physical layer of the information system.",
+                        "answer": ["Hardware","Hardware components"],
+                        "id": 510
+                    },
+                    
+                    {
+                        "question": "It controls the hardware and software environment and includes the operating software.",
+                        "answer": ["System software","System softwares","Systems software","Systems softwares"],
+                        "id": 511
+                    },
+                    
+                    {
+                        "question": "It consists of programs that process data to produce information.",
+                        "answer": ["Application software","Applications software","Applications softwares","Application softwares"],
+                        "id": 512
+                    },
+                    
+                    {
+                        "question": "Is is stored in files and databases is a vital component of every system.",
+                        "answer": ["Data"],
+                        "id": 513
+                    },
+                    
+                    {
+                        "question": "Defined tha task tha must be performed by users, managers, and IS staff.",
+                        "answer": ["Processes","Process"],
+                        "id": 514
+                    },
+                    
+                    {
+                        "question": "Who use the system are called users, and end users.",
+                        "answer": ["People","Peoples"],
+                        "id": 515
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Hardware"], ["Software"], ["Data"], ["Processes", "Process"], ["People", "Peoples"]],
+                    "question": "Components of Information System.",
+                    "id": 516
+                }
+            },
+
+            "Classification_of_IS": {
+                "answers": ["Transaction Processing System (TPS)", "Management Information System (MIS)", "Decision Support System (DSS)", "Executive Information System (EIS)", "Expert system", "Office Automation System"],
+                "questions": [
+                    {
+                        "question": "An IS that captures and process data about the transactions that affect organization.",
+                        "answer": ["Transaction Processing System (TPS)","Transaction Processing System","Transaction Processing System(TPS)","TPS","Transaction Processing Systems (TPS)"],
+                        "id": 518
+                    },
+                    
+                    {
+                        "question": "An IS that provides for management oriented reporting based on transaction processing system and operations of an organization.",
+                        "answer": ["Management Information System (MIS)","Management Information System","Management Information Systems","MIS","Management Informations Systems","Management Informations System"],
+                        "id": 519
+                    },
+                    
+                    {
+                        "question": "An IS that helps to identify decision making opportunities or provides infomration to help make decisions.",
+                        "answer": ["Decision Support System (DSS)","Decision Support System","Decision Support Systems","Decisions Support Systems (DSS)","Decisions Support Systems","Decision Supports Systems"],
+                        "id": 520
+                    },
+                    
+                    {
+                        "question": "An IS that supports planning and assessment needs of executive managers.",
+                        "answer": ["Executive Information System (EIS)","Executive Information System","Executive Information Systems","Executive Informations System","Executive Informations Systems","EIS"],
+                        "id": 521
+                    },
+                    
+                    {
+                        "question": "An IS that captures the experties of workers and then simulates that experties to the benefit of non expert. It simulate human reasoning by combining a knowledge base with inference rules that determine how the knowledge is applied.",
+                        "answer": ["Expert system","Expert systems","Experts systems","Experts system"],
+                        "id": 522
+                    },
+                    
+                    {
+                        "question": "An IS that supports wide range of business office activities for improved work flow between workers. It helps employees create and share documents and maintain information about work schedules, appointments and meetings.",
+                        "answer": ["Office Automation System","Office Automations Systems","Office Automation Systems","Office Automations Systems"],
+                        "id": 523
+                    }
+                ],
+                "enumeration": {
+                    "answers": [["Transaction Processing System (TPS)", "Transaction Processing System", "TPS"], ["Management Information System (MIS)", "Management Information System", "MIS"], ["Decision Support System (DSS)", "Decision Support System", "DSS"], ["Executive Information System (EIS)", "Executive Information System", "EIS"], ["Expert system"], ["Office Automation System"]],
+                    "question": "Classification of IS",
+                    "id": 524
+                }
+            },
+
+            "Players_of_IS": {
+                "answers": ["Stakeholders", "System owners", "System users"],
+                "questions": [
+                    {
+                        "question": "Any person who has interest in an existing or proposed infomration system. They may include technical workers and non technical workers. Internal or external workers.",
+                        "answer": ["Stakeholders","Stakeholder"],
+                        "id": 525
+                    },
+                    
+                    {
+                        "question": "An information system sponsor and executive advocate, usually reponsible for funding the project of developing, operating, and maintainnig the information system.",
+                        "answer": ["System owners","System owner","Systems owners","Systems owner"],
+                        "id": 526
+                    },
+                    
+                    {
+                        "question": "A customer who will use or is affected by an information system on a regular basis-capturing, validating, entering, reponding to, storing, and exchaging data and information.",
+                        "answer": ["System users","Systems users","Systems user"],
+                        "id": 527
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Stakeholders"], ["System owners"], ["System users"]],
+                    "question": "Player of IS",
+                    "id": 528
+                }
+            },
+
+            "Classification_of_System_Users": {
+                "answers": ["Internal users", "External Users", "Remote users", "Mobile users"],
+                "questions": [
+                    {
+                        "question": "Users: Clerical and Service workers, Technical and professional Staff, Supervisors, middle managers, and executive managers.",
+                        "answer": ["Internal users","Internal user","Internals users","Internals user"],
+                        "id": 529
+                    },
+                    
+                    {
+                        "question": "Users: Customers, Suppliers, Partners, Employees",
+                        "answer": ["External Users","Externals User","Externals Users","External User"],
+                        "id": 530
+                    },
+                    
+                    {
+                        "question": "Users who are not physically located on the premises but who still requires access to information systems.",
+                        "answer": ["Remote users","Remote user","Remotes user","Remotes users"],
+                        "id": 531
+                    },
+                    
+                    {
+                        "question": "User whose location is constantly changing but who requires access to information systems from any location.",
+                        "answer": ["Mobile users","Mobile user","Mobiles users","Mobiles user"],
+                        "id": 532
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Internal users"], ["External Users"], ["Remote users"], ["Mobile users"]],
+                    "question": "Classification of System Users",
+                    "id": 533
+                }
+            },
+
+            "System_Designers": {
+                "answers": ["Database administrators", "Network architects", "Web architects", "Graphic Artist"],
+                "questions": [
+                    {
+                        "question": "Desing database and coordinate changes to corporate database.",
+                        "answer": ["Database administrators","Database administrators","Database administrator","Databases administrators"],
+                        "id": 546
+                    },
+                    
+                    {
+                        "question": "Design, install, configure, optimize local and wide.",
+                        "answer": ["Network architects","Network architect","Networks architects"],
+                        "id": 547
+                    },
+                    
+                    {
+                        "question": "Design Websites",
+                        "answer": ["Web architects","Web architect"],
+                        "id": 548
+                    },
+                    
+                    {
+                        "question": "Design and construct easy to use user interface.",
+                        "answer": ["Graphic Artist","Graphic Artists"],
+                        "id": 549
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Database administrators", "Database administrator"], ["Network architects", "Network architect"], ["Web architects", "Web architect"], ["Graphic Artist", "Graphic Artists"], ["Security experts", "Security expert"], ["Technology specialist", "Technology specialists"]],
+                    "question": "System Designers",
+                    "id": 550
+                }
+            },
+
+            "System_Builders": {
+                "answers": ["System programmers", "Webmasters"],
+                "questions": [
+                    {
+                        "question": "Develops operating system sofware's utilities, and services.",
+                        "answer": ["System programmers","System programmer","Systems programmer","Systems programmers"],
+                        "id": 551
+                    },
+                    
+                    {
+                        "question": "Code and maintain websites",
+                        "answer": ["Webmasters","Webmaster"],
+                        "id": 552
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["System programmers", "System programmers"], ["Webmasters", "Webmaster"], ["Application programmers", "Application programmer"], ["Database programmer", "Database programmer"], ["Network administrators", "Network administrator"], ["Security administrators", "Security administrator"], ["Software integrators", "Software integrator"]],
+                    "question": "System Builders",
+                    "id": 553
+                }
+            },
+
+            "Categories_of_Companies": {
+                "answers": ["Production-oriented", "Service-oriented", "Internet-dependent firms"],
+                "questions": [
+                    {
+                        "question": "(industrial) Companies that manufacture and sell goods",
+                        "answer": ["Production-oriented","Production oriented"],
+                        "id": 554
+                    },
+                    
+                    {
+                        "question": "Companies that mainly offer information, services, or sell goods made by others.",
+                        "answer": ["Service-oriented","Service oriented"],
+                        "id": 555
+                    },
+                    
+                    {
+                        "question": "dot-com (.com)",
+                        "answer": ["Internet-dependent firms","Internet dependent firms","Internet-dependent firm"],
+                        "id": 556
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Production-oriented"], ["Service-oriented"], ["Internet-dependent firms"]],
+                    "question": "Categories of Companies",
+                    "id": 557
+                }
+            },
+
+            "Organizational_levels": {
+                "answers": ["Top managers", "Middle Managers and Knowledge Workers", "Supervisors and team leaders", "Operational employees"],
+                "questions": [
+                    {
+                        "question": "Develop long range plans called strategic plans that defines company's overall mission and goals.",
+                        "answer": ["Top managers","Top manager"],
+                        "id": 558
+                    },
+                    
+                    {
+                        "question": "Provide direction, resources and performance feedback to supervisors and teram leaders.",
+                        "answer": ["Middle Managers and Knowledge Workers","Middle Managers"],
+                        "id": 559
+                    },
+                    
+                    {
+                        "question": "Oversee operational tasks and people, make necessary decisions and ensure that right tools, materials and training are available.",
+                        "answer": ["Supervisors and team leaders","Supervisor and team leader","Supervisors and team leader","Supervisor and team leaders"],
+                        "id": 560
+                    },
+                    
+                    {
+                        "question": "Include users who rely on transactiopn processing systems to enter and recieve data they need to perform their jobs.",
+                        "answer": ["Operational employees","Operational employee","Operationals employees"],
+                        "id": 561
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Top managers"], ["Middle Managers and Knowledge Workers"], ["Supervisors and team leaders"], ["Operational employees"]],
+                    "question": "Organizational Levels",
+                    "id": 562
+                }
+            }
+        },
+
+        "Module_2": {
+            "System_Development_Life_Cycle": {
+                "answers": ["System Development Life Cycle", "Systems planning", "End product", "Systems analysis", "Systems design", "Systems implementation", "Systems operation and support", "Maintenance", "Enhancements"],
+                "questions": [
+                    {
+                        "question": "A step by step process for planning creating, testing, and deploying an information system.",
+                        "answer": ["System Development Life Cycle","SDLC"],
+                        "id": 563
+                    },
+                    
+                    {
+                        "question": "To identify problem's nature/scope, goals, schedules and budget.",
+                        "answer": ["Systems planning","System planning"],
+                        "id": 564
+                    },
+                    
+                    {
+                        "question": "Preliminary investigation report.",
+                        "answer": ["End product","End products"],
+                        "id": 565
+                    },
+                    
+                    {
+                        "question": "To understood business requirements and build a logical model of the new system.",
+                        "answer": ["Systems analysis","System analysis"],
+                        "id": 566
+                    },
+                    
+                    {
+                        "question": "To create blueprint for the new system that will satisfy all document requirements. Identify all outputs, inputs, files, manual procedures, and application programs.",
+                        "answer": ["Systems design","Systems designs","System designs","Systems designs"],
+                        "id": 567
+                    },
+                    
+                    {
+                        "question": "Construct / deliver information. To deliver a completely functioning and documentad information system.",
+                        "answer": ["Systems implementation","Systems implementations","System implementation"],
+                        "id": 568
+                    },
+                    
+                    {
+                        "question": "It staff maintains and enhances the system.",
+                        "answer": ["Systems operation and support","Systems operations and supports","System operation and support","Systems operation and supports","System operations and supports"],
+                        "id": 569
+                    },
+                    
+                    {
+                        "question": "Changes correct errors and adapt to changes in the environment.",
+                        "answer": ["Maintenance"],
+                        "id": 570
+                    },
+                    
+                    {
+                        "question": "Provides new features and benefits.",
+                        "answer": ["Enhancements","Enhancement"],
+                        "id": 571
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [ ["Systems planning","System planning"], ["Systems analysis","System analysis"], ["Systems design","Systems designs","System designs","Systems designs"], ["Systems implementation","Systems implementations","System implementation"], ["Systems operation and support","Systems operations and supports","System operation and support","Systems operation and supports","System operations and supports"] ],
+                    "question": "Systems Development Life Cycle",
+                    "id": 572
+                }
+            },
+
+            "Approaches_to_Sytem_Development": {
+                "answers": ["Waterfall model", "Interactive model", "Incremental/Interative Devlopment", "System/Software Development Methodology"],
+                "questions": [
+                    {
+                        "question": "The result of each phase (end product or deliverable ) flows down into the next phase.",
+                        "answer": ["Waterfall model"],
+                        "id": 573
+                    },
+                    
+                    {
+                        "question": "An alternative model where planning, analysis, and design interact. Activities overlap and appear to be done concurrently.",
+                        "answer": ["Interactive model","Interactive models"],
+                        "id": 574
+                    },
+                    
+                    {
+                        "question": "A development approach that complete parts of a system in one or more iterations and puts them into operation for users.",
+                        "answer": ["Incremental/Interative Devlopment","Incremental/Interative Devlopments","Incremental / Interative Devlopment","Incremental or Interative Devlopment"],
+                        "id": 575
+                    },
+
+                    {
+                        "question": "A comprehensive guidelines to follow for completing every activity in the systems development life cycle.",
+                        "answer": ["System/Software Development Methodology", "System or Software Development Methodology", "SDM"],
+                        "id": 580
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Waterfall model"], ["Interactive model","Interactive models"], ["Incremental/Interative Devlopment","Incremental/Interative Devlopments","Incremental / Interative Devlopment","Incremental or Interative Devlopment"]],
+                    "question": "Approaches to System Development",
+                    "id": 576
+                }
+            },
+
+            "System_Development_Methods": {
+                "answers": ["Object oriented analysis", "Structured analysis"],
+                "questions": [
+                    {
+                        "question": "Traditional systems development technique that uses SDLC phases to plan, analyze, design, implement, and support an information system.",
+                        "answer": ["Structured analysis"],
+                        "id": 577
+                    },
+                    
+                    {
+                        "question": "Combines data and process (methods) into single entities called onjects. System is a collection of interacting.",
+                        "answer": ["Object oriented analysis","Objects oriented analysis"],
+                        "id": 578
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Structured analysis"], ["Object oriented analysis","Objects oriented analysis"]],
+                    "question": "System Development Method",
+                    "id": 579
+                }
+            },
+
+            "Model": {
+                "answers": ["Models", "Mathematical model", "Descriptive/Narrative model", "Graphical model"],
+                "questions": [
+                    {
+                        "question": "A representation of an important aspect of the real world.",
+                        "answer": ["Models","Model"],
+                        "id": 581
+                    },
+                    
+                    {
+                        "question": "A series of formulas that describe technical aspects of a system.",
+                        "answer": ["Mathematical model","Mathematical models"],
+                        "id": 582
+                    },
+                    
+                    {
+                        "question": "Narrative memos, reports or lists that descibe some aspect of a system.",
+                        "answer": ["Descriptive/Narrative model","Descriptive/Narrative models","Descriptive or Narrative model"],
+                        "id": 583
+                    },
+                    
+                    {
+                        "question": "Diagrams and schematice representations of aspect of a system.",
+                        "answer": ["Graphical model","Graphical models","Graphicals model"],
+                        "id": 584
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Mathematical model","Mathematical models"], ["Descriptive/Narrative model","Descriptive/Narrative models","Descriptive or Narrative model"], ["Graphical model","Graphical models","Graphicals model"]],
+                    "question": "Models",
+                    "id": 585
+                }
+            },
+
+            "Modeling": {
+                "answers": ["Modeling", "Business model or requirements model", "Data model", "Object model", "Network model", "Process model"],
+                "questions": [
+                    {
+                        "question": "Produces a grapichal representation of a concept or process that a system can analyze, test, and modify.",
+                        "answer": ["Modeling"],
+                        "id": 586
+                    },
+                    
+                    {
+                        "question": "Describes business functions that an IS must support.",
+                        "answer": ["Business model or requirements model","Business model","Requirements model"],
+                        "id": 587
+                    },
+                    
+                    {
+                        "question": "Describes data structure and design",
+                        "answer": ["Data model","Data models"],
+                        "id": 588
+                    },
+                    
+                    {
+                        "question": "Describes objects which combine data and processes.",
+                        "answer": ["Object model","Object models","Objects model","Objects models"],
+                        "id": 589
+                    },
+                    
+                    {
+                        "question": "Portrays the design which and protocols of telecommunications links.",
+                        "answer": ["Network model","Network models","Networks model","Networks models"],
+                        "id": 590
+                    },
+                    
+                    {
+                        "question": "Describes system logic and processes that programmers use to develo necessary code modules.",
+                        "answer": ["Process model","Process models"],
+                        "id": 591
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Modeling"], ["Business model or requirements model","Business model","Requirements model"], ["Data model","Data models"], ["Object model","Object models","Objects model","Objects models"], ["Network model","Network models","Networks model","Networks models"], ["Process model","Process models"]],
+                    "question": "Modeling",
+                    "id": 592
+                }
+            },
+
+            "System_Models_of_System_Components": {
+                "answers": ["Data flow diagram", "Entity relationship diagram", "Use case diagram", "Class diagram", "Prototyping", "Tools"],
+                "questions": [
+                    {
+                        "question": "A graphical model showing the input, process, output and data storage of data.",
+                        "answer": ["Data flow diagram","Data flow diagrams"],
+                        "id": 593
+                    },
+                    
+                    {
+                        "question": "A graphical model of the data needed by a system and the relationships among them.",
+                        "answer": ["Entity relationship diagram","Entity relationship diagrams","Entities relationship diagrams","Entities relationship diagram"],
+                        "id": 594
+                    },
+                    
+                    {
+                        "question": "A graphical model used in the object oriented approach to show all of the classes of objects in the system.",
+                        "answer": ["Class diagram","Class diagrams"],
+                        "id": 596
+                    },
+                    {
+                        "question": "Involves the creation of an early working version of the system or its components.",
+                        "answer": ["Prototyping","Prototype"],
+                        "id": 598
+                    },
+                    
+                    {
+                        "question": "Software support that helps create models or other components required in the project.",
+                        "answer": ["Tools","Tool"],
+                        "id": 599
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Data flow diagram","Data flow diagrams"], ["Entity relationship diagram","Entity relationship diagrams","Entities relationship diagrams","Entities relationship diagram"], ["Use case diagram"], ["Class diagram","Class diagrams"], ["Prototyping","Prototype"], ["Tools","Tool"]],
+                    "question": "System models of system development",
+                    "id": 597
+                }
+            }
+        }
     }
 }
