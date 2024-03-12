@@ -4135,5 +4135,504 @@
                 }
             }
         }
+    },
+
+    "MULTIMEDIA" : {
+        "Module_3": {
+            "Understanding_text": {
+                "answers": ["Text", "Optical Character Recognition", "Unformatted text", "Formatted text", "Hypertext Markup Language", "Rich Text Format"],
+                "questions": [
+                    {
+                        "question": "It maby in the form of sentences, paragraphs, or words that are all used to communicate with the reader.",
+                        "answer": ["Text","Texts"],
+                        "id": 611
+                    },
+                    
+                    {
+                        "question": "Converts images of handwritten or typewritter text into machine-editable text.",
+                        "answer": ["Optical Character Recognition","Optical Character Recognitions","Optical Characters Recognition","Optical Characters Recognitions","OCP"],
+                        "id": 612
+                    },
+                    
+                    {
+                        "question": "Any text that does not have any formatting associated with it. Thet are only printable letters, white spacem and line breaks in this plane text.",
+                        "answer": ["Unformatted text","Unformatted texts"],
+                        "id": 613
+                    },
+                    
+                    {
+                        "question": "This text displayed in specified format that may be qualitative (ex. fontface) and quantitative (ex. color, size).",
+                        "answer": ["Formatted text","Formatted texts"],
+                        "id": 614
+                    },
+                    
+                    {
+                        "question": "It supports the use of different font styles, color, and size by using tags such as angled brackets and special characters.",
+                        "answer": ["Hypertext Markup Language","HTML (Hypertext Markup Language)","HTML"],
+                        "id": 615
+                    },
+                    
+                    {
+                        "question": "It is the standard file format with the purpose of exchaging documents between different word processors such as Office, WordPerfect and SatrOffice. All word processors suport this format.",
+                        "answer": ["Rich Text Format","RTF (Rich Text Format)","RTF"],
+                        "id": 616
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Unformatted text", "Unformatted texts", "Plain text"], ["Formatted text", "Formatted texts"]],
+                    "question": "Type of text",
+                    "id": 617
+                }
+            },
+
+            "Multimedia_application_of_text": {
+                "answers": [],
+                "questions": [
+                    
+                ],
+
+                "enumeration": {
+                    "answers": [["Page titles","Pages titles","Page title","Pages title"], ["Sentences and paragraphs","Sentences and paragraph","Sentence and paragraphs","Sentence and paragraph"], ["Instructions and labels","Instructions and label","Instruction and labels","Instruction and label"]],
+                    "question": "Multimedia_application_of_text",
+                    "id": 605
+                }
+            },
+
+            "Text_Elements": { 
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["Letters", "Letter"], ["Number", "Numbers"], ["Special characters", "Special characters"]],
+                    "question": "",
+                    "id": 606
+                }
+            },
+
+            "Obtaining_texts": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["Keyboard", "Keyboards"], ["Mouse"], ["User of scanner and OCR"]],
+                    "question": "",
+                    "id": 607
+                }
+            },
+
+            "Formatted_text": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["HTML", "Hepertext Markup Language"], ["Rich Text Format", "RTF"]],
+                    "question": "Type of Formatted text",
+                    "id": 618
+                }
+            },
+
+            "Importance_of_Choosing_the_Right_Fonts": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [["Express brand personality","Express brands personality"], ["Build brand recognition","Build brands recognitions","Build brand recognitions","Build brands recognition"], ["Influence buying decisions","Influence buying decision"], ["Get attention","Get attentions","Gets attentions","Gets attention"], ["Easy scanning and reading","Easy scan and reading"]],
+                    "question": "Importance of Choosing the Right Fonts",
+                    "id": 620
+                }
+            },
+
+            "Body_structure_of_a_Typeface": {
+                "answers": ["Counter", "Cap height", "Baseline", "Ascender", "Arm", "Descender", "Bowl", "Aperture", "X-height", "Diagonal Stroke", "Stem", "Crossbar", "Serif", "Hairline", "Spine", "Ligature", "Finial", "Terminal", "Ear", "Link", "Loop", "Smallcap", "Spur"],
+                "questions": [
+                    {
+                        "question": "Space within a letter",
+                        "answer": ["Counter","Counters"],
+                        "id": 621
+                    },
+                    
+                    {
+                        "question": "Height of the capital letter",
+                        "answer": ["Cap height","Cap heights","Caps height"],
+                        "id": 622
+                    },
+                    
+                    {
+                        "question": "Invisible line where letters are seated",
+                        "answer": ["Baseline"],
+                        "id": 623
+                    },
+                    
+                    {
+                        "question": "Upward vertical stroke of a lowercase letter",
+                        "answer": ["Ascender"],
+                        "id": 624
+                    },
+                    
+                    {
+                        "question": "Horizontal stroke not connected on one or more ends",
+                        "answer": ["Arm","Arms"],
+                        "id": 625
+                    },
+                    
+                    {
+                        "question": "Downward stroke of a letter",
+                        "answer": ["Descender","Descenders"],
+                        "id": 626
+                    },
+                    
+                    {
+                        "question": "Curved stroke of a letter",
+                        "answer": ["Bowl","Bowls"],
+                        "id": 627
+                    },
+                    
+                    {
+                        "question": "The opening at the end of a counter",
+                        "answer": ["Aperture","Apertures"],
+                        "id": 628
+                    },
+                    
+                    {
+                        "question": "Height fo lowercase letter from the baseline",
+                        "answer": ["X-height","X-heights","X height"],
+                        "id": 629
+                    },
+                    
+                    {
+                        "question": "An angled stroke",
+                        "answer": ["Diagonal Stroke","Diagonal Strokes"],
+                        "id": 630
+                    },
+
+                    {
+                        "question": "Primary vertical stroke",
+                        "answer": ["Stem","Stems"],
+                        "id": 632
+                    },
+                    
+                    {
+                        "question": "Horizontal stroke connecting to another",
+                        "answer": ["Crossbar","Crossbars"],
+                        "id": 633
+                    },
+                    
+                    {
+                        "question": "Non-structural details at the ends of a stroke",
+                        "answer": ["Serif"],
+                        "id": 634
+                    },
+                    
+                    {
+                        "question": "Thin strokes",
+                        "answer": ["Hairline"],
+                        "id": 635
+                    },
+                    
+                    {
+                        "question": "Curved stroke of a typeface",
+                        "answer": ["Spine"],
+                        "id": 636
+                    },
+                    
+                    {
+                        "question": "Two or more lettrers joined together",
+                        "answer": ["Ligature"],
+                        "id": 637
+                    },
+                    
+                    {
+                        "question": "Curved end",
+                        "answer": ["Finial"],
+                        "id": 638
+                    },
+                    
+                    {
+                        "question": "The end od a stroke that lac",
+                        "answer": ["Terminal"],
+                        "id": 639
+                    },
+                    
+                    {
+                        "question": "Small stroke projecting from a bowl",
+                        "answer": ["Ear"],
+                        "id": 640
+                    },
+                    
+                    {
+                        "question": "Stroke that connects twp bowls",
+                        "answer": ["Link"],
+                        "id": 641
+                    },
+                    
+                    {
+                        "question": "Enclosed counter below the baseline",
+                        "answer": ["Loop"],
+                        "id": 642
+                    },
+                    
+                    {
+                        "question": "Upper case letters with smaller size",
+                        "answer": ["Smallcap"],
+                        "id": 643
+                    },
+                    
+                    {
+                        "question": "A small projection from a curved",
+                        "answer": ["Spur"],
+                        "id": 644
+                    }
+                ],
+
+                "enumeration": {
+                    "answers": [["Counter","Counters"], ["Cap height","Cap heights","Caps height"], ["Baseline"], ["Ascender"], ["Arm","Arms"], ["Descender","Descenders"], ["Bowl","Bowls"], ["Aperture","Apertures"], ["X-height","X-heights","X height"], ["Diagonal Stroke","Diagonal Strokes"], ["Stem","Stems"], ["Crossbar","Crossbars"], ["Serif"], ["Hairline"], ["Spine"], ["Ligature"], ["Final"], ["Terminal"], ["Ear"], ["Link"], ["Loop"], ["Smallcap"], ["Spur"]],
+                    "question": "Body structure of a Typeface",
+                    "id": 631
+                }
+            },
+
+            "Classification_of_fonts": {
+                "answers": [],
+                "questions": [
+
+                ],
+
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 0
+                }
+            }
+        }
+    },
+
+    "NETWORKING": {
+        "Module_1": {
+            "Basic_of_Computer_Network": {
+                "answers": ["Computer systems", "Hardware", "Software"],
+                "questions": [
+
+                    {
+                        "question": "It is a group of two or more interconnected computer systems.",
+                        "answer": ["Computer systems","Computer system","Computers systems","Computers system"],
+                        "id": 645
+                    },
+                    
+                    {
+                        "question": "It is defined as the interconnection of two or more computers.",
+                        "answer": ["Computer systems","Computer system","Computers systems","Computers system"],
+                        "id": 646
+                    },
+                    
+                    {
+                        "question": "A network allows user to share many hardware devices such as printers, modems, fax machines, CD ROM, players and more.",
+                        "answer": ["Hardware","Hardwares"],
+                        "id": 647
+                    },
+                    
+                    {
+                        "question": "Reduces the cost of software installation, saves space on hard disk.",
+                        "answer": ["Software","Softwares"],
+                        "id": 648
+                    }
+                ],
+                    
+                "enumeration": {
+                    "answers": [["Software","Softwares"], ["Hardware","Hardwares"]],
+                    "question": "Networking types of resources",
+                    "id": 649
+                }
+        
+            },
+
+            "Application": {
+                "answers": [],
+                "questions": [
+        
+                ],
+        
+                "enumeration": {
+                    "answers": [["Sharing of resources"], ["Sharing of softwares and database"], ["Communication from one computer to another computer"], ["Exchange of data and information among user via network"], ["Sharing of information over geographically wide areas"]],
+                    "question": "Application of Networking",
+                    "id": 650
+                }
+            },
+
+            "Advantage_of_Computer_Network": {
+                "answers": [],
+                "questions": [
+        
+                ],
+        
+                "enumeration": {
+                    "answers": [["Helps you to connect with multiple computers together to send and receive information when accesing the network."], ["Helps you to share printers, scanners, and email."], ["Helps you to share informtaion at very fast speed."], ["Electonic communication is more efficient and less expensive than without the network."]],
+                    "question": "Advantage of Copmuter Network",
+                    "id": 651
+                }
+            },
+
+            "Computer_Network_Components": {
+                "answers": ["Switches", "Routers", "Servers", "Hub", "Clients", "Transmission media", "Shared data", "Network interface card", "Local Operating System", "Network operating system", "Protocol", "LAN Cable"],
+                "questions": [
+                    {
+                        "question": "It work as a controller which connects computers, printers, and other hardware devices to a network in a campus or a building. It allows devices on your network to communicate with each other, as well as with other networks. It helps you to share resource and reduce the costing of any organization.",
+                        "answer": ["Switches","Switche"],
+                        "id": 652
+                    },
+                    
+                    {
+                        "question": "Help you to connect with multiple networks. It enables you to share a single internet connection with multiple devices and saves money. This networking component acts as a dispatcher, which allows you to analyze data sent across a network. It automatically selects the best route for data to travel and send it on its way.",
+                        "answer": ["Routers","Router"],
+                        "id": 653
+                    },
+                    
+                    {
+                        "question": "Computers that hold shared programs, files, and the network operating system. Servers allow access to network resources to all the users of the network.",
+                        "answer": ["Servers","Server"],
+                        "id": 654
+                    },
+                    
+                    {
+                        "question": "It is a device that splits network connection into multiple computers. It acts a distribution center so whenever a computer requests any information from a computer or from the network it sends the request to the hub through a cable. The hub will receive the request and transmit it to the entire network.",
+                        "answer": ["Hub"],
+                        "id": 655
+                    },
+                    
+                    {
+                        "question": "Computer devices which access and uses the network as well as shares network resources. They are also users of the network, as they can send and receive requests from the server.",
+                        "answer": ["Clients","Client"],
+                        "id": 656
+                    },
+                    
+                    {
+                        "question": "It is a carrier used to interconnect computers in a network, such as coaxial cable, twisted-pair wire, and optical fiber cable. It is also known as links, channels, or lines.",
+                        "answer": ["Transmission media"],
+                        "id": 657
+                    },
+                    
+                    {
+                        "question": "A data which is shared between the clients such as data files, printer access programs, and email.",
+                        "answer": ["Shared data"],
+                        "id": 658
+                    },
+                    
+                    {
+                        "question": "It sends, receives data, and controls data flow between the computer and the network.",
+                        "answer": ["Network interface card","Network interface cards","Networks interface cards","Networks interface cards"],
+                        "id": 659
+                    },
+                    
+                    {
+                        "question": "It helps personal computers to access files, print to a local printer and uses one or more disk and CD drives which are located on the computer.",
+                        "answer": ["Local Operating System","Local OS"],
+                        "id": 660
+                    },
+                    
+                    {
+                        "question": "It is a program which runs on computers and servers. It allows the computers to communicate via network.",
+                        "answer": ["Network operating system"],
+                        "id": 661
+                    },
+                    
+                    {
+                        "question": "It is the set of defined rules that allows two entities to communicate across the network. Some standard protocols used for this purpose are IP, TCP, UDP, FTP, etc.",
+                        "answer": ["Protocol","Protocols"],
+                        "id": 662
+                    },
+                    
+                    {
+                        "question": "It is also called as Ethernet or data cable. It is used for connecting a device to the internet.",
+                        "answer": ["LAN Cable","Local Area Network Cable"],
+                        "id": 663
+                    }
+                ],
+        
+                "enumeration": {
+                    "answers": [["Switches","Switche"], ["Routers","Router"], ["Servers","Server"], ["Hub"], ["Clients","Client"], ["Transmission media"], ["Shared data"], ["Network interface card","Network interface cards","Networks interface cards","Networks interface cards"], ["Local Operating System","Local OS"], ["Network operating system"], ["Protocol","Protocols"], ["LAN Cable","Local Area Network Cable"]],
+                    "question": "Computer Network Components",
+                    "id": 664
+                }
+            },
+
+            "Uniques_Identifiers_of_Networks": {
+                "answers": ["Hostname", "IP Address", "Domain Name System Server", "MAC Address", "Port", "Media Access Control", "Network Interface Card", "Domain Name System", "Internet Protocol", "Local Area Network"],
+                "questions": [
+                    {
+                        "question": "Every device of the network is associated with a unique device.",
+                        "answer": ["Hostname","Hostnames"],
+                        "id": 665
+                    },
+                    
+                    {
+                        "question": "It is as a unique identifier for each device on the Internet. Length of the IP address is 32-bits. IPv6 address is 64 bits.",
+                        "answer": ["IP Address"],
+                        "id": 666
+                    },
+                    
+                    {
+                        "question": "It is a server which translates URL or web addresses into their corresponding IP addresses.",
+                        "answer": ["Domain Name System Server","DNS server"],
+                        "id": 667
+                    },
+                    
+                    {
+                        "question": "It is known as a physical address is a unique identifier of each host and is associated with the NIC. General length of: 12-digit/ 6 bytes/ 48 bits",
+                        "answer": ["MAC Address","Media Access Control Address"],
+                        "id": 668
+                    },
+                    
+                    {
+                        "question": "It is a logical channel which allows network users to send or receive data to an application. Every host can have multiple applications running. Each of these applications are identified using the port number on which they are running.",
+                        "answer": ["Port"],
+                        "id": 669
+                    },
+                    
+                    {
+                        "question": "What is MAC stands for?",
+                        "answer": ["Media Access Control"],
+                        "id": 670
+                    },
+                    
+                    {
+                        "question": "What is NIC stands for?",
+                        "answer": ["Network Interface Card"],
+                        "id": 671
+                    },
+                    
+                    {
+                        "question": "What is DNS stands for?",
+                        "answer": ["Domain Name System"],
+                        "id": 672
+                    },
+                    
+                    {
+                        "question": "What is IP stands for?",
+                        "answer": ["Internet Protocol"],
+                        "id": 673
+                    },
+                    
+                    {
+                        "question": "What is LAN stands for?",
+                        "answer": ["Local Area Network"],
+                        "id": 674
+                    }
+                ],
+        
+                "enumeration": {
+                    "answers": [["Hostname","Hostnames"], ["IP Address"], ["Domain Name System Server","DNS server"], ["MAC Address","Media Access Control Address"], ["Port"]],
+                    "question": "Uniques Identifieres of Networks",
+                    "id": 675
+                }
+            }
+        }
     }
 }
