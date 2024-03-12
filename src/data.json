@@ -4633,6 +4633,245 @@
                     "id": 675
                 }
             }
+        },
+
+        "Module_2": {
+            "Types_of_Computer_Network": {
+                "answers": ["Local Area Network", "Wide Area Network", "Metropolitan Area Network", "Personal Area Network"],
+                "questions": [
+                    {
+                        "question": "LAN",
+                        "answer": ["Local Area Network"],
+                        "id": 676
+                    },
+                    
+                    {
+                        "question": "WAN",
+                        "answer": ["Wide Area Network"],
+                        "id": 677
+                    },
+                    
+                    {
+                        "question": "MAN",
+                        "answer": ["Metropolitan Area Network"],
+                        "id": 678
+                    },
+                    
+                    {
+                        "question": "PAN",
+                        "answer": ["Personal Area Network"],
+                        "id": 679
+                    }
+                ],
+        
+                "enumeration": {
+                    "answers": [["Local Area Network"], ["Wide Area Network"], ["Metropolitan Area Network"], ["Personal Area Network"]],
+                    "question": "Types of Computer Network",
+                    "id": 680
+                }
+            },
+
+            "Computer_Networks": {
+                "answers": ["Local Area Network", "Token Ring", "Ethernet", "Bluetooth", "Hotspot", "Fiber Distibuted Data Interface", "Wide Area Network", "Leased lines", "Frame relay", "Virtual Private Network", "Wireless WAN", "Satelite WAN", "Metropolitan Area Network", "Personal Area Network", "System-Area Network", "Passive Optical Local Area Network", "Home Area Network", "Enterprise Private Network", "Campus Area Network"],
+                "questions": [
+                    {
+                        "question": "It is a group of computer and peripheral devices which are connected in a limited area such as school, laboratory, home, and office building. It is a widely useful network for sharing resources like files, printers, games, and other application. It is a network which consists of less than 5000 interconnected devices across several buildings.",
+                        "answer": ["Local Area Network","LAN"],
+                        "id": 681
+                    },
+                    
+                    {
+                        "question": "It is a private network, so an outside regulatory body never controls it.",
+                        "answer": ["Local Area Network","LAN"],
+                        "id": 682
+                    },
+                    
+                    {
+                        "question": "Operates at a relaticely higher speed compare to other WAN systems.",
+                        "answer": ["Local Area Network","LAN"],
+                        "id": 683
+                    },
+                    
+                    {
+                        "question": "It is created by IBM in the 1980s. Each device in this network is linked to two toher devices, making a close loopm according to the logical ring topology of the network's connections.",
+                        "answer": ["Token Ring","Tokens Ring"],
+                        "id": 684
+                    },
+                    
+                    {
+                        "question": "It a sort of Local Are Network protool that is frequently used to link devices in a local network, including computers, servers, printers, and routers. It is the most commonly used LAN protocol globally and the default wired networking protocol in the majority of households, workplaces, and data centers.",
+                        "answer": ["Ethernet"],
+                        "id": 685
+                    },
+                    
+                    {
+                        "question": "It is a wireless communication technology that is often used for creating wireless LANs, as well as for connecting devices such as smartphones, laptops, and other peripherals.",
+                        "answer": ["Bluetooth"],
+                        "id": 686
+                    },
+                    
+                    {
+                        "question": "It creates a wireless access point that allows multiple devices to connect to a network and communicate with each other within a limited geographic area. This network can be used to share resources such as internet access, files, and printers among connected devices.",
+                        "answer": ["Hotspot"],
+                        "id": 687
+                    },
+                    
+                    {
+                        "question": "It can support high-speed data transfer rates and is commonly used in business networks.",
+                        "answer": ["Fiber Distibuted Data Interface","FDDI"],
+                        "id": 688
+                    },
+
+                    {
+                        "question": "It is spread across a large geographical area. WAN network system could be a connection of a LAN which connects with other LAN's using telephone lines and radio waves. It is mostly limited to an enterprise or an organization.",
+                        "answer": ["Wide Area Network","WAN"],
+                        "id": 689
+                    },
+                    
+                    {
+                        "question": "The software files will be shared among all the users; therefore, all can access to the latest files.",
+                        "answer": ["Wide Area Network","WAN"],
+                        "id": 690
+                    },
+                    
+                    {
+                        "question": "It may consist of multiple types of networks and network technologies, including public and private networks, wired and wireless networks, and different types of protocols.",
+                        "answer": ["Wide Area Network","WAN"],
+                        "id": 691
+                    },
+                    
+                    {
+                        "question": "This is a traditional point-to-point dedicated connection that provides a fixed bandwidth between two locations. It is commonly used for mission-critical applications that require reliable and secure connections.",
+                        "answer": ["Leased lines"],
+                        "id": 692
+                    },
+                    
+                    {
+                        "question": "This technology uses packet-switching to transmit data across a WAN. It provides a cost-effective alternative to leased lines and is often used for non-critical applications.",
+                        "answer": ["Frame relay"],
+                        "id": 693
+                    },
+                    
+                    {
+                        "question": "It is a secure, encrypted connection that allows remote users to access a private network over the public internet. It is commonly used for remote access and branch office connectivityis a secure, encrypted connection that allows remote users to access a private network over the public internet. It is commonly used for remote access and branch office connectivity.",
+                        "answer": ["Virtual Private Network","VPN"],
+                        "id": 694
+                    },
+                    
+                    {
+                        "question": "This technology uses wireless networks, such as cellular networks, to provide WAN connectivity. It is often used for mobile workers and IoT (Internet of Things) devices.",
+                        "answer": ["Wireless WAN"],
+                        "id": 695
+                    },
+                    
+                    {
+                        "question": "It uses satellites to provide connectivity to remote locations where terrestrial connections are not available or feasible. It is commonly used in industries such as oil and gas exploration, maritime, and aviation.",
+                        "answer": ["Satelite WAN"],
+                        "id": 696
+                    },
+
+                    {
+                        "question": "It consist of a computer network across an entire city, college campus, or a small region. This type of network is large than a LAN, which is mostly limited to a single building or site. Depending upon the type of configuration, this type of network allows you to cover an area from several miles to tens of miles.",
+                        "answer": ["Metropolitan Area Network","MAN"],
+                        "id": 697
+                    },
+                    
+                    {
+                        "question": "It mostly covers towns and cities in a maximum 50 km range.",
+                        "answer": ["Metropolitan Area Network","MAN"],
+                        "id": 698
+                    },
+                    
+                    {
+                        "question": "It may be owned and operated by a single organization, such as a corporation or a government agency, or it may be a consortium of several organizations.",
+                        "answer": ["Metropolitan Area Network","MAN"],
+                        "id": 699
+                    },
+                    
+                    {
+                        "question": "It is a computer network formed around a person. It generally consists of a computer, mobile, or personal digital assistant. It can be used for establishing communication among these personal devices for connecting to a digital network and the internet.",
+                        "answer": ["Personal Area Network","PAN"],
+                        "id": 700
+                    },
+                    
+                    {
+                        "question": "It is used for a local network. It offers high-speed connection in server-toserver and processor-to-processor applications.",
+                        "answer": ["System-Area Network","SAN"],
+                        "id": 701
+                    },
+                    
+                    {
+                        "question": "is a networking technology which helps you to integrate into structured cabling. It allows you to resolve the issues of supporting Ethernet protocols and network apps. It allows you to use optical splitter which helps you to separate an optical signal from a single-mode optical fiber. It converts this single signal into multiple signals.",
+                        "answer": ["Passive Optical Local Area Network","POLAN"],
+                        "id": 702
+                    },
+                    
+                    {
+                        "question": "It is always built using two or more interconnected computers to form a local area network (LAN) within the home. For example, in the United States, about 15 million homes have more than one computer. - This type of network helps computer owners to interconnect with multiple computers. This network allows sharing files, programs, printers, and other peripherals.",
+                        "answer": ["Home Area Network","HAN"],
+                        "id": 703
+                    },
+                    
+                    {
+                        "question": "Networks are built and owned by businesses that want to securely connect numerous locations in order to share various computer resources.",
+                        "answer": ["Enterprise Private Network","EPN"],
+                        "id": 704
+                    },
+                    
+                    {
+                        "question": "It is made up of an interconnection of LANs within a specific geographical area. For example, a university campus can be linked with a variety of campus buildings to connect all the academic departments.",
+                        "answer": ["Campus Area Network","CAN"],
+                        "id": 705
+                    }
+                ],
+        
+                "enumeration": {
+                    "answers": [],
+                    "question": "",
+                    "id": 0
+                }
+            },
+
+            "Types_of_Server": {
+                "answers": ["File Server", "Printer Server", "Application Server", "Message Server", "Database Server"],
+                "questions": [
+                    {
+                        "question": "These servers provide the services for storing, retrieving and moving the data. A user can read, write, exchange and manage the files with the help of file servers.",
+                        "answer": ["File Server","Files Server"],
+                        "id": 706
+                    },
+                    
+                    {
+                        "question": "This is used for controlling and managing printing on the network. It also offers the fax service to the network users.",
+                        "answer": ["Printer Server"],
+                        "id": 707
+                    },
+                    
+                    {
+                        "question": "The expensive software and additional computing power can be shared by the computers in a network with the help of application servers.",
+                        "answer": ["Application Server"],
+                        "id": 708
+                    },
+                    
+                    {
+                        "question": "It is used to co-ordinate the interaction between users, documents and applications. The data can be used in the form of audio, video, binary, text or graphic.",
+                        "answer": ["Message Server","Message Servers","Messages Server"],
+                        "id": 709
+                    },
+                    
+                    {
+                        "question": "It is a type of application server. This server, manages data in a centralized location, and allows users to interact with the data through applications or other devices that connect to the server.",
+                        "answer": ["Database Server","Database Servers","Databases Servers"],
+                        "id": 710
+                    }
+                ],
+        
+                "enumeration": {
+                    "answers": [["File Server","Files Server"], ["Printer Server"], ["Application Server"], ["Message Server","Message Servers","Messages Server"], ["Database Server","Database Servers","Databases Servers"]],
+                    "question": "Types of servers",
+                    "id": 711
+                }
+            }
         }
     }
 }
