@@ -1,4 +1,347 @@
 {
+    "HCI_2": {
+        "Module_1": {
+            "User_Experience": {
+                "answers": ["User experience", "User Experience Design"],
+                "questions": [
+                   {
+                      "question": "The totality of effects felt by the user before, during, and after interaction with the product or system in an ecology.",
+                      "answer": ["User experience", "UX"],
+                      "id": 712
+                   },
+             
+                   {
+                      "question": "It is the process of creating products and services that are easy to use, enjoyable to use, and meet the nees of the users.",
+                      "answer": ["User Experience Design", "User Experience Design (UXD)", "UXD"],
+                      "id": 713
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["User experience", "UX"], ["User Experience Design", "User Experience Design (UXD)", "UXD"]],
+                   "question": "User_Experience", 
+                   "id": 764
+                }
+             },
+             
+             "Components of User Experience": {
+                "answers": ["Usability", "Usefullness", "Emotional impact", "Meaningfulness"],
+                "questions": [
+                   {
+                      "question": "Productivity, efficiency, ease of use, learnability.",
+                      "answer": ["Usability", "Usabilities"],
+                      "id": 715
+                   },
+             
+                   {
+                      "question": "Ability touse system or product to accomplish goals of work.",
+                      "answer": ["Usefullness"],
+                      "id": 716
+                   },
+             
+                   {
+                      "question": "Affective components of user experience and user feeling, user satisfaction.",
+                      "answer": ["Emotional impact", "Emotional impacts"],
+                      "id": 717
+                   },
+             
+                   {
+                      "question": "Long-term personal relationship with product.",
+                      "answer": ["Meaningfulness"],
+                      "id": 718
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Usability", "Usabilities"], ["Usefullness"], ["Emotional impact", "Emotional impacts"], ["Meaningfulness"]],
+                   "question": "Components of User Experience", 
+                   "id": 765
+                }
+             },
+             
+             "The Need For Process": {
+                "answers": ["Process"],
+                "questions": [
+                   {
+                      "question": "It is a systematic and organized series of steps, actions, or activities to achieve a specific goal or outcome.",
+                      "answer": ["Process"],
+                      "id": 720
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Process"]],
+                   "question": "The Need For Process", 
+                   "id": 766
+                }
+             },
+             
+             "The Basic Process Components for UX": {
+                "answers": ["UX Design Lifecycle", "UX Lifecycle Activities", "UX Design Lifecycle Process", "Lifecycle Subactivities", "UX Methods", "UX Techniques"],
+                "questions": [
+                   {
+                      "question": "A cycle represent the life of a UX design, from its inception to deployment and beyond.",
+                      "answer": ["UX Design Lifecycle"],
+                      "id": 722
+                   },
+             
+                   {
+                      "question": "High-level tasks or actions performed during the UX design lifecycle.",
+                      "answer": ["UX Lifecycle Activities"],
+                      "id": 723
+                   },
+             
+                   {
+                      "question": "A representation of how lifecycle activities are sequenced over time, illustrating the flow of the process.",
+                      "answer": ["UX Design Lifecycle Process"],
+                      "id": 724
+                   },
+             
+                   {
+                      "question": "Tasks performed within a single lifecycle activity.",
+                      "answer": ["Lifecycle Subactivities"],
+                      "id": 725
+                   },
+             
+                   {
+                      "question": "Ways to carry out the whole or part of a given lifecycle or subactivity.",
+                      "answer": ["UX Methods", "UX Method"],
+                      "id": 726
+                   },
+             
+                   {
+                      "question": "Specific detailed practices employed to perfoem a step within an activity, subactivity, or method.",
+                      "answer": ["UX Techniques", "UX Technique"],
+                      "id": 727
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["UX Design Lifecycle"], ["UX Lifecycle Activities"], ["UX Design Lifecycle Process"], ["Lifecycle Subactivities"], ["UX Methods", "UX Method"], ["UX Techniques", "UX Technique"]],
+                   "question": "The Basic Process Components for UX", 
+                   "id": 767
+                }
+             },
+             
+             "The Whell: A Model of the UX Lifecycle": {
+                "answers": ["The Wheel", "Design solution", "Urderstand need", "Prototype candidates", "Evaluate UX"],
+                "questions": [
+                   {
+                      "question": "A UX lifecycle template that includes fedback and iteration, resembling a wheel that brings you closer to your destination with each rotation.",
+                      "answer": ["The Wheel"],
+                      "id": 729
+                   },
+             
+                   {
+                      "question": "Create design concept",
+                      "answer": ["Design solution"],
+                      "id": 730
+                   },
+             
+                   {
+                      "question": "Understand user work and needs",
+                      "answer": ["Urderstand need"],
+                      "id": 731
+                   },
+             
+                   {
+                      "question": "Realize design",
+                      "answer": ["Prototype candidates"],
+                      "id": 732
+                   },
+             
+                   {
+                      "question": "Verify and refine design",
+                      "answer": ["Evaluate UX"],
+                      "id": 733
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["The Wheel"], ["Design solution"], ["Urderstand need"], ["Prototype candidates"], ["Evaluate UX"]],
+                   "question": "The Whell: A Model of the UX Lifecycle", 
+                   "id": 768
+                }
+             },
+             
+             "The fundamental UX Lifecycle activities": {
+                "answers": ["Understand needs", "Design Solutions", "Prototyping", "Evaluate UX Lifecycle Activity"],
+                "questions": [
+                   {
+                      "question": "It is a lifecycle activity used to understand the business domain, usersm work practice, usage, and the overall subject-matter domain.",
+                      "answer": ["Understand needs", "Understand need"],
+                      "id": 735
+                   },
+             
+                   {
+                      "question": "It is perhaps the most important lifecycle activity and the one with the broadest purview.",
+                      "answer": ["Design Solutions", "Design Solution"],
+                      "id": 736
+                   },
+             
+                   {
+                      "question": "It is a full-fledged lifecycle activity to realize and envision promising design candidates. The main subactivity is to create representation of design .",
+                      "answer": ["Prototyping"],
+                      "id": 737
+                   },
+             
+                   {
+                      "question": "This activity is about verifying and refining the UX design to ensure we are getting the design right.",
+                      "answer": ["Evaluate UX Lifecycle Activity", "The Evaluate UX Lifecycle Activity"],
+                      "id": 738
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Understand needs", "Understand need"], ["Design Solutions", "Design Solution"], ["Prototyping"], ["Evaluate UX Lifecycle Activity", "The Evaluate UX Lifecycle Activity"]],
+                   "question": "The fundamental UX Lifecycle activities", 
+                   "id": 769
+                }
+             },
+             
+             "The four basic UX lifecycle activities": {
+                "answers": ["Understand needs", "Design solution", "Prototype candidates", "Evaluate UX"],
+                "questions": [
+                   {
+                      "question": "To udnerstand users, work, practice, usage, the subject-matter domain, and, ultimately, needs for the design.",
+                      "answer": ["Understand needs", "Understand need"],
+                      "id": 740
+                   },
+             
+                   {
+                      "question": "To create designs as solutions",
+                      "answer": ["Design solution", "Design solutions"],
+                      "id": 741
+                   },
+             
+                   {
+                      "question": "To realize and envision promising design candidates.",
+                      "answer": ["Prototype candidates"],
+                      "id": 742
+                   },
+             
+                   {
+                      "question": "To verify and refine designs with respect to the user experience they afford.",
+                      "answer": ["Evaluate UX"],
+                      "id": 743
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Understand needs", "Understand need"], ["Design solution", "Design solutions"], ["Prototype candidates"], ["Evaluate UX"]],
+                   "question": "The four basic UX lifecycle activities", 
+                   "id": 770
+                }
+             },
+             
+             "The_Understand_Needs_UX_Lifecycle_Activity": {
+                "answers": ["Data elicitation", "Data analysis", "Data modeling", "Requirements extraction"],
+                "questions": [
+                   {
+                      "question": "Interview and observation users at work and gather data about work practice, users, usage, and needs.",
+                      "answer": ["Data elicitation", "Data elicitations"],
+                      "id": 745
+                   },
+             
+                   {
+                      "question": "Distill and organize usage research data.",
+                      "answer": ["Data analysis"],
+                      "id": 746
+                   },
+             
+                   {
+                      "question": "Create a representations of user characteristics, information flow, tasks, and work environments",
+                      "answer": ["Data modeling"],
+                      "id": 747
+                   },
+             
+                   {
+                      "question": "Codify needs and requirements.",
+                      "answer": ["Requirements extraction"],
+                      "id": 748
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Data elicitation", "Data elicitations"], ["Data analysis"], ["Data modeling"], ["Requirements extraction"]],
+                   "question": "The_Understand_Needs_UX_Lifecycle_Activity", 
+                   "id": 771
+                }
+             },
+             
+             "The_Design_Solutions_UX_Lifecycle_Activities": {
+                "answers": ["Generative Design", "Conceptual Design", "Intermediate design", "Design production"],
+                "questions": [
+                   {
+                      "question": "In this activity, designers engage in ideation and sketching to create various design ideas.",
+                      "answer": ["Generative Design"],
+                      "id": 750
+                   },
+             
+                   {
+                      "question": "This subactiity involves creting mental models, system models, and storyboards to flesh out the design concepts.",
+                      "answer": ["Conceptual Design"],
+                      "id": 751
+                   },
+             
+                   {
+                      "question": "In this subactivity, designers develop ecological, interaction, and emotional design plans for the most promising candidates.",
+                      "answer": ["Intermediate design"],
+                      "id": 752
+                   },
+             
+                   {
+                      "question": "This subactivity focuses on specifying detailed design plans for implementing the selected design.",
+                      "answer": ["Design production"],
+                      "id": 753
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Generative Design"], ["Conceptual Design"], ["Intermediate design"], ["Design production"]],
+                   "question": "The_Design_Solutions_UX_Lifecycle_Activities", 
+                   "id": 772
+                }
+             },
+             
+             "The_Prototype_Candidates_UX_Lifecycle_Activity": {
+                "answers": [],
+                "questions": [
+
+                ],
+             
+                "enumeration": {
+                   "answers": [["Paper prototypes", "Paper prototype"], ["Wireframe and wireflows", "Wireframe and wireflow"], ["Click-through wireframe prototype", "Click-through wireframe prototypes"], ["Physical prototype", "Physical prototypes"]],
+                   "question": "The_Prototype_Candidates_UX_Lifecycle_Activity", 
+                   "id": 773
+                }
+             },
+             
+             "The_Evaluate_UX_Lifecycle_Activity": {
+                "answers": ["Collect evaluation data", "Analyze evaluation data", "Propose redesign solutions", "Report results"],
+                "questions": [
+                   {
+                      "question": "Evaluate designs with empirical or analytic methods to simulate or uderstand usage and produce evaluation data.",
+                      "answer": ["Collect evaluation data"],
+                      "id": 760
+                   },
+             
+                   {
+                      "question": "For identifying critical incidents, root causes.",
+                      "answer": ["Analyze evaluation data"],
+                      "id": 761
+                   }
+                ],
+             
+                "enumeration": {
+                   "answers": [["Collect evaluation data"], ["Analyze evaluation data"], ["Propose redesign solutions"], ["Report results"]],
+                   "question": "The_Evaluate_UX_Lifecycle_Activity", 
+                   "id": 774
+                }
+             }
+        }
+    },
+
     "HCI": {
         "Chapter_1": {
             "Definition_of_HCI": {
@@ -4418,18 +4761,18 @@
     "NETWORKING": {
         "Module_1": {
             "Basic_of_Computer_Network": {
-                "answers": ["Computer systems", "Hardware", "Software"],
+                "answers": ["Computer networks", "Hardware", "Software"],
                 "questions": [
 
                     {
                         "question": "It is a group of two or more interconnected computer systems.",
-                        "answer": ["Computer systems","Computer system","Computers systems","Computers system"],
+                        "answer": ["Computer networks","Computer network","Computers networks","Computers network"],
                         "id": 645
                     },
                     
                     {
                         "question": "It is defined as the interconnection of two or more computers.",
-                        "answer": ["Computer systems","Computer system","Computers systems","Computers system"],
+                        "answer": ["Computer networks","Computer network","Computers networks","Computers network"],
                         "id": 646
                     },
                     
